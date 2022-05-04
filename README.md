@@ -2,19 +2,22 @@
 
 This should be an up to date (assuming I'm still maintaining it) pair of data files for Galuhad's [Item Treasury](https://www.lotrointerface.com/downloads/info870-ItemTreasury.html) plugin.
 
-```
-Date         Update       Additions    Changes      Removals
------------  -----------  -----------  -----------  -----------
-2022-04-20   33_0_0       -            -            -
-2022-04-27   33_0_1       -            2            -
-```
-
 ## How to install
 Add `Items.lua` and `NewItems.lua` to `Documents\The Lord of the Rings Online\Plugins\GaluhadPlugins\ItemTreasury`
 
-In the same folder, open `Main.lua` and make the following changes:
+In the same folder, open `Main.lua` and change the following from:
 ```
-Before                                    After
------------                               -----------
-import (PLUGINDIR..".33_0_Items");        import (PLUGINDIR..".Items");
-import (PLUGINDIR..".33_0_NewItems");     import (PLUGINDIR..".NewItems");
+import (PLUGINDIR..".33_0_Items");
+import (PLUGINDIR..".33_0_NewItems");
+```
+to:
+```
+import (PLUGINDIR..".Items");
+import (PLUGINDIR..".NewItems");
+```
+
+## History
+| Date          | Update        | Additions     | Changes       | Removals      | Diff                                                                      |
+| :------------ | :------------ | :------------ | :------------ | :------------ | :------------------------------------------------------------------------ |
+| 2022-04-27    | 33_0_1        | -             | 2             | -             | [733520a](https://github.com/dt192/item-treasury-database/commit/733520a) |
+| 2022-05-04    | 33_0_2        | 1             | -             | -             | [e754c9a](https://github.com/dt192/item-treasury-database/commit/e754c9a) |
