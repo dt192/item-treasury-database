@@ -37,3 +37,4 @@ import (PLUGINDIR..".NewItems");
 | 2022-04-27    | 33_0_1        | -             | 2             | -             | [733520a](https://github.com/dt192/item-treasury-database/commit/733520a) |
 | 2022-05-04    | 33_0_2        | 1             | -             | -             | [e754c9a](https://github.com/dt192/item-treasury-database/commit/e754c9a) |
 | 2022-05-11    | 33_0_3        | 3             | 1             | -             | [1355569](https://github.com/dt192/item-treasury-database/commit/1355569) |
+| 2022-05-18    | 33_0_4        | 3             | 9             | -             | [66aac7d](https://github.com/dt192/item-treasury-database/commit/66aac7d) |
