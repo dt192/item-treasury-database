@@ -7,8 +7,8 @@ Add `Items.lua` and `NewItems.lua` to `Documents\The Lord of the Rings Online\Pl
 
 In the same folder, open `Main.lua` and change the following from:
 ```
-import (PLUGINDIR..".33_0_Items");
-import (PLUGINDIR..".33_0_NewItems");
+import (PLUGINDIR..".33_0_5_Items");
+import (PLUGINDIR..".33_0_5_NewItems");
 ```
 to:
 ```
@@ -36,6 +36,7 @@ See [minor branch](https://github.com/dt192/item-treasury-database/tree/minor) f
 ## History (newest first)
 | Date          | Update        | Additions     | Changes       | Removals      | Diff                                                                      |
 | :------------ | :------------ | :------------ | :------------ | :------------ | :------------------------------------------------------------------------ |
+| 2022-09-21    | 33_2_0        | 43            | 339           | -             | [33c560d](https://github.com/dt192/item-treasury-database/commit/33c560d) |
 | 2022-07-20    | 33_1_0        | 349           | 83            | -             | [3491656](https://github.com/dt192/item-treasury-database/commit/3491656) |
 | 2022-05-25    | 33_0_5        | 3             | 6             | -             | [f6989f6](https://github.com/dt192/item-treasury-database/commit/f6989f6) |
 | 2022-05-18    | 33_0_4        | 3             | 9             | -             | [66aac7d](https://github.com/dt192/item-treasury-database/commit/66aac7d) |
