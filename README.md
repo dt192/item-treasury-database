@@ -39,3 +39,4 @@ See [patch branch](https://github.com/dt192/item-treasury-database/tree/patch) f
 | 2022-11-15    | 34_0_0        | 1398          | 418           | -             | [47eb6d1](https://github.com/dt192/item-treasury-database/commit/47eb6d1) |
 | 2022-09-21    | 33_2_0        | 43            | 339           | -             | [0282414](https://github.com/dt192/item-treasury-database/commit/0282414) |
 | 2022-07-20    | 33_1_0        | 359           | 101           | -             | [c5e9099](https://github.com/dt192/item-treasury-database/commit/c5e9099) |
+| 2022-04-20    | 33_0_0        | -             | -             | -             | [d274449](https://github.com/dt192/item-treasury-database/commit/d274449) |
