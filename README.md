@@ -2,4 +2,39 @@
 
 This should be an up to date (assuming I'm still maintaining it) pair of data files for Galuhad's [Item Treasury](https://www.lotrointerface.com/downloads/info870-ItemTreasury.html) plugin.
 
-Initial upload: 2022-04-20 - Update 33_0_0
+## How to install
+Add `Items.lua` and `NewItems.lua` to `Documents\The Lord of the Rings Online\Plugins\GaluhadPlugins\ItemTreasury`
+
+In the same folder, open `Main.lua` and change the following from:
+```
+import (PLUGINDIR..".33_0_5_Items");
+import (PLUGINDIR..".33_0_5_NewItems");
+```
+to:
+```
+import (PLUGINDIR..".Items");
+import (PLUGINDIR..".NewItems");
+```
+
+## Structure
+```
+[(number)ItemID] = {
+	[1] = (string)Name;
+	[2] = (string)Description;
+	[3] = (number)Category;
+	[4] = (number)Quality;
+	[5] = (number)Durability;
+	[6] = (boolean)IsMagic;
+	[7] = (boolean)IsUnique;
+	[8] = (number)IconImageID;
+	[9] = (number)BackgroundImageID;
+};
+```
+
+See [patch branch](https://github.com/dt192/item-treasury-database/tree/patch) for changes between patches.
+
+## History (newest first)
+| Date          | Update        | Additions     | Changes       | Removals      | Diff                                                                      |
+| :------------ | :------------ | :------------ | :------------ | :------------ | :------------------------------------------------------------------------ |
+| 2022-11-15    | 34_0_0        | 1800          | 846           | -             | [9e9466d](https://github.com/dt192/item-treasury-database/commit/9e9466d) |
+| 2022-04-20    | 33_0_0        | -             | -             | -             | [d274449](https://github.com/dt192/item-treasury-database/commit/d274449) |
