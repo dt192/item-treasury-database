@@ -36,6 +36,7 @@ See [minor branch](https://github.com/dt192/item-treasury-database/tree/minor) f
 ## History (newest first)
 | Date          | Update        | Additions     | Changes       | Removals      | Diff                                                                      |
 | :------------ | :------------ | :------------ | :------------ | :------------ | :------------------------------------------------------------------------ |
+| 2022-11-30    | 34_0_1        | 11            | 11            | -             | [51dd4ca](https://github.com/dt192/item-treasury-database/commit/51dd4ca) |
 | 2022-11-15    | 34_0_0        | 1398          | 418           | -             | [b79cc84](https://github.com/dt192/item-treasury-database/commit/b79cc84) |
 | 2022-09-21    | 33_2_0        | 43            | 339           | -             | [33c560d](https://github.com/dt192/item-treasury-database/commit/33c560d) |
 | 2022-07-20    | 33_1_0        | 349           | 83            | -             | [3491656](https://github.com/dt192/item-treasury-database/commit/3491656) |
