@@ -2,7 +2,7 @@
 
 This should be an up to date (assuming I'm still maintaining it) pair of data files for Galuhad's [Item Treasury](https://www.lotrointerface.com/downloads/info870-ItemTreasury.html) plugin.
 
-## How to install
+## How to install manually
 Add `Items.lua` and `NewItems.lua` to `Documents\The Lord of the Rings Online\Plugins\GaluhadPlugins\ItemTreasury`
 
 `RuItems.lua` is only needed if running the [Russian version](https://github.com/william-aqn/item-treasury/tree/main/GaluhadPlugins/ItemTreasury) and will go in the same folder as above.
@@ -17,6 +17,13 @@ to:
 import (PLUGINDIR..".Items");
 import (PLUGINDIR..".NewItems");
 ```
+
+## How to install via a powershell script
+William has provided a script to make the above changes automatically.
+
+Add `update_en.cmd` and `_update_en.ps1` to `Documents\The Lord of the Rings Online\Plugins\GaluhadPlugins\ItemTreasury` and run `update_en.cmd`.
+
+The Russian version of the scripts can be found on [William's GitHub](https://github.com/william-aqn/item-treasury/tree/main/GaluhadPlugins/ItemTreasury).
 
 ## Structure
 ```
