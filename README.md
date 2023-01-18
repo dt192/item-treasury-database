@@ -5,6 +5,8 @@ This should be an up to date (assuming I'm still maintaining it) pair of data fi
 ## How to install
 Add `Items.lua` and `NewItems.lua` to `Documents\The Lord of the Rings Online\Plugins\GaluhadPlugins\ItemTreasury`
 
+`RuItems.lua` is only needed if running the [Russian version](https://github.com/william-aqn/item-treasury/tree/main/GaluhadPlugins/ItemTreasury) and will go in the same folder as above.
+
 In the same folder, open `Main.lua` and change the following from:
 ```
 import (PLUGINDIR..".33_0_5_Items");
