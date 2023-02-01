@@ -5,9 +5,7 @@ This should be an up to date (assuming I'm still maintaining it) pair of data fi
 ## How to install manually
 Add `Items.lua` and `NewItems.lua` to `Documents\The Lord of the Rings Online\Plugins\GaluhadPlugins\ItemTreasury`
 
-`RuItems.lua` is only needed if running the [Russian version](https://github.com/william-aqn/item-treasury/tree/main/GaluhadPlugins/ItemTreasury) and will go in the same folder as above.
-
-In the same folder, open `Main.lua` and change the following from:
+In the same folder, open `Main.lua` and remove the version numbers from the two imports e.g.:
 ```
 import (PLUGINDIR..".33_0_5_Items");
 import (PLUGINDIR..".33_0_5_NewItems");
@@ -17,6 +15,8 @@ to:
 import (PLUGINDIR..".Items");
 import (PLUGINDIR..".NewItems");
 ```
+
+`RuItems.lua` is only needed if running the [Russian version](https://github.com/william-aqn/item-treasury/tree/main/GaluhadPlugins/ItemTreasury) and will go in the same folder as above.
 
 ## How to install via a powershell script
 William has provided a script to make the above changes automatically.
@@ -45,6 +45,7 @@ See [minor branch](https://github.com/dt192/item-treasury-database/tree/minor) f
 ## History (newest first)
 | Date          | Update        | Additions     | Changes       | Removals      | Diff                                                                      |
 | :------------ | :------------ | :------------ | :------------ | :------------ | :------------------------------------------------------------------------ |
+| 2023-02-01    | 34_2_0        | 17            | 9             | -             | [bf6868b](https://github.com/dt192/item-treasury-database/commit/bf6868b) |
 | 2023-01-11    | 34_1_2        | 9             | 10            | -             | [98af557](https://github.com/dt192/item-treasury-database/commit/98af557) |
 | 2022-12-14    | 34_1_1        | 21            | 4             | -             | [e158849](https://github.com/dt192/item-treasury-database/commit/e158849) |
 | 2022-12-07    | 34_1_0        | 22            | 24            | -             | [0b44dd1](https://github.com/dt192/item-treasury-database/commit/0b44dd1) |
