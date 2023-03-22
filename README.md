@@ -36,5 +36,6 @@ See [patch branch](https://github.com/dt192/item-treasury-database/tree/patch) f
 ## History (newest first)
 | Date          | Update        | Additions     | Changes       | Removals      | Diff                                                                      |
 | :------------ | :------------ | :------------ | :------------ | :------------ | :------------------------------------------------------------------------ |
+| 2023-03-22    | 35_0_0        | 1036          | 1831          | 93            | [c650d80](https://github.com/dt192/item-treasury-database/commit/c650d80) |
 | 2022-11-15    | 34_0_0        | 1800          | 846           | -             | [9e9466d](https://github.com/dt192/item-treasury-database/commit/9e9466d) |
 | 2022-04-20    | 33_0_0        | -             | -             | -             | [d274449](https://github.com/dt192/item-treasury-database/commit/d274449) |
