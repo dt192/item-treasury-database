@@ -40,11 +40,12 @@ The Russian version of the scripts can be found on [William's GitHub](https://gi
 };
 ```
 
-See [minor branch](https://github.com/dt192/item-treasury-database/tree/minor) for changes between minor updates.
+See [major branch](https://github.com/dt192/item-treasury-database/tree/major) for changes between major game updates.
 
 ## History (newest first)
 | Date          | Update        | Additions     | Changes       | Removals      | Diff                                                                      |
 | :------------ | :------------ | :------------ | :------------ | :------------ | :------------------------------------------------------------------------ |
+| 2023-03-22    | 35_0_0        | 940           | 1774          | 70            | [06cdaeb](https://github.com/dt192/item-treasury-database/commit/06cdaeb) |
 | 2023-03-08    | 34_3_0        | 16            | 4             | -             | [0d4c4b1](https://github.com/dt192/item-treasury-database/commit/0d4c4b1) |
 | 2023-02-08    | 34_2_1        | -             | -             | -             |                                                                           |
 | 2023-02-01    | 34_2_0        | 17            | 9             | -             | [bf6868b](https://github.com/dt192/item-treasury-database/commit/bf6868b) |
