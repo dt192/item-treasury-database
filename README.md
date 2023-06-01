@@ -5,7 +5,8 @@ This should be an up to date (assuming I'm still maintaining it) pair of data fi
 ---
 
 ## How to install manually
-Add `Items.lua` and `NewItems.lua` to `Documents\The Lord of the Rings Online\Plugins\GaluhadPlugins\ItemTreasury`
+Add `Items.lua` and `NewItems.lua` to:<br/>
+`Documents\The Lord of the Rings Online\Plugins\GaluhadPlugins\ItemTreasury`
 
 <details>
   <summary>If using a version of Item Treasury prior to Update 36, see extra step. (click to expand)</summary>
