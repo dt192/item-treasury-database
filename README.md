@@ -2,10 +2,20 @@
 
 This should be an up to date (assuming I'm still maintaining it) pair of data files for Galuhad's [Item Treasury](https://www.lotrointerface.com/downloads/info870-ItemTreasury.html) plugin.
 
-## How to install
-Add `Items.lua` and `NewItems.lua` to `Documents\The Lord of the Rings Online\Plugins\GaluhadPlugins\ItemTreasury`
+---
 
-In the same folder, open `Main.lua` and change the following from:
+## How to install manually
+Add `Items.lua` and `NewItems.lua` to:<br/>
+`Documents\The Lord of the Rings Online\Plugins\GaluhadPlugins\ItemTreasury`
+
+<details>
+  <summary>If using a version of Item Treasury prior to Update 36, see extra step. (click to expand)</summary>
+
+<blockquote>
+	
+<br/>
+	
+In the same folder, open `Main.lua` and remove the version numbers from the two imports e.g.:
 ```
 import (PLUGINDIR..".33_0_5_Items");
 import (PLUGINDIR..".33_0_5_NewItems");
@@ -15,6 +25,12 @@ to:
 import (PLUGINDIR..".Items");
 import (PLUGINDIR..".NewItems");
 ```
+	
+</blockquote>
+	
+</details>
+
+---
 
 ## Structure
 ```
@@ -31,7 +47,11 @@ import (PLUGINDIR..".NewItems");
 };
 ```
 
+---
+
 See [patch branch](https://github.com/dt192/item-treasury-database/tree/patch) for changes between patches.
+
+---
 
 ## History (newest first)
 | Date          | Update        | Additions     | Changes       | Removals      | Diff                                                                      |
