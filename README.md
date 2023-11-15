@@ -56,7 +56,9 @@ See [patch branch](https://github.com/dt192/item-treasury-database/tree/patch) f
 ## History (newest first)
 | Date          | Update        | Additions     | Changes       | Removals      | Diff                                                                      |
 | :------------ | :------------ | :------------ | :------------ | :------------ | :------------------------------------------------------------------------ |
-| 2023-05-31    | 36_0_0        | 701           | 778           | 18            | [8ed7296](https://github.com/dt192/item-treasury-database/commit/8ed7296) |
-| 2023-03-22    | 35_0_0        | 1036          | 1831          | 93            | [c650d80](https://github.com/dt192/item-treasury-database/commit/c650d80) |
-| 2022-11-15    | 34_0_0        | 1800          | 846           | -             | [9e9466d](https://github.com/dt192/item-treasury-database/commit/9e9466d) |
-| 2022-04-20    | 33_0_0        | -             | -             | -             | [d274449](https://github.com/dt192/item-treasury-database/commit/d274449) |
+| 2023-11-08    | 38.0.0        | 4282          | 591           | 7             | [7c0f3ce](https://github.com/dt192/item-treasury-database/commit/7c0f3ce3091ddd9eda534e7419a89a19b2fc5fb2) |
+| 2023-08-29    | 37.0.0        | 758           | 902           | 73            | [e37acac](https://github.com/dt192/item-treasury-database/commit/e37acace3669ee46377c9f73d3b8a6270467689d) |
+| 2023-05-31    | 36.0.0        | 701           | 778           | 18            | [8ed7296](https://github.com/dt192/item-treasury-database/commit/8ed72961683a195140c0e73c168f0e9c465b9a55) |
+| 2023-03-22    | 35.0.0        | 1036          | 1831          | 93            | [c650d80](https://github.com/dt192/item-treasury-database/commit/c650d80f61cc9699e0add5ef4ae7fb039faae73f) |
+| 2022-11-15    | 34.0.0        | 1800          | 846           | -             | [9e9466d](https://github.com/dt192/item-treasury-database/commit/9e9466d1a4156e406a9950dcbd1fb7b59c6d5706) |
+| 2022-04-20    | 33.0.0        | -             | -             | -             | [d274449](https://github.com/dt192/item-treasury-database/commit/d2744492a88274b75609246c2a1b128442b1b616) |
