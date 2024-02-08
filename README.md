@@ -67,6 +67,7 @@ See [major branch](https://github.com/dt192/item-treasury-database/tree/major) f
 ## History (newest first)
 | Date          | Update        | Additions     | Changes       | Removals      | Diff                                                                      |
 | :------------ | :------------ | :------------ | :------------ | :------------ | :------------------------------------------------------------------------ |
+| 2024-02-07    | 38.3.0        | 89            | 70            | -             | [777a3ad](https://github.com/dt192/item-treasury-database/commit/777a3adf423e6c9a5f701f419e67bb9556ce25b7) |
 | 2024-01-17    | 38.2.1        | -             | -             | -             |                                                                           |
 | 2024-01-10    | 38.2.0        | 17            | 36            | -             | [6a0ba48](https://github.com/dt192/item-treasury-database/commit/6a0ba48dc6853463207cea5a6f362b9d4fd8c9dd) |
 | 2023-12-13    | 38.1.1        | 357           | 68            | 10            | [85d6430](https://github.com/dt192/item-treasury-database/commit/85d64302f5d8055c1be7ee2075ff2d59d4011b44) |
@@ -105,3 +106,4 @@ See [major branch](https://github.com/dt192/item-treasury-database/tree/major) f
 | 2022-05-04    | 33.0.2        | 1             | -             | -             | [e754c9a](https://github.com/dt192/item-treasury-database/commit/e754c9af700ca76bc8e45a84f11914ad485f2180) |
 | 2022-04-27    | 33.0.1        | -             | 2             | -             | [733520a](https://github.com/dt192/item-treasury-database/commit/733520a247b5e2a95fc377b7daf0d2caf7856a64) |
 | 2022-04-20    | 33.0.0        | -             | -             | -             | [d274449](https://github.com/dt192/item-treasury-database/commit/d2744492a88274b75609246c2a1b128442b1b616) |
+
