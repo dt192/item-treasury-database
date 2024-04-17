@@ -1,5 +1,43 @@
-NEWVERSION =  "39.1.2";
+NEWVERSION =  "39.2.0";
 
 _NEWITEMS =
 {
+[1879482666]={[1]="Seventeen-Year Frame";[2]="This item, when used, will grant you a new portrait frame.";[3]=205;[4]=5;[5]=0;[6]=false;[7]=true;[8]=0x410031A0;[9]=0x41105CB5;};
+[1879482668]={[1]="Seventeen-Year Frame";[2]="This item, when used, will grant you a new portrait frame.";[3]=205;[4]=5;[5]=0;[6]=false;[7]=true;[8]=0x410031A0;[9]=0x41105CB5;};
+[1879485234]={[1]="Whimsically Robed Tunic and Leggings";[2]="";[3]=182;[4]=5;[5]=6;[6]=false;[7]=false;[8]=0x412505C8;[9]=0x410DD1B3;};
+[1879485235]={[1]="Whimsical Mantle";[2]="";[3]=181;[4]=5;[5]=6;[6]=false;[7]=false;[8]=0x412505CC;[9]=0x410DD1B3;};
+[1879485236]={[1]="Outfit of the Green Dragon Inn";[2]="";[3]=182;[4]=5;[5]=6;[6]=false;[7]=false;[8]=0x412505CA;[9]=0x410DD1B3;};
+[1879485237]={[1]="Whimsical Cap";[2]="";[3]=183;[4]=5;[5]=6;[6]=false;[7]=false;[8]=0x412505CB;[9]=0x410DD1B3;};
+[1879485238]={[1]="Hat of the Green Dragon Inn";[2]="";[3]=183;[4]=5;[5]=6;[6]=false;[7]=false;[8]=0x412505C9;[9]=0x410DD1B3;};
+[1879485239]={[1]="Whimsical Boots";[2]="";[3]=180;[4]=5;[5]=6;[6]=false;[7]=false;[8]=0x412505C7;[9]=0x410DD1B3;};
+[1879485240]={[1]="Pack of Whimsy";[2]="";[3]=97;[4]=5;[5]=6;[6]=false;[7]=false;[8]=0x412505CD;[9]=0x410DD1B3;};
+[1879485241]={[1]="Whimsical Gauntlets";[2]="";[3]=184;[4]=5;[5]=6;[6]=false;[7]=false;[8]=0x412505C6;[9]=0x410DD1B3;};
+[1879485244]={[1]="Whimsical Steed";[2]="You can use this token to learn a skill to call this mount. Using this token will grant you the Whimsical Steed skill.";[3]=8;[4]=5;[5]=0;[6]=false;[7]=false;[8]=0x412505D0;[9]=0x41000001;};
+[1879485250]={[1]="Steed of the Green Dragon Inn";[2]="You can use this token to learn a skill to call this mount. Using this token will grant you the Steed of the Green Dragon Inn skill.";[3]=8;[4]=5;[5]=0;[6]=false;[7]=true;[8]=0x412505CF;[9]=0x41000001;};
+[1879485265]={[1]="Green Dragon Inn Caparison";[2]="This item will reward your character with the Mounted Combat appearance trait, Green Dragon Inn Caparison.";[3]=173;[4]=5;[5]=0;[6]=false;[7]=false;[8]=0x412505ED;[9]=0x41000001;};
+[1879485267]={[1]="Green Dragon Inn Head-piece";[2]="This item will reward your character with the Mounted Combat appearance trait, Green Dragon Inn Head-piece.";[3]=173;[4]=5;[5]=0;[6]=false;[7]=false;[8]=0x412505F0;[9]=0x41000001;};
+[1879485271]={[1]="Green Dragon Inn Keg";[2]="This keg is filled to the brink with one of the Green Dragon Inn's delicious brews.... Drink at your own risk, you might want more.";[3]=85;[4]=5;[5]=0;[6]=false;[7]=false;[8]=0x412505F1;[9]=0x410DCF2F;};
+[1879485272]={[1]="Green Dragon Inn Bar";[2]="";[3]=85;[4]=5;[5]=0;[6]=false;[7]=false;[8]=0x412505F2;[9]=0x410DCF2F;};
+[1879485282]={[1]="Green Dragon Inn Tankard";[2]="";[3]=96;[4]=5;[5]=0;[6]=false;[7]=false;[8]=0x412505F3;[9]=0x410DD1B3;};
+[1879485283]={[1]="Victory Gyre Fireworks - consumable";[2]="Unleash a victory explosion of fireworks!";[3]=205;[4]=5;[5]=0;[6]=false;[7]=false;[8]=0x412505F4;[9]=0x41000001;};
+[1879485284]={[1]="Green Dragon Inn Fireworks";[2]="Set off spiraling fireworks celebrating the Green Dragon Inn!";[3]=205;[4]=3;[5]=0;[6]=false;[7]=false;[8]=0x412505F5;[9]=0x41105CB5;};
+[1879485287]={[1]="Green Dragon Inn Fireworks - consumable";[2]="Set off spiraling fireworks celebrating the Green Dragon Inn!";[3]=205;[4]=5;[5]=0;[6]=false;[7]=false;[8]=0x412505F5;[9]=0x41000001;};
+[1879485288]={[1]="Victory Gyre Fireworks";[2]="Unleash a victory explosion of fireworks!";[3]=205;[4]=3;[5]=0;[6]=false;[7]=false;[8]=0x412505F4;[9]=0x41105CB5;};
+[1879485316]={[1]="Whimsical Patron's Simple Cosmetics Coffer";[2]="Cosmetics for a valued patron.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;[8]=0x411D2BD3;[9]=0x41105CB5;};
+[1879485318]={[1]="Whimsical Enhanced Mithril Coffer";[2]="Contains Mithril Coins and Virtue XP.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;[8]=0x410E04BB;[9]=0x41105CB5;};
+[1879485321]={[1]="Whimsical Patron's Luxuriant Cosmetics Coffer";[2]="Cosmetics for a valued patron.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;[8]=0x410E04CA;[9]=0x41105CB5;};
+[1879485323]={[1]="Whimsical Luxuriant Mithril Coffer";[2]="Contains Mithril Coins and Virtue XP.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;[8]=0x410E04BE;[9]=0x41105CB5;};
+[1879485324]={[1]="Whimsical Patron's Enhanced Cosmetics Coffer";[2]="Cosmetics for a valued patron.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;[8]=0x410E04C7;[9]=0x41105CB5;};
+[1879485326]={[1]="Green Dragon Inn War-steed Cosmetics";[2]="Contains Green Dragon Inn War-steed appearances. Using this item will bind all contents to your character.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;[8]=0x411EC9F9;[9]=0x41105CB5;};
+[1879485328]={[1]="Whimsical Simple Mithril Coffer";[2]="Contains Mithril Coins.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;[8]=0x410E04C1;[9]=0x41105CB5;};
+[1879485341]={[1]="Tome of the Spotted Hamster";[2]="Using this item will teach you to summon an adorable hamster companion.";[3]=186;[4]=5;[5]=0;[6]=false;[7]=false;[8]=0x410031A0;[9]=0x41000001;};
+[1879485342]={[1]="Tome of the White Hamster";[2]="Using this item will teach you to summon an adorable hamster companion.";[3]=186;[4]=5;[5]=0;[6]=false;[7]=false;[8]=0x410031A0;[9]=0x41000001;};
+[1879485343]={[1]="Tome of the Sienna Hamster";[2]="Using this item will teach you to summon an adorable hamster companion.";[3]=186;[4]=5;[5]=0;[6]=false;[7]=false;[8]=0x410031A0;[9]=0x41000001;};
+[1879485344]={[1]="Tome of the Whimsical Woodland Critters";[2]="Using this item will teach you to summon a group of woodland animal friends to follow you around.";[3]=186;[4]=5;[5]=0;[6]=false;[7]=false;[8]=0x410031A0;[9]=0x41105CB5;};
+[1879485345]={[1]="Tome of the Taupe Hamster";[2]="Using this item will teach you to summon an adorable hamster companion.";[3]=186;[4]=5;[5]=0;[6]=false;[7]=false;[8]=0x410031A0;[9]=0x41000001;};
+[1879485346]={[1]="Tome of the Heather Hamster";[2]="Using this item will teach you to summon an adorable hamster companion.";[3]=186;[4]=5;[5]=0;[6]=false;[7]=false;[8]=0x410031A0;[9]=0x41000001;};
+[1879485347]={[1]="Tome of the Merrymaking Hamster";[2]="Using this item will teach you to summon a hamster who knows how to make merry.";[3]=186;[4]=5;[5]=0;[6]=false;[7]=false;[8]=0x410031A0;[9]=0x41000001;};
+[1879485348]={[1]="17-year Giftbox";[2]="Contains rewards for being with us for seventeen years!";[3]=27;[4]=1;[5]=0;[6]=false;[7]=false;[8]=0x411C4113;[9]=0x41105CB5;};
+[1879485351]={[1]="Garments of the Green Dragon Inn - Gift-wrapped Selection Box";[2]="A garment of the Green Dragon Inn, packaged, and ready to gift to someone special in your life. Use to select a garment of your choice.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;[8]=0x410E04C7;[9]=0x41105CB5;};
+[1879485352]={[1]="17-year Giftbox";[2]="Contains rewards for being with us for seventeen years!";[3]=27;[4]=1;[5]=0;[6]=false;[7]=false;[8]=0x4112DBC7;[9]=0x41105CB5;};
 };
