@@ -1,4 +1,4 @@
-NEWVERSION =  "40";
+NEWVERSION =  "40.1";
 
 _NEWITEMS =
 {
