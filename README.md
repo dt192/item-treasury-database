@@ -12,9 +12,9 @@ Add `Items.lua` and `NewItems.lua` to:<br/>
   <summary>If using a version of Item Treasury prior to Update 36, see extra step. (click to expand)</summary>
 
 <blockquote>
-	
+
 <br/>
-	
+
 In the same folder, open `Main.lua` and remove the version numbers from the two imports e.g.:
 ```
 import (PLUGINDIR..".33_0_5_Items");
@@ -25,9 +25,9 @@ to:
 import (PLUGINDIR..".Items");
 import (PLUGINDIR..".NewItems");
 ```
-	
+
 </blockquote>
-	
+
 </details>
 
 `RuItems.lua` is only needed if running the [Russian version](https://github.com/william-aqn/item-treasury/tree/main/GaluhadPlugins/ItemTreasury) and will go in the same folder as above.
@@ -67,6 +67,7 @@ See [major branch](https://github.com/dt192/item-treasury-database/tree/major) f
 ## History (newest first)
 | Date          | Update        | Additions     | Changes       | Removals      | Diff                                                                      |
 | :------------ | :------------ | :------------ | :------------ | :------------ | :------------------------------------------------------------------------ |
+| 2024-06-05    | 40.1          | 15            | 9             | -             |                                                                           |
 | 2024-05-22    | 40.0.1        | -             | -             | -             |                                                                           |
 | 2024-05-15    | 40.0.0        | 371           | 33            | 1             | [988d1f6](https://github.com/dt192/item-treasury-database/commit/988d1f633a4929808be073107646b2959e046a11) |
 | 2024-04-24    | 39.2.1        | -             | -             | -             |                                                                           |
