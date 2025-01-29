@@ -1,24 +1,24 @@
-NEWVERSION =  "U42.3";
+NEWVERSION =  "U42.4";
 
 _NEWITEMS =
 {
-[1879498486]={[1]="Bounty Hunter's Essence of Finesse";[2]="";[3]=235;[4]=2;[5]=0;[6]=false;[7]=false;[8]=0x41154C0C;[9]=0x41000003;};
-[1879498487]={[1]="Bounty Hunter's Essence of Resistance";[2]="";[3]=235;[4]=2;[5]=0;[6]=false;[7]=false;[8]=0x41154C08;[9]=0x41000003;};
-[1879498488]={[1]="Bounty Hunter's Essence of Might";[2]="";[3]=235;[4]=2;[5]=0;[6]=false;[7]=false;[8]=0x41154C02;[9]=0x41000003;};
-[1879498489]={[1]="Bounty Hunter's Essence of Fate";[2]="";[3]=235;[4]=2;[5]=0;[6]=false;[7]=false;[8]=0x41154C1B;[9]=0x41000003;};
-[1879498491]={[1]="Bounty Hunter's Essence of Physical Mitigation";[2]="";[3]=235;[4]=2;[5]=0;[6]=false;[7]=false;[8]=0x41154C03;[9]=0x41000003;};
-[1879498492]={[1]="Bounty Hunter's Essence of Block";[2]="";[3]=235;[4]=2;[5]=0;[6]=false;[7]=false;[8]=0x41154C13;[9]=0x41000003;};
-[1879498493]={[1]="Bounty Hunter's Essence of Critical Defence";[2]="";[3]=235;[4]=2;[5]=0;[6]=false;[7]=false;[8]=0x41154C1A;[9]=0x41000003;};
-[1879498494]={[1]="Bounty Hunter's Essence of Parry";[2]="";[3]=235;[4]=2;[5]=0;[6]=false;[7]=false;[8]=0x41154C19;[9]=0x41000003;};
-[1879498495]={[1]="Bounty Hunter's Essence of Evasion";[2]="";[3]=235;[4]=2;[5]=0;[6]=false;[7]=false;[8]=0x41154C17;[9]=0x41000003;};
-[1879498496]={[1]="Bounty Hunter's Essence of Healing";[2]="";[3]=235;[4]=2;[5]=0;[6]=false;[7]=false;[8]=0x411589F8;[9]=0x41000003;};
-[1879498497]={[1]="Bounty Hunter's Essence of Restoration";[2]="";[3]=235;[4]=2;[5]=0;[6]=false;[7]=false;[8]=0x41154C07;[9]=0x41000003;};
-[1879498498]={[1]="Bounty Hunter's Essence of Will";[2]="";[3]=235;[4]=2;[5]=0;[6]=false;[7]=false;[8]=0x41154C01;[9]=0x41000003;};
-[1879498499]={[1]="Bounty Hunter's Essence of Tactical Mastery";[2]="";[3]=235;[4]=2;[5]=0;[6]=false;[7]=false;[8]=0x41154C05;[9]=0x41000003;};
-[1879498500]={[1]="Bounty Hunter's Essence of Physical Mastery";[2]="";[3]=235;[4]=2;[5]=0;[6]=false;[7]=false;[8]=0x41154C11;[9]=0x41000003;};
-[1879498501]={[1]="Bounty Hunter's Essence of Agility";[2]="";[3]=235;[4]=2;[5]=0;[6]=false;[7]=false;[8]=0x41154C0B;[9]=0x41000003;};
-[1879498503]={[1]="Bounty Hunter's Essence of Tactical Mitigation";[2]="";[3]=235;[4]=2;[5]=0;[6]=false;[7]=false;[8]=0x41154C09;[9]=0x41000003;};
-[1879498504]={[1]="Bounty Hunter's Essence of Critical Rating";[2]="";[3]=235;[4]=2;[5]=0;[6]=false;[7]=false;[8]=0x41154C06;[9]=0x41000003;};
-[1879498510]={[1]="Bounty Hunters' Essences";[2]="Open this box to choose a Bounty Hunter's Essence.";[3]=27;[4]=2;[5]=0;[6]=false;[7]=false;[8]=0x41154494;[9]=0x41105CB5;};
-[1879498677]={[1]="Milestone";[2]="This milestone can be used to bind your milestone skill to this location.";[3]=53;[4]=0;[5]=0;[6]=false;[7]=false;[8]=0x41000082;[9]=0x41000001;};
+[1879500338]={[1]="Mushroom Hunter's Shoulder-guards";[2]="";[3]=181;[4]=5;[5]=6;[6]=false;[7]=false;[8]=0x4125DD30;[9]=0x410DD1B3;};
+[1879500339]={[1]="Mushroom Hunter's Hat";[2]="Note: A frog will appear only if this item is equipped as gear!";[3]=183;[4]=5;[5]=6;[6]=false;[7]=false;[8]=0x4125DD2D;[9]=0x410DD1B3;};
+[1879500340]={[1]="Mushroom Hunter's Gloves";[2]="";[3]=184;[4]=5;[5]=6;[6]=false;[7]=false;[8]=0x4125DD31;[9]=0x410DD1B3;};
+[1879500342]={[1]="Mushroom Hunter's Shoes";[2]="";[3]=180;[4]=5;[5]=6;[6]=false;[7]=false;[8]=0x4125DD2C;[9]=0x410DD1B3;};
+[1879500343]={[1]="Mushroom Hunter's Garb";[2]="";[3]=182;[4]=5;[5]=6;[6]=false;[7]=false;[8]=0x4125DD2F;[9]=0x410DD1B3;};
+[1879500344]={[1]="Mushroom Hunter's Pack";[2]="";[3]=97;[4]=5;[5]=6;[6]=false;[7]=false;[8]=0x4125DD2E;[9]=0x410DD1B3;};
+[1879500345]={[1]="Decorative Wall - 20m (Mushroom Hunter's)";[2]="";[3]=291;[4]=5;[5]=0;[6]=false;[7]=false;[8]=0x4125DD33;[9]=0x410DCF2F;};
+[1879500346]={[1]="Mushroom Hunter's Hearth";[2]="";[3]=88;[4]=5;[5]=0;[6]=false;[7]=false;[8]=0x4125DD32;[9]=0x410DCF2F;};
+[1879500347]={[1]="Mushroom Hunter's Walls";[2]="";[3]=83;[4]=5;[5]=0;[6]=false;[7]=false;[8]=0x4125DD34;[9]=0x410DCF2F;};
+[1879500348]={[1]="Tall Decorative Wall - 10m (Mushroom Hunter's)";[2]="";[3]=291;[4]=5;[5]=0;[6]=false;[7]=false;[8]=0x4125DD33;[9]=0x410DCF2F;};
+[1879500349]={[1]="Decorative Wall - 10m (Mushroom Hunter's)";[2]="";[3]=291;[4]=5;[5]=0;[6]=false;[7]=false;[8]=0x4125DD33;[9]=0x410DCF2F;};
+[1879500350]={[1]="Tall Decorative Wall - 20m (Mushroom Hunter's)";[2]="";[3]=291;[4]=5;[5]=0;[6]=false;[7]=false;[8]=0x4125DD33;[9]=0x410DCF2F;};
+[1879500351]={[1]="Box of Mushroom Hunter's Walls";[2]="Wallpaper and decorative walls for your house.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;[8]=0x410E04BB;[9]=0x41105CB5;};
+[1879500354]={[1]="Mushroom Hunter's Accessory";[2]="This item will reward your character with the Mounted Combat appearance trait, Mushroom Hunter's Accessory.";[3]=173;[4]=5;[5]=0;[6]=false;[7]=false;[8]=0x4125DD35;[9]=0x41000001;};
+[1879500362]={[1]="Tome of the Mushroom Hunter's Corgi";[2]="Using this item will teach you to summon a corgi with mushroom cart.";[3]=186;[4]=5;[5]=0;[6]=false;[7]=false;[8]=0x410031A0;[9]=0x41000001;};
+[1879500364]={[1]="Tome of the Mushroom Hunter's Frog";[2]="Using this item will teach you to summon a frog companion.";[3]=186;[4]=5;[5]=0;[6]=false;[7]=false;[8]=0x410031A0;[9]=0x41000001;};
+[1879500460]={[1]="Portent of Strength - 150";[2]="";[3]=50;[4]=1;[5]=0;[6]=false;[7]=false;[8]=0x4120C7CB;[9]=0x41001430;};
+[1879500465]={[1]="Portent of Deftness - 150";[2]="";[3]=50;[4]=1;[5]=0;[6]=false;[7]=false;[8]=0x4120C7C9;[9]=0x41001430;};
+[1879500466]={[1]="Portent of Vitality - 150";[2]="";[3]=50;[4]=1;[5]=0;[6]=false;[7]=false;[8]=0x4120C7CA;[9]=0x41001430;};
 }
