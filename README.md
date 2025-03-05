@@ -67,6 +67,7 @@ See [major branch](https://github.com/dt192/item-treasury-database/tree/major) f
 ## History (newest first)
 | Date          | Update        | Additions     | Changes       | Removals      | Diff                                                                      |
 | :------------ | :------------ | :------------ | :------------ | :------------ | :------------------------------------------------------------------------ |
+| 2025-03-05    | 43.0.1        | 11            | 12            | -             | [3ae1566](https://github.com/dt192/item-treasury-database/commit/3ae156638d19c1612d06dc119147ae71987e1a97) |
 | 2025-02-27    | 43.0.0        | 620           | 662           | -             | [ffa86c6](https://github.com/dt192/item-treasury-database/commit/ffa86c62624e3a418a297c31904efa0343071068) |
 | 2025-01-29    | 42.4.0        | 19            | -             | -             | [71895bd](https://github.com/dt192/item-treasury-database/commit/71895bd3bdc3d92a118661e1aaa279df1a0055d2) |
 | 2024-12-13    | 42.3.0        | 19            | 4             | -             | [4e648c5](https://github.com/dt192/item-treasury-database/commit/4e648c5ca6505998151bff6a5030603b0b12379d) |
