@@ -53,10 +53,11 @@ The Russian version of the scripts can be found on [William's GitHub](https://gi
 	[5] = (number)Durability;
 	[6] = (boolean)IsMagic;
 	[7] = (boolean)IsUnique;
-	[8] = (number)IconImageID;
-	[9] = (number)BackgroundImageID;
+	[8] = (number)IconImageID; 	--removed since U44
+	[9] = (number)BackgroundImageID;--removed since U44
 };
 ```
+Note: Beacause of lua limit on constants saved in table, the ImageIDs were removed since U44. See https://github.com/dt192/item-treasury-database/issues/3.
 
 ---
 
