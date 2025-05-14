@@ -1,5 +1,5 @@
 FIRSTID = 1879049233;
-LASTID  = 1879504035;
+LASTID  = 1879506284;
 
 _ITEMSDB =
 {
@@ -42870,7 +42870,7 @@ _ITEMSDB =
 [1879160245]={[1]="Race Box";[2]="";[3]=53;[4]=0;[5]=0;[6]=false;[7]=false;};
 [1879160311]={[1]="South Gate";[2]="";[3]=53;[4]=0;[5]=0;[6]=false;[7]=false;};
 [1879160786]={[1]="Gilaith";[2]="";[3]=46;[4]=2;[5]=3;[6]=false;[7]=false;};
-[1879160787]={[1]="Saelwagol";[2]="";[3]=44;[4]=3;[5]=3;[6]=false;[7]=true;};
+[1879160787]={[1]="Saelwagol";[2]="";[3]=44;[4]=3;[5]=3;[6]=false;[7]=false;};
 [1879160788]={[1]="Amdillang";[2]="";[3]=44;[4]=2;[5]=3;[6]=false;[7]=false;};
 [1879160789]={[1]="Ithilhigil";[2]="A platinum choker featuring a solitary sapphire.";[3]=49;[4]=2;[5]=3;[6]=false;[7]=false;};
 [1879160790]={[1]="Bregloch";[2]="A glowing white diamond stud.";[3]=49;[4]=2;[5]=3;[6]=false;[7]=false;};
@@ -49383,8 +49383,8 @@ _ITEMSDB =
 [1879174624]={[1]="Tinc-Iaeth";[2]="";[3]=49;[4]=3;[5]=3;[6]=false;[7]=true;};
 [1879174625]={[1]="Ernil";[2]="";[3]=49;[4]=3;[5]=3;[6]=false;[7]=true;};
 [1879174626]={[1]="Ninn-Ranc";[2]="";[3]=49;[4]=3;[5]=3;[6]=false;[7]=true;};
-[1879174627]={[1]="Mor-Gurth";[2]="";[3]=49;[4]=3;[5]=3;[6]=false;[7]=true;};
-[1879174629]={[1]="Glass Flask";[2]="";[3]=49;[4]=3;[5]=3;[6]=false;[7]=true;};
+[1879174627]={[1]="Mor-Gurth";[2]="";[3]=49;[4]=3;[5]=3;[6]=false;[7]=false;};
+[1879174629]={[1]="Glass Flask";[2]="";[3]=49;[4]=3;[5]=3;[6]=false;[7]=false;};
 [1879174641]={[1]="Ril-Mîr";[2]="";[3]=49;[4]=3;[5]=3;[6]=false;[7]=true;};
 [1879174642]={[1]="Rochben";[2]="";[3]=5;[4]=3;[5]=3;[6]=false;[7]=false;};
 [1879174643]={[1]="Tathar";[2]="";[3]=6;[4]=3;[5]=3;[6]=false;[7]=false;};
@@ -49392,13 +49392,13 @@ _ITEMSDB =
 [1879174645]={[1]="Thâm-Ohtar";[2]="";[3]=49;[4]=3;[5]=3;[6]=false;[7]=true;};
 [1879174647]={[1]="Bracelet of the Tower";[2]="";[3]=49;[4]=3;[5]=3;[6]=false;[7]=true;};
 [1879174648]={[1]="Thôl-Ernil";[2]="";[3]=7;[4]=3;[5]=3;[6]=false;[7]=false;};
-[1879174651]={[1]="Gold Neck Band";[2]="";[3]=49;[4]=3;[5]=3;[6]=false;[7]=true;};
+[1879174651]={[1]="Gold Neck Band";[2]="";[3]=49;[4]=3;[5]=3;[6]=false;[7]=false;};
 [1879174652]={[1]="Harma-Barad";[2]="";[3]=15;[4]=3;[5]=3;[6]=false;[7]=false;};
 [1879174657]={[1]="Blade of Necromancy";[2]="Númenórean blades used for dark purposes and evil deeds.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879174658]={[1]="Relic of Necromancy";[2]="An evil-looking relic, used to help summon the Dead.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
-[1879174684]={[1]="Gem Studded Bracelet";[2]="";[3]=49;[4]=3;[5]=3;[6]=false;[7]=true;};
+[1879174684]={[1]="Bracelet of the Golden Bloom";[2]="";[3]=49;[4]=3;[5]=3;[6]=false;[7]=true;};
 [1879174687]={[1]="Nar-Mîr";[2]="";[3]=49;[4]=3;[5]=3;[6]=false;[7]=true;};
-[1879174693]={[1]="Gond-Barad";[2]="";[3]=49;[4]=1;[5]=3;[6]=false;[7]=true;};
+[1879174693]={[1]="Gond-Barad";[2]="";[3]=49;[4]=1;[5]=3;[6]=false;[7]=false;};
 [1879174694]={[1]="Mîr-Aduial";[2]="";[3]=49;[4]=3;[5]=3;[6]=false;[7]=true;};
 [1879174695]={[1]="Tûrcam";[2]="";[3]=5;[4]=3;[5]=3;[6]=false;[7]=false;};
 [1879174739]={[1]="Document of Mount Ownership";[2]="This item will be discounted if you have already purchased a steed in the game. This document can be traded for a festival steed, which you can ride once you have the riding trait. (The riding trait can be earned in-game at Hengstacer Farm at level 20, or purchased in the store.)";[3]=178;[4]=5;[5]=0;[6]=false;[7]=false;};
@@ -56877,11 +56877,11 @@ _ITEMSDB =
 [1879200039]={[1]="Legendary Advancement Boost Ten Pack - Levels 51-65";[2]="Contains: 10 Tomes of +25% Legendary Item XP Tomes (60 Min) and 10 Tomes of Slayer Deed Accelerators (60 Min).";[3]=27;[4]=3;[5]=0;[6]=false;[7]=true;};
 [1879200043]={[1]="Curative Boost Ten Pack - Levels 60-65";[2]="Contains: 10 Superior Poison Remedies, 10 Superior Disease Remedies, 10 Superior Wound Remedies and 10 Superior Fear Remedies.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=true;};
 [1879200050]={[1]="Cloben's Eye";[2]="This ancient eye represents a great victory against Cloben, a fearsome drake in Thrór's Coomb.";[3]=27;[4]=4;[5]=0;[6]=false;[7]=true;};
-[1879200051]={[1]="Maethathol";[2]="";[3]=12;[4]=3;[5]=3;[6]=false;[7]=true;};
-[1879200053]={[1]="Gorngronn";[2]="";[3]=40;[4]=3;[5]=3;[6]=false;[7]=true;};
-[1879200054]={[1]="Rodonhigil";[2]="";[3]=10;[4]=3;[5]=3;[6]=false;[7]=true;};
-[1879200055]={[1]="Amarthlang";[2]="";[3]=30;[4]=3;[5]=3;[6]=false;[7]=true;};
-[1879200056]={[1]="Thaliongrist";[2]="";[3]=44;[4]=3;[5]=3;[6]=false;[7]=true;};
+[1879200051]={[1]="Maethathol";[2]="";[3]=12;[4]=3;[5]=3;[6]=false;[7]=false;};
+[1879200053]={[1]="Gorngronn";[2]="";[3]=40;[4]=3;[5]=3;[6]=false;[7]=false;};
+[1879200054]={[1]="Rodonhigil";[2]="";[3]=10;[4]=3;[5]=3;[6]=false;[7]=false;};
+[1879200055]={[1]="Amarthlang";[2]="";[3]=30;[4]=3;[5]=3;[6]=false;[7]=false;};
+[1879200056]={[1]="Thaliongrist";[2]="";[3]=44;[4]=3;[5]=3;[6]=false;[7]=false;};
 [1879200059]={[1]="Invitation to the Yule Festival";[2]="This invitation to the Yule Festival was sent to you by a Party Planner of Hobbiton.";[3]=27;[4]=4;[5]=0;[6]=false;[7]=true;};
 [1879200062]={[1]="Sturdy Savant's Chisel of Fire";[2]="Rune-keepers can attune themselves to specially crafted chisels, enhancing their powers.";[3]=106;[4]=4;[5]=4;[6]=false;[7]=false;};
 [1879200063]={[1]="Sturdy Master's Chisel of Lightning";[2]="Rune-keepers can attune themselves to specially crafted chisels, enhancing their powers.";[3]=106;[4]=4;[5]=4;[6]=false;[7]=false;};
@@ -56942,22 +56942,22 @@ _ITEMSDB =
 [1879200295]={[1]="Leggings of the Long Lake";[2]="";[3]=15;[4]=3;[5]=3;[6]=false;[7]=false;};
 [1879200296]={[1]="Footman's Leggings";[2]="";[3]=15;[4]=3;[5]=3;[6]=false;[7]=false;};
 [1879200297]={[1]="Rider's Leggings";[2]="";[3]=15;[4]=3;[5]=3;[6]=false;[7]=false;};
-[1879200298]={[1]="Frothskold";[2]="";[3]=33;[4]=3;[5]=4;[6]=false;[7]=true;};
+[1879200298]={[1]="Frothskold";[2]="";[3]=33;[4]=3;[5]=4;[6]=false;[7]=false;};
 [1879200299]={[1]="Cloak of the Misty Night";[2]="";[3]=45;[4]=3;[5]=3;[6]=false;[7]=false;};
 [1879200300]={[1]="Cloak of the Raven's Claw";[2]="";[3]=45;[4]=3;[5]=3;[6]=false;[7]=false;};
 [1879200301]={[1]="Black Onyx Earring";[2]="A large black onyx gem drops from an ornate gold chain.";[3]=49;[4]=3;[5]=3;[6]=false;[7]=true;};
 [1879200302]={[1]="Gold Hoop Earring";[2]="A solid gold hoop which has been highly polished.";[3]=49;[4]=3;[5]=3;[6]=false;[7]=true;};
-[1879200303]={[1]="Floral Jade Pendant";[2]="The jade gemstone in this pendant has been carved into a floral design and fixed to a twisting gold chain.";[3]=49;[4]=1;[5]=3;[6]=false;[7]=true;};
-[1879200304]={[1]="Miniature Gold Crown";[2]="A tiny gold crown complete with miniature gems. The crown can easily fit in your pocket.";[3]=49;[4]=3;[5]=3;[6]=false;[7]=true;};
-[1879200305]={[1]="Glass Talisman";[2]="A red coloured glass teardrop attached to a small silver chain.";[3]=49;[4]=3;[5]=3;[6]=false;[7]=true;};
+[1879200303]={[1]="Floral Jade Pendant";[2]="The jade gemstone in this pendant has been carved into a floral design and fixed to a twisting gold chain.";[3]=49;[4]=1;[5]=3;[6]=false;[7]=false;};
+[1879200304]={[1]="Miniature Gold Crown";[2]="A tiny gold crown complete with miniature gems. The crown can easily fit in your pocket.";[3]=49;[4]=3;[5]=3;[6]=false;[7]=false;};
+[1879200305]={[1]="Glass Talisman";[2]="A red coloured glass teardrop attached to a small silver chain.";[3]=49;[4]=3;[5]=3;[6]=false;[7]=false;};
 [1879200307]={[1]="Sparkling Bracelet";[2]="Eye-catching pear-cut gems decorate the centre of this wide bracelet.";[3]=49;[4]=3;[5]=3;[6]=false;[7]=true;};
 [1879200308]={[1]="Amethyst Gold Silver Bracelet";[2]="This heavy bracelet is crafted in a combination of gold and silver and features large amethysts.";[3]=49;[4]=3;[5]=3;[6]=false;[7]=true;};
 [1879200309]={[1]="Textured Gold Ring";[2]="An artistically textured gold ring enhanced by alternately aligned floral motif profiles.";[3]=49;[4]=3;[5]=3;[6]=false;[7]=true;};
 [1879200310]={[1]="Onyx and Emerald Ring";[2]="A large square ring featuring a round emerald surrounded by highly polished onyx.";[3]=49;[4]=3;[5]=3;[6]=false;[7]=true;};
 [1879200311]={[1]="Lost Engagement Ring";[2]="An ancient engagement ring with diamonds interspersed throughout the eye-catching domed plaque.";[3]=49;[4]=1;[5]=3;[6]=false;[7]=true;};
-[1879200312]={[1]="Baingrist";[2]="";[3]=44;[4]=1;[5]=4;[6]=false;[7]=true;};
-[1879200313]={[1]="Amarthram";[2]="";[3]=33;[4]=3;[5]=4;[6]=false;[7]=true;};
-[1879200314]={[1]="Stórrand";[2]="";[3]=33;[4]=3;[5]=4;[6]=false;[7]=true;};
+[1879200312]={[1]="Baingrist";[2]="";[3]=44;[4]=1;[5]=4;[6]=false;[7]=false;};
+[1879200313]={[1]="Amarthram";[2]="";[3]=33;[4]=3;[5]=4;[6]=false;[7]=false;};
+[1879200314]={[1]="Stórrand";[2]="";[3]=33;[4]=3;[5]=4;[6]=false;[7]=false;};
 [1879200343]={[1]="Tarnished Whistle (Average Goat, 24 hrs.)";[2]="This whistle summons an average speed goat mount that will remain at your beck and call for the next day.";[3]=8;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879200344]={[1]="Bright Whistle (Average Goat, 30 days)";[2]="This whistle summons an average speed goat mount that will remain at your beck and call for the next month.";[3]=8;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879200345]={[1]="Crumbling Whistle (Average Goat, 6 hrs.)";[2]="This whistle summons an average speed goat mount that will remain at your beck and call for the next six hours.";[3]=8;[4]=5;[5]=0;[6]=false;[7]=false;};
@@ -57018,14 +57018,14 @@ _ITEMSDB =
 [1879200663]={[1]="Ancient Gold Band";[2]="An ancient gold ring encrusted with bands of square rubies and round diamonds.";[3]=49;[4]=3;[5]=3;[6]=false;[7]=true;};
 [1879200664]={[1]="Emerald Signature Ring";[2]="An emerald ring studded with large diamond florets.";[3]=49;[4]=3;[5]=3;[6]=false;[7]=true;};
 [1879200665]={[1]="Brilliant Gold Ring";[2]="A large gold ring featuring a brilliant ruby surrounded by a large number of round diamonds.";[3]=49;[4]=3;[5]=3;[6]=false;[7]=true;};
-[1879200666]={[1]="Cold Stone Pendant";[2]="A cool blue stone set firmly in a golden setting like a glacial fortress standing before the rising sun.";[3]=49;[4]=3;[5]=3;[6]=false;[7]=true;};
+[1879200666]={[1]="Star Necklace";[2]="A dazzling necklace crafted with individually sized strands of gold.";[3]=49;[4]=3;[5]=3;[6]=false;[7]=false;};
 [1879200679]={[1]="Amethyst Earring";[2]="Three teardrop amethyst gemstones hang from finely crafted gold strands.";[3]=49;[4]=3;[5]=3;[6]=false;[7]=true;};
 [1879200680]={[1]="Gold-ringed Bracelet";[2]="Links of stylized gold rings join together to form this magnificent bracelet.";[3]=49;[4]=3;[5]=3;[6]=false;[7]=true;};
 [1879200681]={[1]="Padlock Bracelet";[2]="Masterfully designed bracelet crafted with flexible gold links. The bracelet's clasp is a finely crafted padlock.";[3]=49;[4]=3;[5]=3;[6]=false;[7]=true;};
 [1879200682]={[1]="Linked Emerald Bracelet";[2]="Links of gold encrusted emerald gemstones comprise this refined bracelet.";[3]=49;[4]=3;[5]=3;[6]=false;[7]=true;};
 [1879200683]={[1]="Gem-studded Bracelet";[2]="A thick gold bracelet adorned with diamond and onyx studs.";[3]=49;[4]=3;[5]=3;[6]=false;[7]=true;};
-[1879200684]={[1]="Valuable Key Ring";[2]="This unique key ring is forged in gold and encrusted with a dusting of crushed diamonds.";[3]=49;[4]=3;[5]=3;[6]=false;[7]=true;};
-[1879200685]={[1]="Hithlain Threads";[2]="Silky threads from an elven rope. The threads glow very faintly.";[3]=49;[4]=3;[5]=3;[6]=false;[7]=true;};
+[1879200684]={[1]="Valuable Key Ring";[2]="This unique key ring is forged in gold and encrusted with a dusting of crushed diamonds.";[3]=49;[4]=3;[5]=3;[6]=false;[7]=false;};
+[1879200685]={[1]="Hithlain Threads";[2]="Silky threads from an elven rope. The threads glow very faintly.";[3]=49;[4]=3;[5]=3;[6]=false;[7]=false;};
 [1879200687]={[1]="Cloak of Urun";[2]="";[3]=45;[4]=3;[5]=3;[6]=false;[7]=false;};
 [1879200688]={[1]="Cloak of Hwîn";[2]="";[3]=45;[4]=1;[5]=3;[6]=false;[7]=false;};
 [1879200689]={[1]="Woodsman's Gloves";[2]="";[3]=5;[4]=3;[5]=3;[6]=false;[7]=false;};
@@ -57040,11 +57040,11 @@ _ITEMSDB =
 [1879200721]={[1]="Anniversary Token";[2]="A token given in celebration of the Anniversary event! Special vendors in Bree, Michel Delving, Thorin's Hall and Celondim will accept these tokens in exchange for festive rewards.";[3]=178;[4]=4;[5]=0;[6]=false;[7]=false;};
 [1879200741]={[1]="Precise Thain's Serrated Knife";[2]="The saw-like blade of a serrated knife leaves a wound that can weaken the toughest of opponents. Most effective against targets level 65 or lower.";[3]=54;[4]=2;[5]=0;[6]=false;[7]=false;};
 [1879200742]={[1]="Thain's Serrated Knife";[2]="The saw-like blade of a serrated knife leaves a wound that can weaken the toughest of opponents. Most effective against targets level 65 or lower.";[3]=54;[4]=4;[5]=0;[6]=false;[7]=false;};
-[1879200743]={[1]="Élvellon";[2]="Heavy amethyst pendant encircled by an ornate design of diamonds set in gold.";[3]=49;[4]=3;[5]=3;[6]=false;[7]=true;};
+[1879200743]={[1]="Élvellon";[2]="Heavy amethyst pendant encircled by an ornate design of diamonds set in gold.";[3]=49;[4]=3;[5]=3;[6]=false;[7]=false;};
 [1879200744]={[1]="Sarenzer";[2]="An earring featuring a brilliant yellow diamond.";[3]=49;[4]=3;[5]=3;[6]=false;[7]=true;};
 [1879200749]={[1]="Thain's Throwing Hatchet";[2]="A weighted head with a razor sharp blade allows this hatchet to fly farther and have a high chance to do critical damage.";[3]=54;[4]=4;[5]=0;[6]=false;[7]=false;};
 [1879200750]={[1]="Well-balanced Thain's Throwing Hatchet";[2]="A weighted head with a razor sharp blade allows this hatchet to fly farther and have a high chance to do critical damage.";[3]=54;[4]=2;[5]=0;[6]=false;[7]=false;};
-[1879200751]={[1]="Túrvagol";[2]="";[3]=44;[4]=3;[5]=3;[6]=false;[7]=true;};
+[1879200751]={[1]="Túrvagol";[2]="";[3]=44;[4]=3;[5]=3;[6]=false;[7]=false;};
 [1879200752]={[1]="Daemagol";[2]="";[3]=44;[4]=2;[5]=3;[6]=false;[7]=false;};
 [1879200753]={[1]="Greater Supreme Blazoned Crest of Hope";[2]="When attached to your banner, this crest fills your herald with a renewed sense of hope. The effect of this item is not displayed in the pet skill tooltips.";[3]=13;[4]=4;[5]=0;[6]=false;[7]=false;};
 [1879200754]={[1]="Greater Supreme Blazoned Crest of Victory";[2]="When attached to your banner, this crest inspires your herald, strengthening its defences.";[3]=13;[4]=4;[5]=0;[6]=false;[7]=false;};
@@ -57057,7 +57057,7 @@ _ITEMSDB =
 [1879200765]={[1]="Sarcophagus";[2]="";[3]=53;[4]=0;[5]=0;[6]=false;[7]=false;};
 [1879200766]={[1]="the actor";[2]="Goes Nowhere, Does Nothing";[3]=53;[4]=0;[5]=0;[6]=false;[7]=false;};
 [1879200767]={[1]="the actor";[2]="Goes Nowhere, Does Nothing";[3]=53;[4]=0;[5]=0;[6]=false;[7]=false;};
-[1879200768]={[1]="Saelhigil";[2]="";[3]=10;[4]=3;[5]=3;[6]=false;[7]=true;};
+[1879200768]={[1]="Saelhigil";[2]="";[3]=10;[4]=3;[5]=3;[6]=false;[7]=false;};
 [1879200770]={[1]="Cilmion";[2]="";[3]=30;[4]=2;[5]=3;[6]=false;[7]=false;};
 [1879200771]={[1]="Thain's Throwing Hatchet Recipe";[2]="Using this scroll grants a Supreme Weaponsmith recipe.";[3]=124;[4]=4;[5]=0;[6]=false;[7]=false;};
 [1879200772]={[1]="Thain's Serrated Knife Recipe";[2]="Using this scroll grants a Supreme Weaponsmith recipe.";[3]=124;[4]=4;[5]=0;[6]=false;[7]=false;};
@@ -58646,7 +58646,7 @@ _ITEMSDB =
 [1879206073]={[1]="Scroll of Skirmish Refund";[2]="Using this scroll will refund all marks you have spent on skirmish traits. You will keep rank 1 in all traits and will be able to purchase ranks back freely.";[3]=173;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879206075]={[1]="Billboard";[2]="Goes Nowhere, Does Nothing";[3]=53;[4]=0;[5]=0;[6]=false;[7]=false;};
 [1879206090]={[1]="Beast-bane";[2]="";[3]=1;[4]=2;[5]=3;[6]=false;[7]=false;};
-[1879206091]={[1]="Dead-breaker";[2]="";[3]=1;[4]=3;[5]=3;[6]=false;[7]=true;};
+[1879206091]={[1]="Dead-breaker";[2]="";[3]=1;[4]=3;[5]=3;[6]=false;[7]=false;};
 [1879206094]={[1]="Discarded Pouch";[2]="This pouch is not weathered with age like everything else in Lhaid Ogo.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879206096]={[1]="Memorial of the Gaunt-lords";[2]="A collection of mysterious relics, banners, and the shattered pieces of Gortheron.";[3]=84;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879206098]={[1]="Dark Music Box";[2]="A music box of dark evil.";[3]=82;[4]=5;[5]=0;[6]=false;[7]=false;};
@@ -133766,7 +133766,7 @@ _ITEMSDB =
 [1879470962]={[1]="Shoulders of the Lady's Inspiration";[2]="";[3]=6;[4]=3;[5]=4;[6]=false;[7]=false;};
 [1879470963]={[1]="Hood of the Guided Blade";[2]="";[3]=7;[4]=3;[5]=4;[6]=false;[7]=false;};
 [1879470964]={[1]="Jacket of the Lady's Inspiration";[2]="";[3]=3;[4]=3;[5]=4;[6]=false;[7]=false;};
-[1879470965]={[1]="Shoulders of the Sailor's Tune";[2]="";[3]=7;[4]=3;[5]=4;[6]=false;[7]=false;};
+[1879470965]={[1]="Cowl of the Sailor's Tune";[2]="";[3]=7;[4]=3;[5]=4;[6]=false;[7]=false;};
 [1879470966]={[1]="Boots of the Sailor's Tune";[2]="";[3]=23;[4]=3;[5]=4;[6]=false;[7]=false;};
 [1879470967]={[1]="Boots of the Guided Blade";[2]="";[3]=23;[4]=3;[5]=4;[6]=false;[7]=false;};
 [1879470968]={[1]="Leggings of the Lady's Inspiration";[2]="";[3]=15;[4]=3;[5]=4;[6]=false;[7]=false;};
@@ -140963,6 +140963,7 @@ _ITEMSDB =
 [1879496249]={[1]="Kinta Helmet of the Protector";[2]="";[3]=7;[4]=1;[5]=3;[6]=false;[7]=false;};
 [1879496250]={[1]="Shield-bearer's Gauntlets";[2]="";[3]=5;[4]=2;[5]=3;[6]=false;[7]=false;};
 [1879496252]={[1]="Worn Mercenary Cops";[2]="";[3]=6;[4]=2;[5]=3;[6]=false;[7]=false;};
+[1879496253]={[1]="Trader's Scuffed Shoulder-guards";[2]="";[3]=6;[4]=2;[5]=3;[6]=false;[7]=false;};
 [1879496254]={[1]="Immaculate Boots";[2]="";[3]=23;[4]=3;[5]=3;[6]=false;[7]=false;};
 [1879496255]={[1]="Pitted Mercenary Gauntlets";[2]="";[3]=5;[4]=2;[5]=3;[6]=false;[7]=false;};
 [1879496256]={[1]="Serpent-scale Hauberk";[2]="";[3]=3;[4]=3;[5]=3;[6]=false;[7]=false;};
@@ -141021,7 +141022,7 @@ _ITEMSDB =
 [1879496322]={[1]="Legendary Item Box";[2]="Use to select a class appropriate Legendary Item. As you advance, reforge your Legendary Items to improve them to match your level.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879496326]={[1]="Illuminating Lantern";[2]="";[3]=173;[4]=2;[5]=0;[6]=false;[7]=false;};
 [1879496337]={[1]="Impenetrable Scorpion Carapace";[2]="A small pouch containing a rare scorpion's carapace.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
-[1879496338]={[1]="Sand-smoothed Burl";[2]="A small but valuable knot of wood with a mirculously smooth surface worn down by years of blowing rands.";[3]=178;[4]=2;[5]=0;[6]=false;[7]=false;};
+[1879496338]={[1]="Sand-smoothed Burl";[2]="A small but valuable knot of wood with a miraculously smooth surface worn down by years of blowing sands.";[3]=178;[4]=2;[5]=0;[6]=false;[7]=false;};
 [1879496340]={[1]="Fallen Burial Ward";[2]="A small pouch containing an ancient protective charm.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
 [1879496342]={[1]="Fallen Burial Ward";[2]="A small gold token set with sapphires, fallen from the wrappings of a risen lord.";[3]=178;[4]=3;[5]=0;[6]=false;[7]=false;};
 [1879496348]={[1]="Lump of Red Rock Salt";[2]="A small lump of rock salt, ribbed with mysterious bands of red.";[3]=178;[4]=2;[5]=0;[6]=false;[7]=false;};
@@ -141037,6 +141038,7 @@ _ITEMSDB =
 [1879496380]={[1]="Door";[2]="";[3]=53;[4]=0;[5]=0;[6]=false;[7]=false;};
 [1879496381]={[1]="Inscribed Aegis";[2]="";[3]=33;[4]=3;[5]=4;[6]=false;[7]=false;};
 [1879496382]={[1]="Wandering Bard's Harp";[2]="Socketed instruments cannot be placed in a carry-all.";[3]=293;[4]=3;[5]=3;[6]=false;[7]=false;};
+[1879496383]={[1]="Celethir";[2]="";[3]=33;[4]=3;[5]=4;[6]=false;[7]=false;};
 [1879496384]={[1]="Boarding Captain's Trusty Pipe";[2]="Socketed instruments cannot be placed in a carry-all.";[3]=293;[4]=3;[5]=3;[6]=false;[7]=false;};
 [1879496385]={[1]="Caravan Warden's Shield";[2]="";[3]=33;[4]=2;[5]=4;[6]=false;[7]=false;};
 [1879496386]={[1]="Polished Steel Targe";[2]="";[3]=33;[4]=2;[5]=4;[6]=false;[7]=false;};
@@ -141697,9 +141699,9 @@ _ITEMSDB =
 [1879499074]={[1]="Ornate Warrior's Shield Displays Bundle";[2]="This contains two copies of each of an assortment Shield displays for your walls.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879499075]={[1]="Warrior's Wall Displays Bundle";[2]="This contains two packages that contain two copies of each of the following: Fanned Shield Display, Fanned Ornate Shield Display, Shield Display with Halberds, Ornate Shield Display with Halberds, Ornate Shield Display with Swords, Shield Display with Simple Swords, Shield Display with Gold-hilt Swords, Ornate Shield Display with Simple Swords, Ornate Shield Display with Gold-hilt Swords, Shield Display with Various Swords, and Ornate Shield Display with Various Swords.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879499076]={[1]="All-Encompassing World-traveller's Runner Bundle";[2]="This contains several packages that contain two copies of each of the small, medium, and long length runners in the following styles: Ill-kept, Felegoth, Umbari Blue, Umbari Orange, Umbari Teal, Red Moria, Blue Moria, and White Moria.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
-[1879499077]={[1]="World-traveller's Short Moria Runner Bundle";[2]="This contains two copies of each of the following: Long Red Rug, Long Blue Rug, and Long White Rug.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879499077]={[1]="World-traveller's Short Moria Runner Bundle";[2]="This contains two copies of each of the following: Red Dwarf-made Rug, Short Blue Rug, and Short White Rug.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879499079]={[1]="World-traveller's Medium Moria Runner Bundle";[2]="This contains two copies of each of the following: Red Rug, Blue Rug, and White Rug.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
-[1879499080]={[1]="World-traveller's Long Moria Runner Bundle";[2]="This contains two copies of each of the following: Red Dwarf-made Rug, Short Blue Rug, and Short White Rug.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879499080]={[1]="World-traveller's Long Moria Runner Bundle";[2]="This contains two copies of each of the following: Long Red Rug, Long Blue Rug, and Long White Rug.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879499175]={[1]="Portcullis";[2]="";[3]=50;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879499336]={[1]="21st Hall";[2]="";[3]=53;[4]=0;[5]=0;[6]=false;[7]=false;};
 [1879499364]={[1]="Moria Elf-stone Coffer";[2]="A coffer full of Elf-stones from instances in Moria.";[3]=35;[4]=5;[5]=0;[6]=false;[7]=true;};
@@ -141982,7 +141984,6 @@ _ITEMSDB =
 [1879501725]={[1]="Glittering Fish";[2]="A silvery fish whose scales glitter in the sunlight.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879501726]={[1]="Handful of Olives";[2]="Raw olives, freshly picked from the tree. They will need to be cured before they are edible.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879501727]={[1]="Seashells";[2]="The elegant shells of sea-creatures that have washed up on the shores of Furtherholm.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
-[1879501728]={[1]="Stinky Seaweed";[2]="Some sort of marine plant. It smells like dead fish.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879501729]={[1]="Juicy Lemon";[2]="A vibrant yellow lemon, fragrant and ready to be eaten.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879501730]={[1]="Fresh Herb";[2]="A fragrant herb with a sweet and slightly peppery flavour.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879501732]={[1]="Lemon Tree";[2]="A tree growing lemons. Surely at least one of them is ripe.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
@@ -142066,8 +142067,8 @@ _ITEMSDB =
 [1879502761]={[1]="Patron's Enhanced Cosmetics Coffer of the Sands";[2]="Cosmetics for a valued patron.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879502762]={[1]="Patron's Luxuriant Wardrobe Cosmetics of the Sands";[2]="Cosmetics for a valued patron that can be placed in the wardrobe.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879502764]={[1]="Patron's Simple Mithril Coffer of the Sands";[2]="Contains Mithril Coins.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
-[1879502775]={[1]="Cold Stone Pendant";[2]="A cool blue stone set firmly in a golden setting like a glacial fortress standing before the rising sun.";[3]=49;[4]=3;[5]=3;[6]=false;[7]=true;};
-[1879502776]={[1]="Gold Neck Band";[2]="";[3]=49;[4]=3;[5]=3;[6]=false;[7]=true;};
+[1879502775]={[1]="Cold Stone Pendant";[2]="A cool blue stone set firmly in a golden setting like a glacial fortress standing before the rising sun.";[3]=49;[4]=3;[5]=3;[6]=false;[7]=false;};
+[1879502776]={[1]="Darkened Necklace";[2]="";[3]=49;[4]=3;[5]=3;[6]=false;[7]=false;};
 [1879502777]={[1]="Carchrien's Ruin";[2]="";[3]=49;[4]=3;[5]=3;[6]=false;[7]=true;};
 [1879502829]={[1]="Ceremonial Armour of the North Star";[2]="Contains a full ceremonial set of the Armour of the North Star.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
 [1879502832]={[1]="Ceremonial Armour of the Wandering Bard";[2]="Contains a full ceremonial set of the Armour of the Wandering Bard.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
@@ -142256,7 +142257,7 @@ _ITEMSDB =
 [1879503672]={[1]="Black Serpent Scale";[2]="A hardened black scale from a giant serpent.";[3]=178;[4]=2;[5]=0;[6]=false;[7]=false;};
 [1879503673]={[1]="Stone Serpent Statue";[2]="";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879503674]={[1]="Ordâkhai Pavilion";[2]="";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
-[1879503675]={[1]="Polished Steel Targe";[2]="";[3]=33;[4]=2;[5]=4;[6]=false;[7]=false;};
+[1879503675]={[1]="Keen Steel Targe";[2]="";[3]=33;[4]=2;[5]=4;[6]=false;[7]=false;};
 [1879503676]={[1]="Black Serpent Sigil";[2]="";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879503684]={[1]="Razor Scale of Courage";[2]="";[3]=235;[4]=3;[5]=0;[6]=false;[7]=false;};
 [1879503685]={[1]="Tempered Scale of Courage";[2]="";[3]=235;[4]=3;[5]=0;[6]=false;[7]=false;};
@@ -142327,4 +142328,12 @@ _ITEMSDB =
 [1879504030]={[1]="Incomparable Coffer of the Jade Speckled Snake";[2]="Contains Ancient Script and the Tome of the Jade Speckled Snake.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
 [1879504032]={[1]="Legendary Coffer of the Striped Jerboa";[2]="Contains a Cracked Tracery Token, Legendary Enhancement Runes, Ancient Script, and the Tome of the Striped Jerboa.";[3]=27;[4]=1;[5]=0;[6]=false;[7]=false;};
 [1879504035]={[1]="Small Pristine Petaled Structure";[2]="";[3]=85;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879504036]={[1]="Hollowed Whistling Scale";[2]="";[3]=235;[4]=3;[5]=0;[6]=false;[7]=false;};
+[1879504122]={[1]="Cloak of Endless Bones";[2]="";[3]=45;[4]=3;[5]=3;[6]=false;[7]=false;};
+[1879504126]={[1]="Acolyte's Pendant";[2]="A long green bloodstone flecked with red hangs at the end of a pure silver chain.";[3]=49;[4]=3;[5]=3;[6]=false;[7]=false;};
+[1879506257]={[1]="Muster at Dun Shûma";[2]="Allows the Warden to travel to Dun Shûma in Khûd Zagin in the Ikorbân Valley.";[3]=105;[4]=2;[5]=0;[6]=false;[7]=true;};
+[1879506258]={[1]="Guide to Dun Shûma";[2]="Returns you and your Fellowship to Dun Shûma in Khûd Zagin in the Ikorbân Valley. This skill is easily interrupted.";[3]=17;[4]=2;[5]=0;[6]=false;[7]=true;};
+[1879506259]={[1]="Return to Dun Shûma";[2]="You're able to quickly return to Dun Shûma in Khûd Zagin in the Ikorbân Valley. This skill is easily interrupted.";[3]=186;[4]=2;[5]=0;[6]=false;[7]=true;};
+[1879506265]={[1]="Anniversary Seal";[2]="Seals acquired from participating in Anniversary Festival activites.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879506284]={[1]="Ordâkhai Trader Cache";[2]="A small ornate chest contains a rare artifact of the Ordâkhai to be sold in distant lands. Use to select your choice of a rare Ikorban item.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
 };
