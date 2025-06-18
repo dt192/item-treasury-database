@@ -1,5 +1,5 @@
 FIRSTID = 1879049233;
-LASTID  = 1879506389;
+LASTID  = 1879507725;
 
 _ITEMSDB =
 {
@@ -136126,12 +136126,12 @@ _ITEMSDB =
 [1879476002]={[1]="Return to Lond Cirion";[2]="You're able to quickly return to Lond Cirion. This skill is easily interrupted.";[3]=186;[4]=2;[5]=0;[6]=false;[7]=true;};
 [1879476003]={[1]="Guide to Jax Phanâl";[2]="Returns you and your Fellowship to Jax Phanâl on the Cape of Umbar. This skill is easily interrupted.";[3]=17;[4]=2;[5]=0;[6]=false;[7]=true;};
 [1879476004]={[1]="Guide to Halrax";[2]="Returns you and your Fellowship to Halrax in the Shield Isles. This skill is easily interrupted.";[3]=17;[4]=2;[5]=0;[6]=false;[7]=true;};
-[1879476005]={[1]="Muster at Dol Amroth";[2]="Allows the Warden to travel to Dol Amroth in King's Gondor.";[3]=105;[4]=2;[5]=0;[6]=false;[7]=true;};
+[1879476005]={[1]="Muster at Dol Amroth, King's Gondor";[2]="Allows the Warden to travel to Dol Amroth in King's Gondor.";[3]=105;[4]=2;[5]=0;[6]=false;[7]=true;};
 [1879476006]={[1]="Muster at Lond Cirion";[2]="Allows the Warden to travel to Lond Cirion.";[3]=105;[4]=2;[5]=0;[6]=false;[7]=true;};
 [1879476007]={[1]="Return to Halrax";[2]="You're able to quickly return to Halrax in the Shield Isles. This skill is easily interrupted.";[3]=186;[4]=2;[5]=0;[6]=false;[7]=true;};
 [1879476009]={[1]="Return to the Order of the Eagle";[2]="You're able to quickly return to the Lower Ward in Umbar Baharbêl. This skill is easily interrupted.";[3]=186;[4]=2;[5]=0;[6]=false;[7]=true;};
-[1879476010]={[1]="Return to Dol Amroth";[2]="You're able to quickly return to Dol Amroth in King's Gondor. This skill is easily interrupted.";[3]=186;[4]=2;[5]=0;[6]=false;[7]=true;};
-[1879476011]={[1]="Guide to Dol Amroth";[2]="Returns you and your Fellowship to Dol Amroth in King's Gondor. This skill is easily interrupted.";[3]=17;[4]=2;[5]=0;[6]=false;[7]=true;};
+[1879476010]={[1]="Return to Dol Amroth, King's Gondor";[2]="You're able to quickly return to Dol Amroth in King's Gondor. This skill is easily interrupted.";[3]=186;[4]=2;[5]=0;[6]=false;[7]=true;};
+[1879476011]={[1]="Guide to Dol Amroth, King's Gondor";[2]="Returns you and your Fellowship to Dol Amroth in King's Gondor. This skill is easily interrupted.";[3]=17;[4]=2;[5]=0;[6]=false;[7]=true;};
 [1879476014]={[1]="Guide to Lond Cirion";[2]="Returns you and your Fellowship to Lond Cirion. This skill is easily interrupted.";[3]=17;[4]=2;[5]=0;[6]=false;[7]=true;};
 [1879476015]={[1]="The Silvered Fang";[2]="";[3]=10;[4]=3;[5]=3;[6]=false;[7]=true;};
 [1879476016]={[1]="Cold-bite";[2]="";[3]=44;[4]=3;[5]=3;[6]=false;[7]=true;};
@@ -136156,7 +136156,7 @@ _ITEMSDB =
 [1879476156]={[1]="Sail to Lond Cirion";[2]="Using this item will teach you to swiftly sail to Lond Cirion.";[3]=294;[4]=2;[5]=0;[6]=false;[7]=true;};
 [1879476158]={[1]="Sail to Halrax";[2]="Using this item will teach you to swiftly sail to Halrax in the Shield Isles.";[3]=294;[4]=2;[5]=0;[6]=false;[7]=true;};
 [1879476159]={[1]="Sail to Jax Phanâl";[2]="Using this item will teach you to swiftly sail to Jax Phanâl on the Cape of Umbar.";[3]=294;[4]=2;[5]=0;[6]=false;[7]=true;};
-[1879476162]={[1]="Sail to Dol Amroth";[2]="Using this item will teach you to swiftly sail to Dol Amroth in King's Gondor.";[3]=294;[4]=2;[5]=0;[6]=false;[7]=true;};
+[1879476162]={[1]="Sail to Dol Amroth, King's Gondor";[2]="Using this item will teach you to swiftly sail to Dol Amroth in King's Gondor.";[3]=294;[4]=2;[5]=0;[6]=false;[7]=true;};
 [1879476164]={[1]="Vine Circlet";[2]="You can barely tell this circlet was woven in haste -- almost as if the weaver had practised this many times before.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879476169]={[1]="Keen Leather Helm of the Eagle";[2]="";[3]=7;[4]=2;[5]=3;[6]=false;[7]=false;};
 [1879476170]={[1]="Bolstered Iron Pauldrons of the Eagle";[2]="";[3]=6;[4]=2;[5]=3;[6]=false;[7]=false;};
@@ -142194,6 +142194,8 @@ _ITEMSDB =
 [1879503226]={[1]="Replica Fabled Halberd";[2]="";[3]=36;[4]=5;[5]=6;[6]=false;[7]=false;};
 [1879503235]={[1]="Story for Inspiration";[2]="Stories told by the displaced people in Iridír to help Zamína compose a song to honour them.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879503244]={[1]="'Crown of Hamât' Themes";[2]="A selection of music pieces from 'The Crown of Hamât'.";[3]=82;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879503245]={[1]="'The Cracked Flagon' Themes";[2]="A selection of music pieces from inside the Inn in 'Furtherholm'.";[3]=82;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879503246]={[1]="'Furtherholm landscape' Themes";[2]="A selection of music pieces from 'Furtherholm'.";[3]=82;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879503288]={[1]="Replica Fabled Crossbow";[2]="";[3]=29;[4]=5;[5]=6;[6]=false;[7]=false;};
 [1879503309]={[1]="Boat";[2]="";[3]=53;[4]=0;[5]=0;[6]=false;[7]=false;};
 [1879503448]={[1]="Small Trowel";[2]="TBD - Blah!";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
@@ -142358,4 +142360,39 @@ _ITEMSDB =
 [1879506384]={[1]="Saddle of the Able Angler";[2]="This item will reward your character with the Mounted Combat appearance trait, Saddle of the Able Angler.";[3]=173;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879506385]={[1]="Head-piece of the Able Angler";[2]="This item will reward your character with the Mounted Combat appearance trait, Head-piece of the Able Angler.";[3]=173;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879506389]={[1]="War-steed of the Able Angler";[2]="A full set of Able Angler war-steed appearances.";[3]=27;[4]=1;[5]=0;[6]=false;[7]=false;};
+[1879507639]={[1]="Loyal Knight Patron's Enhanced Cosmetics Coffer";[2]="Cosmetics for a valued patron.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879507640]={[1]="Loyal Knight Patron's Luxuriant Cosmetics Coffer";[2]="Cosmetics for a valued patron.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879507641]={[1]="Loyal Knight Patron's Enhanced Mithril Coffer";[2]="Contains Mithril Coins and Virtue XP.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879507642]={[1]="Loyal Knight Patron's Luxuriant Mithril Coffer";[2]="Contains Mithril Coins and Virtue XP.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879507644]={[1]="Loyal Knight Patron's Luxuriant Wardrobe Cosmetics";[2]="Cosmetics for a valued patron that can be placed in the wardrobe.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879507645]={[1]="Loyal Knight Patron's Simple Mithril Coffer";[2]="Contains Mithril Coins.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879507650]={[1]="Loyal Knight Patron's Simple Cosmetics Coffer";[2]="Cosmetics for a valued patron.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879507656]={[1]="Ceremonial Great Axe of the Loyal Knight";[2]="";[3]=12;[4]=5;[5]=6;[6]=false;[7]=false;};
+[1879507678]={[1]="Tome of the Sea-side Kite";[2]="Using this item will teach you to fly a sea-side kite.";[3]=186;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879507679]={[1]="Tome of the Loyal Goose of Gondor";[2]="Using this item will teach you to summon a loyal goose companion.";[3]=186;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879507682]={[1]="Sea-side Steed";[2]="You can use this token to learn a skill to call this mount. Using this token will grant you the Sea-side Steed skill.";[3]=8;[4]=5;[5]=0;[6]=false;[7]=true;};
+[1879507685]={[1]="Steed of the Loyal Knight";[2]="You can use this token to learn a skill to call this mount. Using this token will grant you the Steed of the Loyal Knight skill.";[3]=8;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879507693]={[1]="Sea-side Saddle";[2]="This item will reward your character with the Mounted Combat appearance trait, Sea-side Saddle.";[3]=173;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879507695]={[1]="Sea-side Head-piece";[2]="This item will reward your character with the Mounted Combat appearance trait, Sea-side Head-piece.";[3]=173;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879507701]={[1]="Sea-side Caparison";[2]="This item will reward your character with the Mounted Combat appearance trait, Sea-side Caparison.";[3]=173;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879507702]={[1]="Seaside Wisteria Planter";[2]="";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879507703]={[1]="Seaside Jacaranda Planter";[2]="";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879507704]={[1]="Small Seaside Wisteria Planter";[2]="";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879507705]={[1]="Small Seaside Jacaranda Planter";[2]="";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879507706]={[1]="Sea-side Tote";[2]="";[3]=96;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879507707]={[1]="Sea-side Wading Shoes";[2]="";[3]=180;[4]=5;[5]=6;[6]=false;[7]=false;};
+[1879507708]={[1]="Sea-side Bathing Costume";[2]="";[3]=182;[4]=5;[5]=6;[6]=false;[7]=false;};
+[1879507709]={[1]="Pauldrons of the Loyal Knight";[2]="";[3]=181;[4]=5;[5]=6;[6]=false;[7]=false;};
+[1879507710]={[1]="Cloak of the Loyal Knight";[2]="";[3]=97;[4]=5;[5]=6;[6]=false;[7]=false;};
+[1879507711]={[1]="Greaves of the Loyal Knight";[2]="";[3]=180;[4]=5;[5]=6;[6]=false;[7]=false;};
+[1879507712]={[1]="Sea-side Sun Hat";[2]="";[3]=183;[4]=5;[5]=6;[6]=false;[7]=false;};
+[1879507713]={[1]="Armour of the Loyal Knight";[2]="";[3]=182;[4]=5;[5]=6;[6]=false;[7]=false;};
+[1879507714]={[1]="Hooded Cloak of the Loyal Knight";[2]="";[3]=97;[4]=5;[5]=6;[6]=false;[7]=false;};
+[1879507715]={[1]="Helm of the Loyal Knight";[2]="";[3]=183;[4]=5;[5]=6;[6]=false;[7]=false;};
+[1879507717]={[1]="Gauntlets of the Loyal Knight";[2]="";[3]=184;[4]=5;[5]=6;[6]=false;[7]=false;};
+[1879507719]={[1]="Sea-side Bow Headwrap";[2]="";[3]=183;[4]=5;[5]=6;[6]=false;[7]=false;};
+[1879507720]={[1]="Sea-side War-steed Cosmetics";[2]="Contains Sea-side War-steed appearances. Using this item will bind all contents to your character.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879507721]={[1]="Sea-side Garments - Gift-wrapped Selection Box";[2]="A Sea-side garment, packaged, and ready to gift to someone special in your life. Use to select a garment of your choice.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879507722]={[1]="Weapon Aura of the Loyal Knight";[2]="Your weapon glows in the style of a loyal knight.";[3]=253;[4]=3;[5]=0;[6]=false;[7]=false;};
+[1879507725]={[1]="Grant the Milestone Style of the Loyal Knight Emote";[2]="Using this item will grant you the Loyal Knight milestone travel style emote (/milestone_knight).";[3]=174;[4]=5;[5]=0;[6]=false;[7]=false;};
 };
