@@ -1,5 +1,5 @@
 FIRSTID = 1879049233;
-LASTID  = 1879509434;
+LASTID  = 1879513805;
 
 _ITEMSDB =
 {
@@ -141525,7 +141525,7 @@ _ITEMSDB =
 [1879498864]={[1]="Rack of Barrels";[2]="";[3]=85;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879498865]={[1]="Rack of Potato Barrels";[2]="";[3]=85;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879498866]={[1]="Empty Store-room Rack";[2]="";[3]=85;[4]=5;[5]=0;[6]=false;[7]=false;};
-[1879498867]={[1]="Market Medly";[2]="";[3]=85;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879498867]={[1]="Market Medley";[2]="";[3]=85;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879498868]={[1]="Burlap Sack";[2]="";[3]=85;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879498869]={[1]="Tied Burlap Sack";[2]="";[3]=85;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879498870]={[1]="Sack of Berries";[2]="";[3]=85;[4]=5;[5]=0;[6]=false;[7]=false;};
@@ -141775,11 +141775,11 @@ _ITEMSDB =
 [1879499596]={[1]="Eagle-owl";[2]="Class: Predator Subclass: Owls Type: Owl Found in: Fangorn Habitats: Forest, mountains";[3]=102;[4]=4;[5]=0;[6]=false;[7]=false;};
 [1879499597]={[1]="Fox-falcon";[2]="Class: Predator Subclass: Raptors Type: Buzzard Found in: The Entwash Habitats: Woods, slopes, heath, moors";[3]=102;[4]=4;[5]=0;[6]=false;[7]=false;};
 [1879499598]={[1]="Cleft-plover";[2]="Class: Water Subclass: Wading Type: Plover Found in: The Great River and the Wold Habitats: Lakes, rivers";[3]=102;[4]=5;[5]=0;[6]=false;[7]=false;};
-[1879499599]={[1]="Helmed Mew";[2]="Class: Water Subclass: Sea-bird Type: Gull Found in: The Eastfold Habitats: Marshes, pools, plains";[3]=102;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879499599]={[1]="Helmed Mew";[2]="Class: Water Subclass: Sea-bird Type: Gull Found in: The Eastfold and Anórien Habitats: Marshes, pools, plains";[3]=102;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879499600]={[1]="Masked Butcher-bird";[2]="Class: Tree Subclass: Perching Type: Shrike Found in: The Westfold Habitats: Bushy areas";[3]=102;[4]=4;[5]=0;[6]=false;[7]=false;};
 [1879499601]={[1]="Acre-gander";[2]="Class: Water Subclass: Waterfowl Type: Goose Found in: The Croftlands and the Entwash Habitats: Lakes, marshes, farmland";[3]=102;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879499602]={[1]="Celebrant Crossbill";[2]="Class: Tree Subclass: Perching Type: Finch Found in: The Great River Habitats: Woods, fields";[3]=102;[4]=4;[5]=0;[6]=false;[7]=false;};
-[1879499603]={[1]="Anduin Eagle";[2]="Class: Predator Subclass: Raptors Type: Eagle Found in: The Eastfold Habitats: Plains, slopes, woods";[3]=102;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879499603]={[1]="Anduin Eagle";[2]="Class: Predator Subclass: Raptors Type: Eagle Found in: The Eastfold and Anórien Habitats: Plains, slopes, woods";[3]=102;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879499604]={[1]="Hoopoe";[2]="Class: Ground Subclass: Fowl Type: Hoopoe Found in: The Croftlands Habitats: Heaths, farmland, woods";[3]=102;[4]=3;[5]=0;[6]=false;[7]=false;};
 [1879499605]={[1]="Grey Shrike";[2]="Class: Tree Subclass: Perching Type: Shrike Found in: The Entwash Habitats: Heath, moors, woods";[3]=102;[4]=4;[5]=0;[6]=false;[7]=false;};
 [1879499606]={[1]="Greydaw";[2]="Class: Tree Subclass: Perching Type: Crow Found in: The Westfold Habitats: Pastures, cliffs, gorges";[3]=102;[4]=4;[5]=0;[6]=false;[7]=false;};
@@ -142642,23 +142642,32 @@ _ITEMSDB =
 [1879508539]={[1]="Tome of the Striped Oryx";[2]="Using this item will teach you to summon a striped oryx.";[3]=186;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879508553]={[1]="Tome of the Young Striped Oryx";[2]="Using this item will teach you to summon a young striped oryx.";[3]=186;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879508562]={[1]="Tome of the Marsh Scorpion";[2]="Using this item will teach you to summon a marsh scorpion.";[3]=186;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879508689]={[1]="Season of the Nemesis Portrait Frame";[2]="Contains the Season of the Nemesis Portrait Frame.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
 [1879508691]={[1]="Monster Player Reward Track - Appearance Choice Box";[2]="A selection of appearances for monster players.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
+[1879508692]={[1]="Season of Spirits Portrait Frame";[2]="Contains the Season of Spirits Portrait Frame.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
 [1879508694]={[1]="Monster Player Reward Track - Appearance Choice Box";[2]="A selection of appearances for monster players.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
+[1879508696]={[1]="Season of Scorn Portrait Frame";[2]="Contains the Season of Scorn Portrait Frame.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
 [1879508697]={[1]="Monster Player Reward Track - Cosmetic Choice Box";[2]="A selection of appearances, cosmetic weapons, and March! Vfx for monster players.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
+[1879508698]={[1]="Title: 'Abomination'";[2]="Contains the 'Abomination' Title.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
 [1879508699]={[1]="Monster Player Reward Track - Cosmetic Choice Box";[2]="A selection of appearances, cosmetic weapons, and March! Vfx for monster players.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
 [1879508701]={[1]="Monster Player Reward Track - Appearance Choice Box";[2]="A selection of appearances for monster players.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
 [1879508702]={[1]="Monster Player Reward Track - Appearance Choice Box";[2]="A selection of appearances for monster players.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
+[1879508703]={[1]="Title: 'Servant of Shadows'";[2]="Contains the 'Servant of Shadows' Title.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
+[1879508704]={[1]="Title: 'Angmar's Enforcer'";[2]="Contains the 'Angmar's Enforcer' Title.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
+[1879508705]={[1]="Title: 'Scourge of the Ettenmoors'";[2]="Contains the 'Scourge of the Ettenmoors' Title.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
 [1879508706]={[1]="Monster Player Reward Track - Cosmetic Choice Box";[2]="A selection of appearances, cosmetic weapons, and March! Vfx for monster players.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
 [1879508707]={[1]="Monster Player Reward Track - Cosmetic Choice Box";[2]="A selection of appearances, cosmetic weapons, and March! Vfx for monster players.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
+[1879508708]={[1]="Season of Malice Portrait Frame";[2]="Contains the Season of Malice Portrait Frame.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
 [1879508709]={[1]="Title Writ - Repected Voice";[2]="A writ granting the rights and privileges of wearing the 'Respected Voice' title.";[3]=27;[4]=2;[5]=0;[6]=false;[7]=true;};
 [1879508714]={[1]="Title Writ - Benevolence Incarnate";[2]="A writ granting the rights and privileges of wearing the 'Benevolence Incarnate' title.";[3]=27;[4]=2;[5]=0;[6]=false;[7]=true;};
 [1879508715]={[1]="Title Writ - Bearer of Truth";[2]="A writ granting the rights and privileges of wearing the 'Bearer of Truth' title.";[3]=27;[4]=2;[5]=0;[6]=false;[7]=true;};
 [1879508716]={[1]="Title Writ - Nemesis of the Free";[2]="A writ granting the rights and privileges of wearing the 'Nemesis of the Free' title.";[3]=27;[4]=2;[5]=0;[6]=false;[7]=true;};
 [1879508718]={[1]="Title Writ - Malice Incarnate";[2]="A writ granting the rights and privileges of wearing the 'Malice Incarnate' title.";[3]=27;[4]=2;[5]=0;[6]=false;[7]=true;};
 [1879508721]={[1]="Title Writ - Spirit's Guide";[2]="A writ granting the rights and privileges of wearing the 'Spirit's Guide' title.";[3]=27;[4]=2;[5]=0;[6]=false;[7]=true;};
+[1879508723]={[1]="Title Writ - Scornful Wrath";[2]="A writ granting the rights and privileges of wearing the 'Scornful Wrath' title.";[3]=27;[4]=2;[5]=0;[6]=false;[7]=true;};
 [1879508724]={[1]="Title Writ - Spirit's Scourge";[2]="A writ granting the rights and privileges of wearing the 'Spirit's Scourge' title.";[3]=27;[4]=2;[5]=0;[6]=false;[7]=true;};
-[1879508775]={[1]="Key of Lugazag";[2]="A key fitting the lock of the chest offered to the warriors at Lugazag in the Ettenmoors.";[3]=31;[4]=2;[5]=0;[6]=false;[7]=false;};
-[1879508776]={[1]="Key of Tírith Rhaw";[2]="A key fitting the lock of the chest offered to the warriors at Tírith Rhaw in the Ettenmoors.";[3]=31;[4]=2;[5]=0;[6]=false;[7]=false;};
+[1879508775]={[1]="Key of Lugazag";[2]="A key fitting the lock of the chest offered to the warriors at Lugazag in the Ettenmoors.";[3]=31;[4]=2;[5]=0;[6]=false;[7]=true;};
+[1879508776]={[1]="Key of Tírith Rhaw";[2]="A key fitting the lock of the chest offered to the warriors at Tírith Rhaw in the Ettenmoors.";[3]=31;[4]=2;[5]=0;[6]=false;[7]=true;};
 [1879508808]={[1]="Legendary Coffer of the Dread-filled Dwelling";[2]="Contains a Cracked Tracery Token, Legendary Enhancement Runes, Ancient Script, and the Dread-filled Dwelling housing bundle.";[3]=27;[4]=1;[5]=0;[6]=false;[7]=false;};
 [1879508810]={[1]="Dread-filled Dwelling Housing Collection";[2]="Contains various housing items to create a dread-filled dwelling. Includes cobwebs, candelabras, tables, and the Unwelcome Mat with a Spectre of the Gloom of Nurn.";[3]=27;[4]=1;[5]=0;[6]=false;[7]=false;};
 [1879508813]={[1]="Legendary Coffer of the Marsh Scorpion";[2]="Contains a Cracked Tracery Token and the Tome of the Marsh Scorpion.";[3]=27;[4]=1;[5]=0;[6]=false;[7]=false;};
@@ -142729,6 +142738,10 @@ _ITEMSDB =
 [1879509160]={[1]="Kighâni Potato";[2]="";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879509161]={[1]="Sticks for Fire";[2]="";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879509162]={[1]="Honeycomb";[2]="";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879509201]={[1]="Season of Scorn Frame";[2]="This item, when used, will grant you a new portrait frame.";[3]=205;[4]=5;[5]=0;[6]=false;[7]=true;};
+[1879509202]={[1]="Season of the Spirit Frame";[2]="This item, when used, will grant you a new portrait frame.";[3]=205;[4]=5;[5]=0;[6]=false;[7]=true;};
+[1879509203]={[1]="Season of the Nemesis Frame";[2]="This item, when used, will grant you a new portrait frame.";[3]=205;[4]=5;[5]=0;[6]=false;[7]=true;};
+[1879509204]={[1]="Season of Malice Frame";[2]="This item, when used, will grant you a new portrait frame.";[3]=205;[4]=5;[5]=0;[6]=false;[7]=true;};
 [1879509205]={[1]="Season of Scorn Free People Frame";[2]="This item, when used, will grant you a new portrait frame.";[3]=205;[4]=5;[5]=0;[6]=false;[7]=true;};
 [1879509206]={[1]="Season of the Spirit Free People Frame";[2]="This item, when used, will grant you a new portrait frame.";[3]=205;[4]=5;[5]=0;[6]=false;[7]=true;};
 [1879509207]={[1]="Season of the Nemesis Free People Frame";[2]="This item, when used, will grant you a new portrait frame.";[3]=205;[4]=5;[5]=0;[6]=false;[7]=true;};
@@ -142797,4 +142810,6 @@ _ITEMSDB =
 [1879509432]={[1]="Hand-sketched Painting of Curious Corvids";[2]="";[3]=88;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879509433]={[1]="Hand-sketched Painting of Meticulous Mallards";[2]="";[3]=88;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879509434]={[1]="Hand-sketched Painting of a Peticular Perching";[2]="";[3]=88;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879513804]={[1]="Tower Control Rewards";[2]="Contains Marta, and some Commendations. This item will decay and be destroyed if not used.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
+[1879513805]={[1]="Tower Control Rewards";[2]="Contains Marta, and some Commendations. This item will decay and be destroyed if not used.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
 };
