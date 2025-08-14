@@ -1,5 +1,5 @@
 FIRSTID = 1879049233;
-LASTID  = 1879513805;
+LASTID  = 1879514536;
 
 _ITEMSDB =
 {
@@ -63560,20 +63560,20 @@ _ITEMSDB =
 [1879223165]={[1]="Yellow & Blue Spotted Egg";[2]="A freshly laid chicken egg, its shell is brightly coloured.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879223166]={[1]="Blue & Red Spotted Egg";[2]="A freshly laid chicken egg, its shell is brightly coloured.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879223168]={[1]="Green & Yellow Spotted Egg";[2]="A freshly laid chicken egg. Can be traded to other players, or used to receive 5 Farmers Faire Tokens.";[3]=205;[4]=2;[5]=0;[6]=false;[7]=false;};
-[1879223169]={[1]="Blue & White Striped Egg";[2]="A freshly laid chicken egg. Can be traded to other players, or used to receive 10 Farmers Faire Tokens.";[3]=205;[4]=2;[5]=0;[6]=false;[7]=false;};
+[1879223169]={[1]="Blue & White Striped Egg";[2]="A freshly laid chicken egg. Can be traded to other players, or used to receive 5 Farmers Faire Tokens.";[3]=205;[4]=2;[5]=0;[6]=false;[7]=false;};
 [1879223170]={[1]="Blue Egg";[2]="A freshly laid chicken egg. Can be traded to other players, or used to receive 2 Farmers Faire Tokens.";[3]=205;[4]=4;[5]=0;[6]=false;[7]=false;};
 [1879223171]={[1]="Purple Egg";[2]="A freshly laid chicken egg. Can be traded to other players, or used to receive 2 Farmers Faire Tokens.";[3]=205;[4]=4;[5]=0;[6]=false;[7]=false;};
 [1879223172]={[1]="Purple & Blue Spotted Egg";[2]="A freshly laid chicken egg. Can be traded to other players, or used to receive 5 Farmers Faire Tokens.";[3]=205;[4]=2;[5]=0;[6]=false;[7]=false;};
 [1879223173]={[1]="Red Egg";[2]="A freshly laid chicken egg. Can be traded to other players, or used to receive 2 Farmers Faire Tokens.";[3]=205;[4]=4;[5]=0;[6]=false;[7]=false;};
 [1879223174]={[1]="Orange & Red Spotted Egg";[2]="A freshly laid chicken egg. Can be traded to other players, or used to receive 5 Farmers Faire Tokens.";[3]=205;[4]=2;[5]=0;[6]=false;[7]=false;};
-[1879223175]={[1]="Yellow & Red Striped Egg";[2]="A freshly laid chicken egg. Can be traded to other players, or used to receive 10 Farmers Faire Tokens.";[3]=205;[4]=2;[5]=0;[6]=false;[7]=false;};
+[1879223175]={[1]="Yellow & Red Striped Egg";[2]="A freshly laid chicken egg. Can be traded to other players, or used to receive 5 Farmers Faire Tokens.";[3]=205;[4]=2;[5]=0;[6]=false;[7]=false;};
 [1879223176]={[1]="Green Egg";[2]="A freshly laid chicken egg. Can be traded to other players, or used to receive 2 Farmers Faire Tokens.";[3]=205;[4]=4;[5]=0;[6]=false;[7]=false;};
 [1879223177]={[1]="Blue & Red Spotted Egg";[2]="A freshly laid chicken egg. Can be traded to other players, or used to receive 5 Farmers Faire Tokens.";[3]=205;[4]=2;[5]=0;[6]=false;[7]=false;};
-[1879223178]={[1]="Orange & Purple Striped Egg";[2]="A freshly laid chicken egg. Can be traded to other players, or used to receive 10 Farmers Faire Tokens.";[3]=205;[4]=2;[5]=0;[6]=false;[7]=false;};
+[1879223178]={[1]="Orange & Purple Striped Egg";[2]="A freshly laid chicken egg. Can be traded to other players, or used to receive 5 Farmers Faire Tokens.";[3]=205;[4]=2;[5]=0;[6]=false;[7]=false;};
 [1879223180]={[1]="Orange Egg";[2]="A freshly laid chicken egg. Can be traded to other players, or used to receive 2 Farmers Faire Tokens.";[3]=205;[4]=4;[5]=0;[6]=false;[7]=false;};
-[1879223181]={[1]="Pink & Purple Striped Egg";[2]="A freshly laid chicken egg. Can be traded to other players, or used to receive 10 Farmers Faire Tokens.";[3]=205;[4]=2;[5]=0;[6]=false;[7]=false;};
-[1879223182]={[1]="Red & Green Striped Egg";[2]="A freshly laid chicken egg. Can be traded to other players, or used to receive 10 Farmers Faire Tokens.";[3]=205;[4]=2;[5]=0;[6]=false;[7]=false;};
-[1879223183]={[1]="Golden Egg";[2]="The legendary Golden Egg! Can be used to receive 50 Farmers Faire Tokens.";[3]=205;[4]=3;[5]=0;[6]=false;[7]=false;};
+[1879223181]={[1]="Pink & Purple Striped Egg";[2]="A freshly laid chicken egg. Can be traded to other players, or used to receive 5 Farmers Faire Tokens.";[3]=205;[4]=2;[5]=0;[6]=false;[7]=false;};
+[1879223182]={[1]="Red & Green Striped Egg";[2]="A freshly laid chicken egg. Can be traded to other players, or used to receive 5 Farmers Faire Tokens.";[3]=205;[4]=2;[5]=0;[6]=false;[7]=false;};
+[1879223183]={[1]="Golden Egg";[2]="The legendary Golden Egg! Can be used to receive 20 Farmers Faire Tokens.";[3]=205;[4]=3;[5]=0;[6]=false;[7]=false;};
 [1879223184]={[1]="Yellow & Blue Spotted Egg";[2]="A freshly laid chicken egg. Can be traded to other players, or used to receive 5 Farmers Faire Tokens.";[3]=205;[4]=2;[5]=0;[6]=false;[7]=false;};
 [1879223249]={[1]="Pint of Strong Ale";[2]="A pint of strong ale from Thorin's Hall.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879223251]={[1]="Carved Wooden Squirrel";[2]="A carved wooden squirrel.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
@@ -138005,6 +138005,7 @@ _ITEMSDB =
 [1879480618]={[1]="Tome of the Vivid Green Snake";[2]="Using this item will teach you to summon a snake companion.";[3]=186;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879480625]={[1]="Tome of the Ill Omened Jackal";[2]="Using this item will teach you to summon an ill omened jackal.";[3]=186;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879480626]={[1]="Tome of the Ill Omened Snake";[2]="Using this item will teach you to summon an ill omened snake.";[3]=186;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879480635]={[1]="Tome of the Deep Emerald Snake";[2]="Using this item will teach you to summon a snake companion.";[3]=186;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879480637]={[1]="Tome of the Ill Omened Crab";[2]="Using this item will teach you to summon an ill omened crab.";[3]=186;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879480654]={[1]="Keeper's Ring of the Onslaught";[2]="";[3]=49;[4]=3;[5]=3;[6]=false;[7]=false;};
 [1879480659]={[1]="Keeper's Ring of the Citadel";[2]="";[3]=49;[4]=3;[5]=3;[6]=false;[7]=false;};
@@ -138860,6 +138861,10 @@ _ITEMSDB =
 [1879485133]={[1]="Hírkha";[2]="A frightened dog lost in the sewers beneath the Sail-haven of Umbar Baharbêl.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879485145]={[1]="Umbari Greater Athelas Essence Recipe";[2]="Using this scroll grants a scholar recipe.";[3]=275;[4]=2;[5]=0;[6]=false;[7]=false;};
 [1879485146]={[1]="Umbari Greater Celebrant Essence Recipe";[2]="Using this scroll grants a scholar recipe.";[3]=275;[4]=2;[5]=0;[6]=false;[7]=false;};
+[1879485168]={[1]="Entry to Tirith Rhaw Tower";[2]="A flag imbued with ancient magic to transport good beings into Tírith Rhaw.";[3]=173;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879485169]={[1]="Entry to Lugazag Tower";[2]="A flag imbued with ancient magic to transport good beings into Lugazag.";[3]=173;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879485170]={[1]="Entry to Lugazag Tower";[2]="A flag imbued with fell magic to transport evil creatures into Lugazag.";[3]=173;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879485172]={[1]="Entry to Tirith Rhaw Tower";[2]="A flag imbued with fell magic to transport evil creatures into Tírith Rhaw.";[3]=173;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879485190]={[1]="Unassuming Brick Wall";[2]="";[3]=53;[4]=0;[5]=0;[6]=false;[7]=false;};
 [1879485191]={[1]="Faded Letter";[2]="You received this letter and handed it to a town crier at least a year ago.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879485234]={[1]="Whimsically Robed Tunic and Leggings";[2]="";[3]=182;[4]=5;[5]=6;[6]=false;[7]=false;};
@@ -138994,6 +138999,10 @@ _ITEMSDB =
 [1879486231]={[1]="Superior Schematic: Ballista";[2]="Builds and deploys a superior ballista when used atop or outside of Tírith Rhaw or LugazagCannot be placed too near other siege equipment.";[3]=57;[4]=3;[5]=0;[6]=false;[7]=false;};
 [1879486232]={[1]="Advanced Schematic: Ballista";[2]="Builds and deploys a strong ballista when used atop or outside of Tírith Rhaw or LugazagCannot be placed too near other siege equipment.";[3]=57;[4]=2;[5]=0;[6]=false;[7]=false;};
 [1879486233]={[1]="Superior Schematic: Catapult Team";[2]="Builds and deploys a superior catapult when used outside of Tírith Rhaw or LugazagCannot be placed too near other siege equipment.";[3]=57;[4]=3;[5]=0;[6]=false;[7]=false;};
+[1879486237]={[1]="Exit Tirith Rhaw Tower";[2]="A flag imbued with fell magic to transport evil creatures out of Tírith Rhaw.";[3]=173;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879486238]={[1]="Exit Lugazag Tower";[2]="A flag imbued with ancient magic to transport good beings out of Lugazag.";[3]=173;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879486239]={[1]="Exit Lugazag Tower";[2]="A flag imbued with fell magic to transport evil creatures out of Lugazag.";[3]=173;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879486244]={[1]="Exit Tirith Rhaw Tower";[2]="A flag imbued with ancient magic to transport good beings out of Tírith Rhaw.";[3]=173;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879486300]={[1]="Bone-littered Floor";[2]="";[3]=83;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879486301]={[1]="Muddy Clay Floor";[2]="";[3]=83;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879486302]={[1]="Old Concrete Floor";[2]="";[3]=83;[4]=5;[5]=0;[6]=false;[7]=false;};
@@ -139941,17 +139950,23 @@ _ITEMSDB =
 [1879490199]={[1]="Ornamental Heavy Armour of the Early Ettenmoors - Selection Box I";[2]="A selection box of heavy cosmetic armour pieces from the early days of the battle in the Ettenmoors.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879490208]={[1]="Key of Angmar";[2]="A key fitting the lock of the chest offered to the warriors of Angmar in the Ettenmoors.";[3]=31;[4]=3;[5]=0;[6]=false;[7]=false;};
 [1879490210]={[1]="Exceptional Key of Glân Vraig";[2]="A key fitting the lock of the most valuable chest found in the Free Peoples' base at Glân Vrag.";[3]=31;[4]=3;[5]=0;[6]=false;[7]=false;};
+[1879490319]={[1]="Warrior's Bright Ring of Scintillating Hope";[2]="";[3]=49;[4]=1;[5]=3;[6]=false;[7]=false;};
 [1879490320]={[1]="Amelia's Flickering Ring of Hope";[2]="";[3]=49;[4]=3;[5]=3;[6]=false;[7]=false;};
 [1879490321]={[1]="Amelia's Golden Bracer";[2]="";[3]=49;[4]=2;[5]=3;[6]=false;[7]=false;};
 [1879490322]={[1]="Amelia's Glimmering Ring of Hope";[2]="";[3]=49;[4]=3;[5]=3;[6]=false;[7]=false;};
 [1879490323]={[1]="Amelia's Golden Bracer of Hope";[2]="";[3]=49;[4]=3;[5]=3;[6]=false;[7]=false;};
+[1879490325]={[1]="Healer's Courageous Ring of Scintillating Hope";[2]="";[3]=49;[4]=1;[5]=3;[6]=false;[7]=false;};
 [1879490327]={[1]="Amelia's Pure Bracer of Hope";[2]="";[3]=49;[4]=3;[5]=3;[6]=false;[7]=false;};
 [1879490329]={[1]="Amelia's Glimmering Ring";[2]="";[3]=49;[4]=2;[5]=3;[6]=false;[7]=false;};
 [1879490330]={[1]="Amelia's Beautiful Earring";[2]="";[3]=49;[4]=2;[5]=3;[6]=false;[7]=false;};
 [1879490331]={[1]="Amelia's Graceful Earring";[2]="";[3]=49;[4]=2;[5]=3;[6]=false;[7]=false;};
+[1879490332]={[1]="Warrior's Courageous Bracer of Scintillating Hope";[2]="";[3]=49;[4]=1;[5]=3;[6]=false;[7]=false;};
+[1879490333]={[1]="Scholar's Bright Bracer of Scintillating Hope";[2]="";[3]=49;[4]=1;[5]=3;[6]=false;[7]=false;};
 [1879490334]={[1]="Amelia's Beautiful Earring of Hope";[2]="";[3]=49;[4]=3;[5]=3;[6]=false;[7]=false;};
+[1879490335]={[1]="Healer's Bright Earring of Scintillating Hope";[2]="";[3]=49;[4]=1;[5]=3;[6]=false;[7]=false;};
 [1879490337]={[1]="Amelia's Pure Bracer";[2]="";[3]=49;[4]=2;[5]=3;[6]=false;[7]=false;};
 [1879490338]={[1]="Amelia's Graceful Earring of Hope";[2]="";[3]=49;[4]=3;[5]=3;[6]=false;[7]=false;};
+[1879490339]={[1]="Scholar's Courageous Earring of Scintillating Hope";[2]="";[3]=49;[4]=1;[5]=3;[6]=false;[7]=false;};
 [1879490341]={[1]="Amelia's Flickering Ring";[2]="";[3]=49;[4]=2;[5]=3;[6]=false;[7]=false;};
 [1879490380]={[1]="Amelia's Research Scroll";[2]="Amelia's research into the powers of the Ringwraiths can be advanced by studying these scrolls. Faction: Amelia's Studies (50 points) Use this item to immediately gain reputation in this faction.";[3]=89;[4]=2;[5]=0;[6]=false;[7]=false;};
 [1879490382]={[1]="Amelia's Research Tome";[2]="Amelia's research into the powers of the Ringwraiths can be advanced by studying these tomes. Faction: Amelia's Studies (250 points) Use this item to immediately gain reputation in this faction.";[3]=89;[4]=3;[5]=0;[6]=false;[7]=false;};
@@ -142652,7 +142667,7 @@ _ITEMSDB =
 [1879508699]={[1]="Monster Player Reward Track - Cosmetic Choice Box";[2]="A selection of appearances, cosmetic weapons, and March! Vfx for monster players.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
 [1879508701]={[1]="Monster Player Reward Track - Appearance Choice Box";[2]="A selection of appearances for monster players.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
 [1879508702]={[1]="Monster Player Reward Track - Appearance Choice Box";[2]="A selection of appearances for monster players.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
-[1879508703]={[1]="Title: 'Servant of Shadows'";[2]="Contains the 'Servant of Shadows' Title.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
+[1879508703]={[1]="Title: 'Nemesis of the Free'";[2]="Contains the 'Nemesis of the Free' Title.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
 [1879508704]={[1]="Title: 'Angmar's Enforcer'";[2]="Contains the 'Angmar's Enforcer' Title.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
 [1879508705]={[1]="Title: 'Scourge of the Ettenmoors'";[2]="Contains the 'Scourge of the Ettenmoors' Title.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
 [1879508706]={[1]="Monster Player Reward Track - Cosmetic Choice Box";[2]="A selection of appearances, cosmetic weapons, and March! Vfx for monster players.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
@@ -142675,9 +142690,9 @@ _ITEMSDB =
 [1879508817]={[1]="Harvest's Bounty Housing Collection";[2]="Contains various housing items to fill your larder and celebrate the bounty of the harvest. Includes a boar's head trophy and various crates, sacks, and kegs of foodstuffs.";[3]=27;[4]=1;[5]=0;[6]=false;[7]=false;};
 [1879508821]={[1]="Legendary Coffer of Harvest's Bounty";[2]="Contains a Cracked Tracery Token and the Harvest's Bounty housing bundle.";[3]=27;[4]=1;[5]=0;[6]=false;[7]=false;};
 [1879508823]={[1]="Small Cauldron Table";[2]="";[3]=85;[4]=2;[5]=0;[6]=false;[7]=false;};
-[1879508824]={[1]="Cloth Table";[2]="";[3]=85;[4]=2;[5]=0;[6]=false;[7]=false;};
+[1879508824]={[1]="Shrouded Table";[2]="";[3]=85;[4]=2;[5]=0;[6]=false;[7]=false;};
 [1879508825]={[1]="Dripping Wax Candelabra";[2]="";[3]=88;[4]=2;[5]=0;[6]=false;[7]=false;};
-[1879508826]={[1]="Small Cloth Table";[2]="";[3]=85;[4]=2;[5]=0;[6]=false;[7]=false;};
+[1879508826]={[1]="Small Shrouded Table";[2]="";[3]=85;[4]=2;[5]=0;[6]=false;[7]=false;};
 [1879508827]={[1]="Large Cauldron";[2]="Filled with a green, sputtering mixture. It is not dangerous to consume, it just tastes bad.";[3]=87;[4]=2;[5]=0;[6]=false;[7]=false;};
 [1879508828]={[1]="Tinctures Table";[2]="";[3]=85;[4]=2;[5]=0;[6]=false;[7]=false;};
 [1879508837]={[1]="Farm to Table Bundle (Meats & Grains)";[2]="This contains two copies of each of the following items: Partial Crate of Fish, Crate of Grains, Partial Crate of Grains, Partial Crate of Meats, Sack of Grains.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
@@ -142812,4 +142827,18 @@ _ITEMSDB =
 [1879509434]={[1]="Hand-sketched Painting of a Peticular Perching";[2]="";[3]=88;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879513804]={[1]="Tower Control Rewards";[2]="Contains Marta, and some Commendations. This item will decay and be destroyed if not used.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
 [1879513805]={[1]="Tower Control Rewards";[2]="Contains Marta, and some Commendations. This item will decay and be destroyed if not used.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
+[1879514063]={[1]="Tome of the Dark Grey Goat";[2]="Using this item will teach you to summon a dark grey goat.";[3]=186;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879514519]={[1]="Apple-picker's Steed";[2]="You can use this token to learn a skill to call this mount. Using this token will grant you the Apple-picker's Steed skill.";[3]=8;[4]=5;[5]=0;[6]=false;[7]=true;};
+[1879514520]={[1]="Apple-picker's Caparison";[2]="This item will reward your character with the Mounted Combat appearance trait, Apple-picker's Caparison.";[3]=173;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879514522]={[1]="Apple-picker's Saddle";[2]="This item will reward your character with the Mounted Combat appearance trait, Apple-picker's Saddle.";[3]=173;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879514523]={[1]="Apple-picker's Accessory";[2]="This item will reward your character with the Mounted Combat appearance trait, Apple-picker's Accessory.";[3]=173;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879514526]={[1]="Apple-picker's Chair";[2]="";[3]=85;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879514527]={[1]="Apple-picker's Banner";[2]="";[3]=88;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879514528]={[1]="Apple-picker's Party Set";[2]="";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879514529]={[1]="Apple-picker's Dress";[2]="";[3]=182;[4]=5;[5]=6;[6]=false;[7]=false;};
+[1879514530]={[1]="Apple-picker's Fancy Hat";[2]="";[3]=183;[4]=5;[5]=6;[6]=false;[7]=false;};
+[1879514531]={[1]="Apple-picker's Tunic and Trousers";[2]="";[3]=182;[4]=5;[5]=6;[6]=false;[7]=false;};
+[1879514532]={[1]="Apple-picker's Pack";[2]="";[3]=97;[4]=5;[5]=6;[6]=false;[7]=false;};
+[1879514535]={[1]="Apple-picker's War-steed Cosmetics";[2]="Contains Apple-picker's War-steed appearances. Using this item will bind all contents to your character.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879514536]={[1]="Apple-picker's Garments - Gift-wrapped Selection Box";[2]="An Apple-picker's garment, packaged, and ready to gift to someone special in your life. Use to select a garment of your choice.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 };
