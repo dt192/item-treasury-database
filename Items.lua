@@ -1,5 +1,5 @@
 FIRSTID = 1879049233;
-LASTID  = 1879515303;
+LASTID  = 1879515754;
 
 _ITEMSDB =
 {
@@ -20609,12 +20609,12 @@ _ITEMSDB =
 [1879102502]={[1]="Threkkappi Guard";[2]="This armour was forged from the scales of Scatha the Worm, who was slain long ago by the great North-man Fram.";[3]=3;[4]=3;[5]=4;[6]=false;[7]=true;};
 [1879102503]={[1]="Threkkappi Shoulders";[2]="This armour was forged from the scales of Scatha the Worm, who was slain long ago by the great North-man Fram.";[3]=6;[4]=3;[5]=4;[6]=false;[7]=true;};
 [1879102504]={[1]="Threkkappi Helm";[2]="This armour was forged from the scales of Scatha the Worm, who was slain long ago by the great North-man Fram.";[3]=7;[4]=3;[5]=4;[6]=false;[7]=true;};
-[1879102512]={[1]="Enhanced Essence of Athelas";[2]="Essence of Athelas recovers your morale when used.";[3]=28;[4]=5;[5]=0;[6]=false;[7]=false;};
-[1879102513]={[1]="Concentrated Essence of Athelas";[2]="Essence of Athelas recovers your morale when used.";[3]=28;[4]=4;[5]=0;[6]=false;[7]=false;};
-[1879102514]={[1]="Elixir of Twice Purified Athelas";[2]="Elixir of Athelas recovers your morale when used.";[3]=28;[4]=2;[5]=0;[6]=false;[7]=false;};
-[1879102515]={[1]="Enhanced Celebrant Water";[2]="The Celebrant Water recovers your power when used.";[3]=28;[4]=5;[5]=0;[6]=false;[7]=false;};
-[1879102516]={[1]="Concentrated Celebrant Water";[2]="The Celebrant Water recovers your power when used.";[3]=28;[4]=4;[5]=0;[6]=false;[7]=false;};
-[1879102517]={[1]="Elixir of Twice Purified Celebrant";[2]="The Celebrant Water recovers your power when used.";[3]=28;[4]=2;[5]=0;[6]=false;[7]=false;};
+[1879102512]={[1]="Enhanced Essence of Athelas";[2]="Essence of Athelas recovers your morale when used.";[3]=292;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879102513]={[1]="Concentrated Essence of Athelas";[2]="Essence of Athelas recovers your morale when used.";[3]=292;[4]=4;[5]=0;[6]=false;[7]=false;};
+[1879102514]={[1]="Elixir of Twice Purified Athelas";[2]="Elixir of Athelas recovers your morale when used.";[3]=292;[4]=2;[5]=0;[6]=false;[7]=false;};
+[1879102515]={[1]="Enhanced Celebrant Water";[2]="The Celebrant Water recovers your power when used.";[3]=292;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879102516]={[1]="Concentrated Celebrant Water";[2]="The Celebrant Water recovers your power when used.";[3]=292;[4]=4;[5]=0;[6]=false;[7]=false;};
+[1879102517]={[1]="Elixir of Twice Purified Celebrant";[2]="The Celebrant Water recovers your power when used.";[3]=292;[4]=2;[5]=0;[6]=false;[7]=false;};
 [1879102525]={[1]="Lainedhal's Insignia of the Footman";[2]="";[3]=50;[4]=5;[5]=0;[6]=false;[7]=true;};
 [1879102545]={[1]="Lainedhal's Insignia of the Lieutenant";[2]="This item dispels current negative combat states.";[3]=50;[4]=5;[5]=0;[6]=false;[7]=true;};
 [1879102546]={[1]="Lainedhal's Insignia of the Commander";[2]="This item dispels current negative combat states.";[3]=50;[4]=5;[5]=0;[6]=false;[7]=true;};
@@ -67197,8 +67197,8 @@ _ITEMSDB =
 [1879239232]={[1]="Small Footprints";[2]="A small set of footprints.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879239233]={[1]="Sunlight";[2]="A patch of sunlight, perfect for the healthy growth of new acorns.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879239307]={[1]="Milestone";[2]="This milestone can be used to bind your milestone skill to this location.";[3]=53;[4]=0;[5]=0;[6]=false;[7]=false;};
-[1879239323]={[1]="Elixir of Thrice Purified Athelas";[2]="Elixir of Athelas recovers your morale when used.";[3]=28;[4]=2;[5]=0;[6]=false;[7]=false;};
-[1879239324]={[1]="Elixir of Thrice Purified Celebrant";[2]="The Celebrant Water recovers your power when used.";[3]=28;[4]=2;[5]=0;[6]=false;[7]=false;};
+[1879239323]={[1]="Elixir of Thrice Purified Athelas";[2]="Elixir of Athelas recovers your morale when used.";[3]=292;[4]=2;[5]=0;[6]=false;[7]=false;};
+[1879239324]={[1]="Elixir of Thrice Purified Celebrant";[2]="The Celebrant Water recovers your power when used.";[3]=292;[4]=2;[5]=0;[6]=false;[7]=false;};
 [1879239342]={[1]="Soldier Race - Rohirrim Woman";[2]="This item allows you to earn a trait to alter your Soldier to become a Rohirrim Woman.";[3]=57;[4]=2;[5]=0;[6]=false;[7]=true;};
 [1879239343]={[1]="Soldier Race - Rohirrim Man";[2]="This item allows you to earn a trait to alter your Soldier to become a Rohirrim Man.";[3]=57;[4]=2;[5]=0;[6]=false;[7]=true;};
 [1879239963]={[1]="Steed of the Winged Herald";[2]="You can use this token to learn a skill to call this mount. Using this token will grant you the appropriate steed for your character.";[3]=8;[4]=5;[5]=0;[6]=false;[7]=true;};
@@ -141344,8 +141344,8 @@ _ITEMSDB =
 [1879497103]={[1]="Well-stocked Charcoal Rubbing Kit Recipe";[2]="Using this scroll grants a scholar recipe.";[3]=275;[4]=4;[5]=0;[6]=false;[7]=false;};
 [1879497169]={[1]="Tûl Zakana, the Well of Forgetting";[2]="";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879497170]={[1]="Tûl Zakana, the Well of Forgetting";[2]="";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
-[1879497192]={[1]="Bounty Hunter's Healing Balm";[2]="The bounty hunter's guild within Moria offers this salve to help its members survive the dangers of deep halls.";[3]=28;[4]=2;[5]=0;[6]=false;[7]=false;};
-[1879497194]={[1]="Bounty Hunter's Healing Salve";[2]="The bounty hunter's guild within Moria offers this salve to help its members survive the dangers of deep halls.";[3]=28;[4]=3;[5]=0;[6]=false;[7]=false;};
+[1879497192]={[1]="Bounty Hunter's Healing Balm";[2]="The bounty hunter's guild within Moria offers this salve to help its members survive the dangers of deep halls.";[3]=292;[4]=2;[5]=0;[6]=false;[7]=false;};
+[1879497194]={[1]="Bounty Hunter's Healing Salve";[2]="The bounty hunter's guild within Moria offers this salve to help its members survive the dangers of deep halls.";[3]=292;[4]=3;[5]=0;[6]=false;[7]=false;};
 [1879497726]={[1]="Elite Orkish Sword Wall Hanging";[2]="A pair of elite Orkish swords taken as trophies.";[3]=88;[4]=3;[5]=0;[6]=false;[7]=false;};
 [1879497727]={[1]="Orkish Cleaver Wall Hanging";[2]="A pair of Orkish cleavers taken as trophies.";[3]=88;[4]=2;[5]=0;[6]=false;[7]=false;};
 [1879497728]={[1]="Bounty Hunter's Protective Liniment";[2]="The bounty hunter's guild within Moria offers this salve to help its members survive the dangers of deep halls.";[3]=28;[4]=3;[5]=0;[6]=false;[7]=false;};
@@ -142608,10 +142608,10 @@ _ITEMSDB =
 [1879507645]={[1]="Loyal Knight Patron's Simple Mithril Coffer";[2]="Contains Mithril Coins.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879507650]={[1]="Loyal Knight Patron's Simple Cosmetics Coffer";[2]="Cosmetics for a valued patron.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879507656]={[1]="Ceremonial Great Axe of the Loyal Knight";[2]="";[3]=12;[4]=5;[5]=6;[6]=false;[7]=false;};
-[1879507661]={[1]="Scholar's Healing Balm (Lvl 75)";[2]="Amelia's balms can swiftly mitigate the terrible injuries left by the shadowy blades of the Nazgûl.";[3]=28;[4]=2;[5]=0;[6]=false;[7]=false;};
-[1879507662]={[1]="Scholar's Healing Balm (Lvl 65)";[2]="Amelia's balms can swiftly mitigate the terrible injuries left by the shadowy blades of the Nazgûl.";[3]=28;[4]=2;[5]=0;[6]=false;[7]=false;};
-[1879507663]={[1]="Scholar's Healing Salve (Lvl 75)";[2]="Amelia's balms can swiftly mitigate the terrible injuries left by the shadowy blades of the Nazgûl.";[3]=28;[4]=3;[5]=0;[6]=false;[7]=false;};
-[1879507664]={[1]="Scholar's Healing Salve (Lvl 65)";[2]="Amelia's balms can swiftly mitigate the terrible injuries left by the shadowy blades of the Nazgûl.";[3]=28;[4]=3;[5]=0;[6]=false;[7]=false;};
+[1879507661]={[1]="Scholar's Healing Balm (Lvl 75)";[2]="Amelia's balms can swiftly mitigate the terrible injuries left by the shadowy blades of the Nazgûl.";[3]=292;[4]=2;[5]=0;[6]=false;[7]=false;};
+[1879507662]={[1]="Scholar's Healing Balm (Lvl 65)";[2]="Amelia's balms can swiftly mitigate the terrible injuries left by the shadowy blades of the Nazgûl.";[3]=292;[4]=2;[5]=0;[6]=false;[7]=false;};
+[1879507663]={[1]="Scholar's Healing Salve (Lvl 75)";[2]="Amelia's balms can swiftly mitigate the terrible injuries left by the shadowy blades of the Nazgûl.";[3]=292;[4]=3;[5]=0;[6]=false;[7]=false;};
+[1879507664]={[1]="Scholar's Healing Salve (Lvl 65)";[2]="Amelia's balms can swiftly mitigate the terrible injuries left by the shadowy blades of the Nazgûl.";[3]=292;[4]=3;[5]=0;[6]=false;[7]=false;};
 [1879507670]={[1]="Torturer's Brand";[2]="A heated brand. Could be used to cauterize wounds.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879507678]={[1]="Tome of the Sea-side Kite";[2]="Using this item will teach you to fly a sea-side kite.";[3]=186;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879507679]={[1]="Tome of the Loyal Goose of Gondor";[2]="Using this item will teach you to summon a loyal goose companion.";[3]=186;[4]=5;[5]=0;[6]=false;[7]=false;};
@@ -142668,7 +142668,7 @@ _ITEMSDB =
 [1879508701]={[1]="Monster Player Reward Track - Appearance Choice Box";[2]="A selection of appearances for monster players.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
 [1879508702]={[1]="Monster Player Reward Track - Appearance Choice Box";[2]="A selection of appearances for monster players.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
 [1879508703]={[1]="Title: 'Nemesis of the Free'";[2]="Contains the 'Nemesis of the Free' Title.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
-[1879508704]={[1]="Title: 'Angmar's Enforcer'";[2]="Contains the 'Angmar's Enforcer' Title.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
+[1879508704]={[1]="Title: 'Malice Incarnate'";[2]="Contains the 'Malice Incarnate' Title.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
 [1879508705]={[1]="Title: 'Scourge of the Ettenmoors'";[2]="Contains the 'Scourge of the Ettenmoors' Title.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
 [1879508706]={[1]="Monster Player Reward Track - Cosmetic Choice Box";[2]="A selection of appearances, cosmetic weapons, and March! Vfx for monster players.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
 [1879508707]={[1]="Monster Player Reward Track - Cosmetic Choice Box";[2]="A selection of appearances, cosmetic weapons, and March! Vfx for monster players.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
@@ -142881,4 +142881,6 @@ _ITEMSDB =
 [1879515301]={[1]="Jaunty Patron's Luxuriant Wardrobe Cosmetics";[2]="Cosmetics for a valued patron that can be placed in the wardrobe.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879515302]={[1]="Jaunty Patron's Enhanced Cosmetics Coffer";[2]="Cosmetics for a valued patron.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879515303]={[1]="Jaunty Patron's Luxuriant Cosmetics Coffer";[2]="Cosmetics for a valued patron.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879515751]={[1]="Umbari Stable-master's Pavilion";[2]="Open this box to select the Umbari stable-master's pavilion of your choice.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879515754]={[1]="Landlocked Dock-master's Skiff";[2]="Open this box to select the landlocked dock-master's skiff of your choice.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 };
