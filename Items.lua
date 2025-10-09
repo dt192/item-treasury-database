@@ -1,5 +1,5 @@
 FIRSTID = 1879049233;
-LASTID  = 1879517327;
+LASTID  = 1879518296;
 
 _ITEMSDB =
 {
@@ -142927,7 +142927,7 @@ _ITEMSDB =
 [1879516885]={[1]="Camel of the Golden Lion";[2]="You can use this token to learn a skill to call this mount. Using this token will grant you the Camel of the Golden Lion skill.";[3]=8;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879516904]={[1]="Zajâni Council Housing Collection";[2]="Contains various housing items to recreate the Shorakhúna in Zajâna. Includes a variety of council chairs and footrests.";[3]=27;[4]=1;[5]=0;[6]=false;[7]=false;};
 [1879516905]={[1]="Incomparable Coffer of the Zajâni Gallery";[2]="Contains Ancient Script and the Zajâni Gallery housing bundle.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
-[1879516906]={[1]="Legendary Coffer of the Helpful Caveclaw Whelp";[2]="Contains a Cracked Tracery Token, Legendary Enhancement Runes, Ancient Script, and the Tome of the Helpful Caveclaw Whelp.";[3]=27;[4]=1;[5]=0;[6]=false;[7]=false;};
+[1879516906]={[1]="Legendary Coffer of the Helpful Deep-claw Whelp";[2]="Contains a Cracked Tracery Token, Legendary Enhancement Runes, Ancient Script, and the Tome of the Helpful Deep-claw Whelp.";[3]=27;[4]=1;[5]=0;[6]=false;[7]=false;};
 [1879516907]={[1]="Zajâni Gallery Housing Collection";[2]="Contains various housing items to create an artist's gallery in the style of Zajâna. Includes a grand pavilion and an assortment of decorated panels.";[3]=27;[4]=1;[5]=0;[6]=false;[7]=false;};
 [1879516908]={[1]="Legendary Coffer of Blue Drakeling";[2]="Contains a Cracked Tracery Token and the Tome of the Blue Drakeling.";[3]=27;[4]=1;[5]=0;[6]=false;[7]=false;};
 [1879516909]={[1]="Legendary Coffer of the Zajâni Council";[2]="Contains a Cracked Tracery Token and the Zajâni Council housing bundle.";[3]=27;[4]=1;[5]=0;[6]=false;[7]=false;};
@@ -142939,7 +142939,7 @@ _ITEMSDB =
 [1879516932]={[1]="Harvestmath Cauldron";[2]="";[3]=96;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879516933]={[1]="Heating Cauldron";[2]="";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879516966]={[1]="Golden Lion Earring";[2]="Gives +25% to all forms of XP until level 150. Mount and legendary item experience bonuses will not stack with other equipped item XP bonuses. This item provides diminished statistical benefit after level 150.";[3]=49;[4]=3;[5]=3;[6]=false;[7]=false;};
-[1879516968]={[1]="Cobweb Garments - Gift-wrapped Selection Box";[2]="An Cobweb garment, packaged, and ready to gift to someone special in your life. Use to select a garment of your choice.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879516968]={[1]="Cobweb Garments - Gift-wrapped Selection Box";[2]="A Cobweb garment, packaged and ready to gift to someone special in your life. Use to select a garment of your choice.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879516970]={[1]="Improved Expedition Supplies";[2]="Contains boosts and supplies for purchasing the Collector's or Ultimate Edition of the Kingdoms of Harad.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879516975]={[1]="Kingdoms of Harad Ultimate Fan Bundle - Bonus Items!";[2]="Contains special items for purchasing the Kingdoms of Harad Ultimate Fan Edition.";[3]=27;[4]=1;[5]=0;[6]=false;[7]=false;};
 [1879516978]={[1]="Kingdoms of Harad Ultimate Fan Bundle - Monster Play Appearance";[2]="Contains a special, class appropriate Monster Play appearance for purchasing the Kingdoms of Harad Ultimate Fan Edition.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
@@ -142965,4 +142965,7 @@ _ITEMSDB =
 [1879517325]={[1]="Resplendent Zajâni Pavilion";[2]="";[3]=85;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879517326]={[1]="Merchant's Footstool";[2]="";[3]=85;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879517327]={[1]="Scholar's Footstool";[2]="";[3]=85;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879518294]={[1]="'Haunted House' Ambience";[2]="A selection of spooky sounds suitable for your own haunted house.";[3]=82;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879518295]={[1]="'Haunted Yard' Ambience";[2]="A selection of spooky sounds suitable for your own haunted yard.";[3]=82;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879518296]={[1]="'Spooky' Themes";[2]="A selection of spooky musical pieces.";[3]=82;[4]=5;[5]=0;[6]=false;[7]=false;};
 };
