@@ -69,20 +69,20 @@ See [major branch](https://github.com/dt192/item-treasury-database/tree/major) f
 | Date          | Update        | Additions     | Changes       | Removals      | Diff                                                                      |
 | :------------ | :------------ | :------------ | :------------ | :------------ | :------------------------------------------------------------------------ |
 | 2025-10-23    | 45.7.0        | -             | -             | -             |                                                                           |
-| 2025-10-09    | 45.6.0        | 3             | 2             | -             | [b61064a](https://github.com/dt192/item-treasury-database/commit/b61064a6dd3026058506c9d3c8c7d443092a5c1e) |
-| 2025-09-25    | 45.5.0        | 82            | 6             | -             | [b61064a](https://github.com/dt192/item-treasury-database/commit/b61064a6dd3026058506c9d3c8c7d443092a5c1e) |
+| 2025-10-09    | 45.6.0        | 3             | 2             | -             | [9f25817](https://github.com/dt192/item-treasury-database/commit/9f2581706f469e22d374805e85a4ab4f2c2dfd30) |
+| 2025-09-25    | 45.5.0        | 82            | 6             | -             | [30b7192](https://github.com/dt192/item-treasury-database/commit/30b719692d4e9ef553c4057e8308b47295aa713f) |
 | 2025-09-18    | 45.4.1        | -             | -             | -             |                                                                           |
-| 2025-09-10    | 45.4.0        | 2             | 15            | -             | [b61064a](https://github.com/dt192/item-treasury-database/commit/b61064a6dd3026058506c9d3c8c7d443092a5c1e) |
-| 2025-08-28    | 45.3.0        | 40            | -             | -             |                                                                           |
-| 2025-08-14    | 45.2.0        | 29            | 9             | -             | [7c38cbd](https://github.com/dt192/item-treasury-database/commit/7c38cbdfbeca37f84d41025e2e7fe32cd618391a) |
+| 2025-09-10    | 45.4.0        | 2             | 15            | -             | [30873ed](https://github.com/dt192/item-treasury-database/commit/30873ed0801e3fb218e2dd32133fc2e17a07768f) |
+| 2025-08-28    | 45.3.0        | 40            | -             | -             | [a52fb12](https://github.com/dt192/item-treasury-database/commit/a52fb121e0c752c66fb3c2c451153d530188fc88) |
+| 2025-08-14    | 45.2.0        | 29            | 9             | -             | [d6993d1](https://github.com/dt192/item-treasury-database/commit/d6993d1e27a16381bee49279493e2dc3205e3d76) |
 | 2025-08-05    | 45.1.1        | -             | -             | -             |                                                                           |
-| 2025-07-30    | 45.1.0        | 15            | 5             | -             | [7c38cbd](https://github.com/dt192/item-treasury-database/commit/7c38cbdfbeca37f84d41025e2e7fe32cd618391a) |
-| 2025-07-24    | 45.0.0        | 410           | 1218          | 8             | [d21c0c2](https://github.com/dt192/item-treasury-database/commit/d21c0c2ae1554b67c6eedd640e3ab5aa6d1c261b) |
-| 2025-06-18    | 44.3.0        | 37            | 4             | -             | [6bf67f7](https://github.com/dt192/item-treasury-database/commit/6bf67f779002f8a6794474ad94c107598a9572ef) |
-| 2025-06-04    | 44.2.1        | 5             | -             | -             |                                                                           |
-| 2025-05-21    | 44.2.0        | 17            | -             | -             |                                                                           |
-| 2025-05-14    | 44.1.0        | 10            | 32            | 1             | [6307528](https://github.com/dt192/item-treasury-database/commit/6307528c291fc2739d81ee423fef228704a9d37a) |
-| 2025-04-23    | 44.0.0        | 397           | 200           | 11            | [88e2aa1](https://github.com/dt192/item-treasury-database/commit/88e2aa1ea356c1b0a40ddb9da3924cb60139336d) |
+| 2025-07-30    | 45.1.0        | 15            | 5             | -             | [517f693](https://github.com/dt192/item-treasury-database/commit/517f6930ce6ce1f561d494373ed4e85cb23def1f) |
+| 2025-07-24    | 45.0.0        | 410           | 1218          | 8             | [bab749e](https://github.com/dt192/item-treasury-database/commit/bab749e0bcdcba0aa42d387bfd284b8706b86b56) |
+| 2025-06-18    | 44.3.0        | 37            | 4             | -             | [f13a42b](https://github.com/dt192/item-treasury-database/commit/f13a42b31833fc93a8b1bfcaf372c8c5d496e34b) |
+| 2025-06-04    | 44.2.1        | 5             | -             | -             | [6b44304](https://github.com/dt192/item-treasury-database/commit/6b44304b14143219a87f2d9e22a33840c333eac8) |
+| 2025-05-21    | 44.2.0        | 17            | -             | -             | [0ff41a0](https://github.com/dt192/item-treasury-database/commit/0ff41a030089ec949df454fd03c27c36f04fe1a4) |
+| 2025-05-14    | 44.1.0        | 10            | 32            | 1             | [1aa7c2a](https://github.com/dt192/item-treasury-database/commit/1aa7c2ad87f1be675634cf09bd33cd947b394a70) |
+| 2025-04-23    | 44.0.0        | 397           | 200           | 11            | [b547d91](https://github.com/dt192/item-treasury-database/commit/b547d914cff2697e2ed57fd808417c4249b3290d) |
 | 2025-04-09    | 43.4.0        | -             | -             | -             |                                                                           |
 | 2025-04-02    | 43.3.0        | -             | -             | -             |                                                                           |
 | 2025-03-26    | 43.2.0        | 24            | 7             | 5             | [f863415](https://github.com/dt192/item-treasury-database/commit/f863415432287cdcb3511499943dd7e869a1ff86) |
