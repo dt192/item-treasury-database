@@ -1,5 +1,5 @@
 FIRSTID = 1879049233;
-LASTID  = 1879524150;
+LASTID  = 1879524482;
 
 _ITEMSDB =
 {
@@ -130765,6 +130765,8 @@ _ITEMSDB =
 [1879457464]={[1]="Pristine Ringforge Floor";[2]="";[3]=83;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879457465]={[1]="Ruined Ringforge Floor";[2]="";[3]=83;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879457466]={[1]="Green Marble Floor";[2]="";[3]=83;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879457467]={[1]="Dark Green Marble Floor";[2]="";[3]=83;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879457468]={[1]="Pristine Ringforge Wall";[2]="";[3]=83;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879457469]={[1]="Ruined Ringforge Wall";[2]="";[3]=83;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879457470]={[1]="Pristine Eregion Wall";[2]="";[3]=83;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879457471]={[1]="Ruined Eregion Wall";[2]="";[3]=83;[4]=5;[5]=0;[6]=false;[7]=false;};
@@ -130773,6 +130775,11 @@ _ITEMSDB =
 [1879457474]={[1]="Decorative Pristine Ringforge Platform";[2]="";[3]=291;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879457475]={[1]="Decorative Ruined Ringforge Platform";[2]="";[3]=291;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879457476]={[1]="Decorative Green Marble Platform";[2]="";[3]=291;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879457477]={[1]="Decorative Dark Green Marble Platform";[2]="";[3]=291;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879457478]={[1]="Decorative Wall - 10M (Pristine Ringforge)";[2]="";[3]=291;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879457479]={[1]="Decorative Wall - 20M (Pristine Ringforge)";[2]="";[3]=291;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879457480]={[1]="Tall Decorative Wall - 10M (Pristine Ringforge)";[2]="";[3]=291;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879457481]={[1]="Tall Decorative Wall - 20M (Pristine Ringforge)";[2]="";[3]=291;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879457482]={[1]="Decorative Wall - 10M (Ruined Ringforge)";[2]="";[3]=291;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879457483]={[1]="Decorative Wall - 20M (Ruined Ringforge)";[2]="";[3]=291;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879457484]={[1]="Tall Decorative Wall - 10M (Ruined Ringforge)";[2]="";[3]=291;[4]=5;[5]=0;[6]=false;[7]=false;};
@@ -142321,14 +142328,14 @@ _ITEMSDB =
 [1879506259]={[1]="Return to Dun Shûma";[2]="You're able to quickly return to Dun Shûma in Khûd Zagin in the Ikorbân Valley. This skill is easily interrupted.";[3]=186;[4]=2;[5]=0;[6]=false;[7]=true;};
 [1879506265]={[1]="Anniversary Seal";[2]="Seals acquired from participating in Anniversary Festival activites.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879506284]={[1]="Ordâkhai Trader Cache";[2]="A small ornate chest contains a rare artifact of the Ordâkhai to be sold in distant lands. Use to select your choice of a rare Ikorban item.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
-[1879506304]={[1]="Battle Determination Tincture";[2]="Consuming this potion increases your physical mitigations for a time. WARNING: Using this potion will overwrite any store-purchased buffs.";[3]=28;[4]=5;[5]=0;[6]=false;[7]=true;};
-[1879506305]={[1]="Battle Sustenance Tincture";[2]="Consuming this tincture increases maximum Power for a time. WARNING: Using this potion will overwrite any store-purchased buffs.";[3]=28;[4]=5;[5]=0;[6]=false;[7]=true;};
-[1879506306]={[1]="Strength of Arms Tincture";[2]="Consuming this potion increases your damage for a time. WARNING: Using this potion will overwrite any store-purchased buffs.";[3]=28;[4]=5;[5]=0;[6]=false;[7]=true;};
-[1879506307]={[1]="Battle Fortitude Tincture";[2]="Consuming this potion increases your tactical mitigations for a time. WARNING: Using this potion will overwrite any store-purchased buffs.";[3]=28;[4]=5;[5]=0;[6]=false;[7]=true;};
-[1879506308]={[1]="Battle Hardened Tincture";[2]="Consuming this tincture increases maximum morale for a time. WARNING: Using this potion will overwrite any store-purchased buffs.";[3]=28;[4]=5;[5]=0;[6]=false;[7]=true;};
-[1879506309]={[1]="Battle Fortitude Tincture";[2]="Consuming this potion increases your tactical mitigations for a time. WARNING: Using this potion will overwrite any store-purchased buffs.";[3]=28;[4]=5;[5]=0;[6]=false;[7]=true;};
-[1879506310]={[1]="Battle Determination Tincture";[2]="Consuming this potion increases your physical mitigations for a time. WARNING: Using this potion will overwrite any store-purchased buffs.";[3]=28;[4]=5;[5]=0;[6]=false;[7]=true;};
-[1879506311]={[1]="For the Glory of... Tincture";[2]="Consuming this tincture increases commendations, and glory or infamy gains for a time. WARNING: Using this potion will overwrite any store-purchased buffs.";[3]=28;[4]=5;[5]=0;[6]=false;[7]=true;};
+[1879506304]={[1]="Battle Determination Tincture";[2]="Consuming this potion increases your physical mitigations for a time. WARNING: Using this potion will overwrite any store-purchased buffs.";[3]=28;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879506305]={[1]="Battle Sustenance Tincture";[2]="Consuming this tincture increases maximum Power for a time. WARNING: Using this potion will overwrite any store-purchased buffs.";[3]=28;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879506306]={[1]="Strength of Arms Tincture";[2]="Consuming this potion increases your damage for a time. WARNING: Using this potion will overwrite any store-purchased buffs.";[3]=28;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879506307]={[1]="Battle Fortitude Tincture";[2]="Consuming this potion increases your tactical mitigations for a time. WARNING: Using this potion will overwrite any store-purchased buffs.";[3]=28;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879506308]={[1]="Battle Hardened Tincture";[2]="Consuming this tincture increases maximum morale for a time. WARNING: Using this potion will overwrite any store-purchased buffs.";[3]=28;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879506309]={[1]="Battle Fortitude Tincture";[2]="Consuming this potion increases your tactical mitigations for a time. WARNING: Using this potion will overwrite any store-purchased buffs.";[3]=28;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879506310]={[1]="Battle Determination Tincture";[2]="Consuming this potion increases your physical mitigations for a time. WARNING: Using this potion will overwrite any store-purchased buffs.";[3]=28;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879506311]={[1]="For the Glory of... Tincture";[2]="Consuming this tincture increases commendations, and glory or infamy gains for a time. WARNING: Using this potion will overwrite any store-purchased buffs.";[3]=28;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879506346]={[1]="Slain Guard";[2]="This slain Umbari guard was unable to stand against his attackers.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879506347]={[1]="Slain Guard";[2]="This slain Umbari guard was unable to stand against his attackers.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879506360]={[1]="Tome of the Able Ice-shore Fisher";[2]="Using this item will teach you to summon a bear companion.";[3]=186;[4]=5;[5]=0;[6]=false;[7]=false;};
@@ -142382,7 +142389,7 @@ _ITEMSDB =
 [1879506511]={[1]="Sentry's Boots of Dolindîr";[2]="";[3]=23;[4]=3;[5]=3;[6]=false;[7]=false;};
 [1879506512]={[1]="Rampart's Hauberk of Dolindîr";[2]="";[3]=3;[4]=3;[5]=3;[6]=false;[7]=false;};
 [1879506513]={[1]="Avenger's Spaulders of Dolindîr";[2]="";[3]=6;[4]=3;[5]=3;[6]=false;[7]=false;};
-[1879506517]={[1]="Builder's Alacrity Tincture";[2]="Consuming this tincture increases your ability to build siege equipment swiftly.";[3]=28;[4]=5;[5]=0;[6]=false;[7]=true;};
+[1879506517]={[1]="Builder's Alacrity Tincture";[2]="Consuming this tincture increases your ability to build siege equipment swiftly.";[3]=28;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879506527]={[1]="Mantle of Dolindîr";[2]="";[3]=45;[4]=1;[5]=3;[6]=false;[7]=false;};
 [1879506529]={[1]="Cape of Dolindîr";[2]="";[3]=45;[4]=1;[5]=3;[6]=false;[7]=false;};
 [1879506530]={[1]="Cloak of Dolindîr";[2]="";[3]=45;[4]=1;[5]=3;[6]=false;[7]=false;};
@@ -147319,10 +147326,17 @@ _ITEMSDB =
 [1879523287]={[1]="Plan For Scorpions";[2]="A letter.";[3]=57;[4]=0;[5]=0;[6]=false;[7]=false;};
 [1879523376]={[1]="Monster Player Reward Track - Cosmetic Choice Box";[2]="A selection of appearances, cosmetic weapons, and March! Vfx for monster players.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
 [1879523384]={[1]="Monster Player Reward Track - Appearance Choice Box";[2]="A selection of appearances for monster players.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
+[1879523453]={[1]="Talath Úrui Shield Appearance";[2]="This item will reward your character with a Talath Úrui Shield Appearance for your shield.";[3]=57;[4]=4;[5]=0;[6]=false;[7]=true;};
+[1879523458]={[1]="Wight's Great Axe Appearance";[2]="This item will reward your character with a Wight's Great Axe Appearance for your main hand.";[3]=57;[4]=4;[5]=0;[6]=false;[7]=true;};
+[1879523463]={[1]="Gundabad Captain's Bow Appearance";[2]="This item will reward your character with a Gundabad Captain's Bow Appearance for your bow.";[3]=57;[4]=4;[5]=0;[6]=false;[7]=true;};
+[1879523474]={[1]="Shade's Sword Appearance";[2]="This item will reward your character with a Shade's Sword Appearance for your main hand.";[3]=57;[4]=4;[5]=0;[6]=false;[7]=true;};
+[1879523475]={[1]="Thrâng's Mace Appearance (Off-hand)";[2]="This item will reward your character with Thrâng's Mace Appearance for your secondary weapon.";[3]=57;[4]=4;[5]=0;[6]=false;[7]=true;};
+[1879523476]={[1]="Ivar's Corrupted Staff Appearance";[2]="This item will reward your character with Ivar's Currupted Staff Appearance for your main hand.";[3]=57;[4]=4;[5]=0;[6]=false;[7]=true;};
 [1879523478]={[1]="Package of Mitigation Potions";[2]="Contains Physical and Tactical Mitigation Potions, normally available at Outposts.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
-[1879523479]={[1]="Package of Build and Glory Potions";[2]="Contains Build Speed and Glory Enhancment Potions, normally available at Outposts.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
+[1879523479]={[1]="Package of Build and Glory Potions";[2]="Contains Build Speed and Glory Enhancement Potions, normally available at Outposts.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
 [1879523480]={[1]="Package of Schematics";[2]="Contains Schematics for a Catapult and Ballista, normally available at Outposts.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
 [1879523481]={[1]="Package of Power and Morale Potions";[2]="Contains a Morale and Power Potion, normally available at Outposts.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
+[1879523482]={[1]="Title: Servant of the Enemy";[2]="Contains the 'Servant of the Enemy' Title.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
 [1879523483]={[1]="Season of the Rivals Portrait Frame";[2]="Contains the Season of the Rivals Portrait Frame.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
 [1879523595]={[1]="Title Bastion of the Light";[2]="Collecting this item will grant the title Bastion of the Light to this character.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=true;};
 [1879523596]={[1]="Title: Servant of the Enemy";[2]="Collecting this item will grant the title Servant of the Enemy to this character.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=true;};
@@ -147336,4 +147350,26 @@ _ITEMSDB =
 [1879524144]={[1]="Mûrai Enchanted Repair Anvil Recipe";[2]="Using this scroll grants a weaponsmith recipe.";[3]=301;[4]=3;[5]=0;[6]=false;[7]=false;};
 [1879524149]={[1]="Enchanted Repair Anvil";[2]="Use this to place an anvil that can repair equipment for a duration of 3 minutes. Items repaired at this anvil will cost much more than repairing at a vendor.";[3]=50;[4]=2;[5]=0;[6]=false;[7]=false;};
 [1879524150]={[1]="Crystallized Blight Amulet";[2]="";[3]=49;[4]=2;[5]=3;[6]=false;[7]=false;};
+[1879524275]={[1]="'Spring in Clegur' Theme";[2]="A piece celebrating spring time in Clegur.";[3]=82;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879524380]={[1]="Daffodil Celebration Tunic and Trousers";[2]="";[3]=182;[4]=5;[5]=6;[6]=false;[7]=false;};
+[1879524381]={[1]="Hooded Daffodil Celebration Cloak";[2]="";[3]=97;[4]=5;[5]=6;[6]=false;[7]=false;};
+[1879524382]={[1]="Daffodil Celebration Shawl";[2]="";[3]=181;[4]=5;[5]=6;[6]=false;[7]=false;};
+[1879524383]={[1]="Daffodil Celebration Cloak";[2]="";[3]=97;[4]=5;[5]=6;[6]=false;[7]=false;};
+[1879524384]={[1]="Daffodil Celebration Dress";[2]="";[3]=182;[4]=5;[5]=6;[6]=false;[7]=false;};
+[1879524385]={[1]="Daffodil Celebration Hat";[2]="";[3]=183;[4]=5;[5]=6;[6]=false;[7]=false;};
+[1879524390]={[1]="Tome of the Daffodil Celebration Kid";[2]="Using this item will teach you to summon a daffodil celebration goat kid.";[3]=186;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879524395]={[1]="Daffodil Celebration Goat";[2]="You can use this token to learn a skill to call this mount. Using this token will grant you the Daffodil Celebration Goat.";[3]=8;[4]=5;[5]=0;[6]=false;[7]=true;};
+[1879524400]={[1]="Stoor Dance Emote";[2]="Using this item will grant you the Stoor dance emote (/dance_stoor).";[3]=205;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879524402]={[1]="Daffodil Celebration Garments - Gift-wrapped Selection Box";[2]="A daffodil celebration garment, packaged, and ready to gift to someone special in your life. Use to select a garment of your choice.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879524422]={[1]="Daffodil Plant";[2]="";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879524423]={[1]="Cluster of Daffodils";[2]="";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879524424]={[1]="Small Daffodil Celebration Banner";[2]="";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879524425]={[1]="Daffodil Planter";[2]="";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879524426]={[1]="Small Bulb Planter";[2]="";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879524427]={[1]="Empty Daffodil Planter";[2]="";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879524428]={[1]="Large Daffodil Celebration Banner";[2]="";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879524432]={[1]="Daffodil Flag-bearer Bauble";[2]="Using this item will teach you the Daffodil Flag-bearer bauble skill.";[3]=186;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879524433]={[1]="Daffodil Green Thumb Bauble";[2]="Using this item will teach you the Daffodil Green Thumb bauble skill.";[3]=186;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879524434]={[1]="Maramam's Bacon Pie Bauble";[2]="Using this item will teach you Maramam's Bacon Pie bauble skill.";[3]=186;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879524482]={[1]="Patch of Daffodils";[2]="";[3]=173;[4]=5;[5]=0;[6]=false;[7]=false;};
 };
