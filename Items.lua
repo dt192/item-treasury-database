@@ -145995,7 +145995,7 @@ _ITEMSDB =
 [1879516989]={[1]="Vigilant Sentinel Wardrobe Cosmetics";[2]="Contains a special suite of avatar cosmetics for purchasing the Collector's or Ultimate Edition of the Kingdoms of Harad.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879516990]={[1]="Golden Lion Wardrobe Cosmetics";[2]="Contains a special suite of avatar cosmetics for purchasing the Kingdoms of Harad Ultimate Fan Edition.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879516992]={[1]="Kingdoms of Harad Collector's Edition - Bonus Items!";[2]="Contains special items for purchasing the Collector's or Ultimate Fan Edition of the Kingdoms of Harad.";[3]=27;[4]=1;[5]=0;[6]=false;[7]=false;};
-[1879517005]={[1]="Rift Overseer Appearance";[2]="This item will reward your character with the Rift Overseer Appearance.";[3]=57;[4]=2;[5]=0;[6]=false;[7]=false;};
+[1879517005]={[1]="Rift Overseer Appearance";[2]="This item will reward your character with the Rift Overseer Appearance.";[3]=57;[4]=2;[5]=0;[6]=false;[7]=true;};
 [1879517014]={[1]="Black and Striped Red-maw Hyena Appearance";[2]="This item will reward your character with the Black and Striped Red Maw Hyena Warg Appearance.";[3]=57;[4]=2;[5]=0;[6]=false;[7]=true;};
 [1879517019]={[1]="Rift Bow-master Appearance";[2]="This item will reward your character with the Rift Bow-master Appearance.";[3]=57;[4]=2;[5]=0;[6]=false;[7]=true;};
 [1879517022]={[1]="Eerie Blight-crawler Appearance";[2]="This item will reward your character with the Eerie Blight-crawler Spider Appearance.";[3]=57;[4]=2;[5]=0;[6]=false;[7]=true;};
@@ -147080,7 +147080,7 @@ _ITEMSDB =
 [1879521776]={[1]="Butchered Lamb Meat";[2]="Cuts of lamb, butchered and wrapped in brown paper.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879521777]={[1]="Blighted Axe";[2]="An impossibly large piece of metal which requires the strength of many men simply to lift off the ground.";[3]=178;[4]=3;[5]=0;[6]=false;[7]=false;};
 [1879521781]={[1]="Monstrous Horn";[2]="An enormous and gnarled horn, recovered from deep in the mountainside.";[3]=178;[4]=3;[5]=0;[6]=false;[7]=false;};
-[1879521786]={[1]="Map to Clegur";[2]="A map to Clegur in Swanfleet.";[3]=191;[4]=1;[5]=0;[6]=false;[7]=false;};
+[1879521786]={[1]="Map to Clegur";[2]="A map to Clegur in Swanfleet.";[3]=27;[4]=1;[5]=0;[6]=false;[7]=true;};
 [1879521787]={[1]="Daffodil Days Banners";[2]="Festive banners celebrating the famed daffodils of Clegur.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879521802]={[1]="Packaged Lamb";[2]="A stack of butchered and packaged lamb meat awaiting delivery to Cunedda's customers.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879521805]={[1]="Splendid Mûrai Feast";[2]="";[3]=173;[4]=3;[5]=0;[6]=false;[7]=false;};
@@ -147248,7 +147248,6 @@ _ITEMSDB =
 [1879522746]={[1]="Sturdy Steel-arm Crossbow";[2]="";[3]=29;[4]=3;[5]=3;[6]=false;[7]=false;};
 [1879522747]={[1]="Cruel Ritual Blade";[2]="";[3]=10;[4]=3;[5]=3;[6]=false;[7]=false;};
 [1879522748]={[1]="Heavy Thorned Club";[2]="";[3]=40;[4]=3;[5]=3;[6]=false;[7]=false;};
-[1879522753]={[1]="The Folly of Nagakhêdi Report";[2]="A report detailing the successful completion of the Folly of Nagakhêdi raid instance.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879522810]={[1]="Maramam's Bacon Pie";[2]="A savoury bacon pie with a buttery, flaky crust. Filled with bacon, eggs, cheese, onions, and other vegetables. It is excellent for any meal of the day, or for filling those unhappy in-between meal times.";[3]=55;[4]=3;[5]=0;[6]=false;[7]=false;};
 [1879522966]={[1]="Unusual Crate";[2]="This crate is on its side. Whatever was contained within is now gone, or escaped.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879522967]={[1]="Ordâkhai Corpse";[2]="This soldier of Ordâkh is slain. What sought he to accomplish here?";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
@@ -147331,7 +147330,7 @@ _ITEMSDB =
 [1879523463]={[1]="Gundabad Captain's Bow Appearance";[2]="This item will reward your character with a Gundabad Captain's Bow Appearance for your bow.";[3]=57;[4]=4;[5]=0;[6]=false;[7]=true;};
 [1879523474]={[1]="Shade's Sword Appearance";[2]="This item will reward your character with a Shade's Sword Appearance for your main hand.";[3]=57;[4]=4;[5]=0;[6]=false;[7]=true;};
 [1879523475]={[1]="Thrâng's Mace Appearance (Off-hand)";[2]="This item will reward your character with Thrâng's Mace Appearance for your secondary weapon.";[3]=57;[4]=4;[5]=0;[6]=false;[7]=true;};
-[1879523476]={[1]="Ivar's Corrupted Staff Appearance";[2]="This item will reward your character with Ivar's Currupted Staff Appearance for your main hand.";[3]=57;[4]=4;[5]=0;[6]=false;[7]=true;};
+[1879523476]={[1]="Ivar's Corrupted Staff Appearance";[2]="This item will reward your character with Ivar's Corrupted Staff Appearance for your main hand.";[3]=57;[4]=4;[5]=0;[6]=false;[7]=true;};
 [1879523478]={[1]="Package of Mitigation Potions";[2]="Contains Physical and Tactical Mitigation Potions, normally available at Outposts.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
 [1879523479]={[1]="Package of Build and Glory Potions";[2]="Contains Build Speed and Glory Enhancement Potions, normally available at Outposts.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
 [1879523480]={[1]="Package of Schematics";[2]="Contains Schematics for a Catapult and Ballista, normally available at Outposts.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
@@ -147349,7 +147348,8 @@ _ITEMSDB =
 [1879524143]={[1]="Pungent Blight Mushroom";[2]="Using this item will grants you the Pungent Blight Mushroom bauble.";[3]=186;[4]=2;[5]=0;[6]=false;[7]=false;};
 [1879524144]={[1]="Mûrai Enchanted Repair Anvil Recipe";[2]="Using this scroll grants a weaponsmith recipe.";[3]=301;[4]=3;[5]=0;[6]=false;[7]=false;};
 [1879524149]={[1]="Enchanted Repair Anvil";[2]="Use this to place an anvil that can repair equipment for a duration of 3 minutes. Items repaired at this anvil will cost much more than repairing at a vendor.";[3]=50;[4]=2;[5]=0;[6]=false;[7]=false;};
-[1879524150]={[1]="Crystallized Blight Amulet";[2]="";[3]=49;[4]=2;[5]=3;[6]=false;[7]=false;};
+[1879524150]={[1]="Crystallized Blight Amulet";[2]="This amulet has been completely encased in blight. You should bring it to the Quartermaster of the Nagakhêdi Foothold camp.";[3]=49;[4]=2;[5]=3;[6]=false;[7]=false;};
+[1879524151]={[1]="Purified Blight Amulet";[2]="This once-blighted necklace has been purified, and now bears some capacity to help you temporarily suppress the effects of the blight.";[3]=49;[4]=3;[5]=3;[6]=false;[7]=false;};
 [1879524275]={[1]="'Spring in Clegur' Theme";[2]="A piece celebrating spring time in Clegur.";[3]=82;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879524380]={[1]="Daffodil Celebration Tunic and Trousers";[2]="";[3]=182;[4]=5;[5]=6;[6]=false;[7]=false;};
 [1879524381]={[1]="Hooded Daffodil Celebration Cloak";[2]="";[3]=97;[4]=5;[5]=6;[6]=false;[7]=false;};
