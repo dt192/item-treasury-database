@@ -146449,7 +146449,7 @@ _ITEMSDB =
 [1879519378]={[1]="Kinta Hammers Recipe";[2]="Using this scroll grants a woodworker recipe.";[3]=299;[4]=2;[5]=0;[6]=false;[7]=false;};
 [1879519379]={[1]="Grove-keeper's Harness Recipe";[2]="Using this scroll grants a tailor recipe.";[3]=298;[4]=2;[5]=0;[6]=false;[7]=false;};
 [1879519380]={[1]="Mûrai Edhelharn Token Recipe";[2]="Using this scroll grants a jeweller recipe.";[3]=297;[4]=2;[5]=0;[6]=false;[7]=false;};
-[1879519381]={[1]="Mûrai Pristine Tome of Untold Power Recipe";[2]="Using this scroll grants a scholar recipe.";[3]=302;[4]=2;[5]=0;[6]=false;[7]=false;};
+[1879519381]={[1]="Pristine Mûrai Hunter Tome Recipe";[2]="Using this scroll grants a scholar recipe.";[3]=302;[4]=2;[5]=0;[6]=false;[7]=false;};
 [1879519382]={[1]="Kinta Medium Shields Recipe";[2]="Using this scroll grants a metalsmith recipe.";[3]=296;[4]=2;[5]=0;[6]=false;[7]=false;};
 [1879519383]={[1]="Grove-tender's Robe Recipe";[2]="Using this scroll grants a tailor recipe.";[3]=298;[4]=2;[5]=0;[6]=false;[7]=false;};
 [1879519384]={[1]="Kinta Maces Recipe";[2]="Using this scroll grants a weaponsmith recipe.";[3]=301;[4]=2;[5]=0;[6]=false;[7]=false;};
