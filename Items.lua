@@ -1,5 +1,5 @@
 FIRSTID = 1879049233;
-LASTID  = 1879525984;
+LASTID  = 1879526116;
 
 _ITEMSDB =
 {
@@ -142648,6 +142648,7 @@ _ITEMSDB =
 [1879508468]={[1]="Light Armour Light Green Corsair Orc Appearance";[2]="This item will reward you with the Light Armour Light Green Corsair Orc Appearance.";[3]=57;[4]=2;[5]=0;[6]=false;[7]=true;};
 [1879508531]={[1]="Tome of the Young Tawny Oryx";[2]="Using this item will teach you to summon a young tawny oryx.";[3]=186;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879508539]={[1]="Tome of the Striped Oryx";[2]="Using this item will teach you to summon a striped oryx.";[3]=186;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879508549]={[1]="Tome of the Pony of Umbar";[2]="Using this item will teach you to summon a pony of Umbar.";[3]=186;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879508553]={[1]="Tome of the Young Striped Oryx";[2]="Using this item will teach you to summon a young striped oryx.";[3]=186;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879508562]={[1]="Tome of the Marsh Scorpion";[2]="Using this item will teach you to summon a marsh scorpion.";[3]=186;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879508566]={[1]="Tome of the Helpful Deep-claw Whelp";[2]="Using this item will teach you to summon a helpful deep-claw whelp.";[3]=186;[4]=5;[5]=0;[6]=false;[7]=false;};
@@ -142656,6 +142657,7 @@ _ITEMSDB =
 [1879508591]={[1]="Tome of the Crimson Deep-claw Whelp";[2]="Using this item will teach you to summon a crimson deep-claw whelp.";[3]=186;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879508599]={[1]="Tome of the Tawny Oryx";[2]="Using this item will teach you to summon a tawny oryx.";[3]=186;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879508611]={[1]="Tome of the Copper Scorpion";[2]="Using this item will teach you to summon a copper scorpion.";[3]=186;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879508612]={[1]="Tome of the Tame Hyena";[2]="Using this item will teach you to summon a tame hyena.";[3]=186;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879508628]={[1]="Tome of the Young Brown Oryx";[2]="Using this item will teach you to summon a young brown oryx.";[3]=186;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879508629]={[1]="Tome of the Brown Oryx";[2]="Using this item will teach you to summon a brown oryx.";[3]=186;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879508653]={[1]="Tome of the Cobalt Grodbog Protector";[2]="Using this item will teach you to summon a cobalt grodbog protector.";[3]=186;[4]=5;[5]=0;[6]=false;[7]=false;};
@@ -147382,9 +147384,11 @@ _ITEMSDB =
 [1879523722]={[1]="The Hatokáli Fells";[2]="";[3]=285;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879523750]={[1]="Pennant of Blackroot";[2]="";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879523751]={[1]="Hanging Standard of Aradûn";[2]="";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879523752]={[1]="Subuzûri Property Guard (Female)";[2]="A hired guard tasked with protecting your property.";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879523754]={[1]="Hanging Banner of Anfalas";[2]="";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879523756]={[1]="Hanging Banner of Anórien";[2]="";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879523757]={[1]="Pennant of Morgoth";[2]="";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879523758]={[1]="Visiting Shagâni Warrior (Female)";[2]="A visitor from lands far away.";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879523761]={[1]="Pennant of Anfalas";[2]="";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879523763]={[1]="Pennant of the Kindred";[2]="";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879523768]={[1]="Standard of the Kintai";[2]="";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
@@ -147395,6 +147399,7 @@ _ITEMSDB =
 [1879523776]={[1]="Pennant of King Elessar";[2]="";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879523777]={[1]="Hanging Stonedeans Banner";[2]="";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879523778]={[1]="Hanging Thornhope Banner";[2]="";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879523783]={[1]="Dumûri Property Guard";[2]="A hired guard tasked with protecting your property.";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879523785]={[1]="Hanging Snowbourn Banner";[2]="";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879523789]={[1]="Pennant of Gondor";[2]="";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879523790]={[1]="Pennant of Ekhamât";[2]="";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
@@ -147402,13 +147407,14 @@ _ITEMSDB =
 [1879523794]={[1]="Pennant of Pinnath Gelin";[2]="";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879523795]={[1]="Hanging Banner of Lossarnach";[2]="";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879523801]={[1]="Pennant of the Thardúth";[2]="";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879523804]={[1]="Subuzûri Property Guard (Male)";[2]="A hired guard tasked with protecting your property.";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879523806]={[1]="Hanging Banner of Lamedon";[2]="";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879523808]={[1]="Hanging Standard of Jaghâna";[2]="";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879523810]={[1]="Hanging Banner of Belfalas";[2]="";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879523811]={[1]="Hanging Banner of Gondor";[2]="";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879523813]={[1]="Kintai Property Guard (Female)";[2]="A hired guard tasked with protecting your property.";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879523816]={[1]="Pennant of Lossarnach";[2]="";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
-[1879523818]={[1]="Hanging Standard of Kûr Anzar";[2]="";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879523818]={[1]="Hanging Standard of Ekhamât";[2]="";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879523822]={[1]="Standard of Jaghâna";[2]="";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879523824]={[1]="Hanging High Moor Banner";[2]="";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879523827]={[1]="Kintai Property Guard (Male)";[2]="A hired guard tasked with protecting your property.";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
@@ -147451,6 +147457,7 @@ _ITEMSDB =
 [1879523904]={[1]="Hanging Harwick Banner";[2]="";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879523907]={[1]="Hanging Westfold Banner";[2]="";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879523911]={[1]="Pennant of Barkhûsh";[2]="";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879523912]={[1]="Visiting Shagâni Warrior (Male)";[2]="A visitor from lands far away.";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879523913]={[1]="Hanging Banner of Dol Amroth";[2]="";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879523915]={[1]="Pennant of Ringló Vale";[2]="";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879523916]={[1]="Pennant of Jaghâna";[2]="";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
@@ -147544,7 +147551,7 @@ _ITEMSDB =
 [1879524433]={[1]="Daffodil Green Thumb Bauble";[2]="Using this item will teach you the Daffodil Green Thumb bauble skill.";[3]=186;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879524434]={[1]="Maramam's Bacon Pie Bauble";[2]="Using this item will teach you Maramam's Bacon Pie bauble skill.";[3]=186;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879524438]={[1]="Scanning Water Buffalo Trophy";[2]="";[3]=84;[4]=5;[5]=0;[6]=false;[7]=false;};
-[1879524441]={[1]="Charging Scorpion Trophy";[2]="";[3]=84;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879524441]={[1]="Stinging Scorpion Trophy";[2]="";[3]=84;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879524442]={[1]="Pouncing Jackal Trophy";[2]="";[3]=84;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879524443]={[1]="Threatening Sandworm Trophy";[2]="";[3]=84;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879524445]={[1]="Upright Cobra Trophy";[2]="";[3]=84;[4]=5;[5]=0;[6]=false;[7]=false;};
@@ -147558,7 +147565,7 @@ _ITEMSDB =
 [1879524461]={[1]="Perturbed Water Buffalo Trophy";[2]="";[3]=84;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879524464]={[1]="Attacking Sandworm Trophy";[2]="";[3]=84;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879524465]={[1]="Snarling Wolf Trophy";[2]="";[3]=84;[4]=5;[5]=0;[6]=false;[7]=false;};
-[1879524466]={[1]="Stinging Scorpion Trophy";[2]="";[3]=84;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879524466]={[1]="Threatening Scorpion Trophy";[2]="";[3]=84;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879524482]={[1]="Patch of Daffodils";[2]="";[3]=173;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879524491]={[1]="Siege Materials";[2]="These materials could be used to build siege machines.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879524492]={[1]="Ordâkhai Tent";[2]="A hastily erected tent, meant to allow the Ordâkhai a closer encampment to stage an assault.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
@@ -147613,7 +147620,7 @@ _ITEMSDB =
 [1879524864]={[1]="Delicious Party Dish";[2]="You've had this dish before - you know it is quite delicious.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879524865]={[1]="Area for Food";[2]="This is a suitable spot to put down food for some of Kutímu's cats.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879524866]={[1]="Intriguing Party Dish";[2]="The sauce on this dish is quite interesting, rich and dark.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
-[1879524867]={[1]="Dented Shield";[2]="This Subuzûri shield is shining and looking good as new.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879524867]={[1]="Dented Shield";[2]="This Subuzûri shield has deep gashes and divots in the metal and woodwork. It needs repairs to be useful once more.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879524868]={[1]="Area for Wooden Support";[2]="This is a suitable spot for a new wooden support beam.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879524869]={[1]="Area for Numûru's Armour";[2]="You should place Numûru's armour here.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879524870]={[1]="Hamât Barricade";[2]="This is a good place to construct a new, sturdier barricade.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
@@ -147950,4 +147957,31 @@ _ITEMSDB =
 [1879525934]={[1]="Fallen Warrior's Pauldrons";[2]="";[3]=6;[4]=3;[5]=3;[6]=false;[7]=false;};
 [1879525983]={[1]="";[2]="";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879525984]={[1]="";[2]="";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879526050]={[1]="Legendary Coffer of the Arabian Pony";[2]="Contains a Cracked Tracery Token and the Tome of the Arabian Pony.";[3]=27;[4]=1;[5]=0;[6]=false;[7]=false;};
+[1879526052]={[1]="Legendary Coffer of the Hamât Renewed Protectors";[2]="Contains a Cracked Tracery Token and the Hamât Renewed housing bundle.";[3]=27;[4]=1;[5]=0;[6]=false;[7]=false;};
+[1879526058]={[1]="Incomparable Coffer of the Ambarûl Property Guard";[2]="Contains Ancient Script and the Ambarûl Property Guard housing bundle.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
+[1879526059]={[1]="Ambarûl Property Guard Housing Collection";[2]="Contains several Dumûri property guards to guard your abode. Also includes banners to show your support of the Dumûri.";[3]=27;[4]=1;[5]=0;[6]=false;[7]=false;};
+[1879526060]={[1]="Hamât Renewed Housing Collection";[2]="Contains several Subuzûri property guards to protect your domicile. Includes several Hamât Renewed banners. Also includes a lounging rock for lions, the symbol of Hamât Renewed.";[3]=27;[4]=1;[5]=0;[6]=false;[7]=false;};
+[1879526061]={[1]="Legendary Coffer of the Tame Hyena";[2]="Contains a Cracked Tracery Token, Legendary Enhancement Runes, Ancient Script, and the Tome of the Tame Hyena.";[3]=27;[4]=1;[5]=0;[6]=false;[7]=false;};
+[1879526067]={[1]="Timeless Gauntlets of the Noldor";[2]="";[3]=184;[4]=5;[5]=6;[6]=false;[7]=false;};
+[1879526068]={[1]="Timeless Leggings of the Noldor";[2]="";[3]=185;[4]=5;[5]=6;[6]=false;[7]=false;};
+[1879526069]={[1]="Timeless Hooded Helmet of the Noldor";[2]="";[3]=183;[4]=5;[5]=6;[6]=false;[7]=false;};
+[1879526070]={[1]="Timeless Pauldrons of the Noldor";[2]="";[3]=181;[4]=5;[5]=6;[6]=false;[7]=false;};
+[1879526071]={[1]="Timeless Quiver & Cloak of the Noldor";[2]="";[3]=97;[4]=5;[5]=6;[6]=false;[7]=false;};
+[1879526072]={[1]="Timeless Boots of the Noldor";[2]="";[3]=180;[4]=5;[5]=6;[6]=false;[7]=false;};
+[1879526073]={[1]="Timeless Hauberk of the Noldor";[2]="";[3]=182;[4]=5;[5]=6;[6]=false;[7]=false;};
+[1879526080]={[1]="Timeless Steed of the Noldor";[2]="You can use this token to learn a skill to call this mount. Using this token will grant you the Timeless Steed of the Noldor skill.";[3]=8;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879526088]={[1]="Timeless Sword of the Noldor";[2]="";[3]=44;[4]=5;[5]=6;[6]=false;[7]=false;};
+[1879526089]={[1]="Timeless Bow of the Noldor";[2]="";[3]=1;[4]=5;[5]=6;[6]=false;[7]=false;};
+[1879526090]={[1]="Timeless Weapon Aura of the Noldor";[2]="Your weapon glows with a timeless aura.";[3]=253;[4]=3;[5]=0;[6]=false;[7]=false;};
+[1879526093]={[1]="Tome of the Timeless Elf-hawk";[2]="Using this item will teach you to summon a noble bird companion.";[3]=186;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879526100]={[1]="Grant the Timeless Milestone Style Emote";[2]="Using this item will grant you the Timeless milestone travel style emote (/milestone_timeless).";[3]=174;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879526102]={[1]="Grant the Timeless Deed Completion Style Emote";[2]="Using this item will grant you the Timeless deed completion style emote (/deed_timeless).";[3]=174;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879526110]={[1]="Timeless Patron's Luxuriant Wardrobe Cosmetics of the Noldor";[2]="Cosmetics for a valued patron that can be placed in the wardrobe.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879526111]={[1]="Timeless Patron's Simple Mithril Coffer of the Noldor";[2]="Contains Mithril Coins.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879526112]={[1]="Timeless Patron's Luxuriant Cosmetics Coffer of the Noldor";[2]="Cosmetics for a valued patron.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879526113]={[1]="Timeless Patron's Enhanced Cosmetics Coffer of the Noldor";[2]="Cosmetics for a valued patron.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879526114]={[1]="Timeless Patron's Simple Cosmetics Coffer of the Noldor";[2]="Cosmetics for a valued patron.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879526115]={[1]="Timeless Patron's Enhanced Mithril Coffer of the Noldor";[2]="Contains Mithril Coins and Virtue XP.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879526116]={[1]="Timeless Patron's Luxuriant Mithril Coffer of the Noldor";[2]="Contains Mithril Coins and Virtue XP.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 };
