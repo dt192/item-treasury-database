@@ -1,5 +1,5 @@
 FIRSTID = 1879049233;
-LASTID  = 1879526116;
+LASTID  = 1879526302;
 
 _ITEMSDB =
 {
@@ -147584,7 +147584,6 @@ _ITEMSDB =
 [1879524743]={[1]="Nushâba's Whetstone";[2]="A smooth whetstone that can be used to sharpen Nushâba's weapon.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879524744]={[1]="Cache of Tebíra's Ore";[2]="This ore seems to match the description provided to you by the blacksmith Tebíra.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879524745]={[1]="Numûru's Memorial Stone";[2]="This stone seems the correct size and shape Mizâdi described to fit as a memorial stone for Numûru.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
-[1879524746]={[1]="Stone for Cleaning";[2]="These stones, shaped by thousands of years of rivers passing over them, are ideal for cleaning armour.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879524747]={[1]="Fresh Shoulder Bandages";[2]="A crate filled with fresh cloth, wraps, slings, and large bandages.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879524748]={[1]="Hatokáli Ore Deposit";[2]="A fresh deposit of Hatokáli ore.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879524749]={[1]="Cord of Wood";[2]="A cord of wood, useful for camp-fires.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
@@ -147595,7 +147594,6 @@ _ITEMSDB =
 [1879524754]={[1]="Sharpening Whetstone";[2]="A smooth whetstone that can be used to sharpen weapons.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879524755]={[1]="Skin of Water";[2]="A water-skin full to bursting with fresh water.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879524756]={[1]="Drying Fish Rack";[2]="This must be the drying fish Kutímu spoke of, to be used to feed his cats.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
-[1879524757]={[1]="Barrel of Fresh Water";[2]="A barrel of water, matching the description provided to you by Gíshu.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879524758]={[1]="Keg of Wine";[2]="The wine keg seems a bit dusty and worse for wear, but the wine inside seems unharmed.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879524759]={[1]="Numûru's Sword";[2]="Numûru's sword, abandoned at the battle for Imizíla. The hilt is still covered in blood.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879524760]={[1]="Pahar Hatokáli Map";[2]="A map showing the broad features and territory within Pahar Hatokáli.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
@@ -147608,13 +147606,11 @@ _ITEMSDB =
 [1879524852]={[1]="Ordâkhai Paddock";[2]="A paddock where lions are captured. Break down the gate!";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879524853]={[1]="Ordâkhai Bootprints";[2]="These bootprints lead away, moving to the east.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879524854]={[1]="Burnt Market Stand";[2]="A burnt market stand. This stand is beyond repair - destroy it!";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
-[1879524855]={[1]="Razâl's Horn";[2]="Blow this horn to signal to Mizâdi's forces that it is safe to approach.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879524856]={[1]="Black Powder";[2]="A barrel of black powder - ignite it to cause a distraction and then run!";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879524857]={[1]="Main Gate Lever";[2]="Use the gate lever to open the main gate into Imizíla to allow the Subuzûri access.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879524858]={[1]="Area for Dance Stage";[2]="You should build the dance stage Numûru requested here.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879524859]={[1]="Subuzûri Siege Weapon";[2]="Help build the Subuzûri siege weapon to use against Bârshud and his forces at Imizíla.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879524860]={[1]="New Market Stand";[2]="A new market stand, ready for Shâgigal Held-silver to once again sell his wares.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
-[1879524861]={[1]="Suspicious Party Dish";[2]="This dish smells intriguing, but also quite acrid. Perhaps the chef didn't know their way around a spice rack.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879524862]={[1]="Ordâkhai Lion Cage";[2]="A cage where lions are tortured and cruelly trained by the Ordâkhai. Destroy it!";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879524863]={[1]="Ordâkhai Bootprints";[2]="These bootprints lead away, moving to the south-east.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879524864]={[1]="Delicious Party Dish";[2]="You've had this dish before - you know it is quite delicious.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
@@ -147623,7 +147619,6 @@ _ITEMSDB =
 [1879524867]={[1]="Dented Shield";[2]="This Subuzûri shield has deep gashes and divots in the metal and woodwork. It needs repairs to be useful once more.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879524868]={[1]="Area for Wooden Support";[2]="This is a suitable spot for a new wooden support beam.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879524869]={[1]="Area for Numûru's Armour";[2]="You should place Numûru's armour here.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
-[1879524870]={[1]="Hamât Barricade";[2]="This is a good place to construct a new, sturdier barricade.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879524871]={[1]="Area for Hamât Camp-fire";[2]="This looks like a good area to make a camp fire-pit.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879524872]={[1]="Area for Hamât Tent";[2]="This looks like a good area to set up a large camp tent.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879524873]={[1]="Fragrant Party Dish";[2]="The smell coming from this dish is quite pungent, though not in an unpleasant way.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
@@ -147656,6 +147651,8 @@ _ITEMSDB =
 [1879525010]={[1]="Dignified Rivendell Robe";[2]="";[3]=182;[4]=5;[5]=6;[6]=false;[7]=false;};
 [1879525011]={[1]="Rivendell Shoulder-wrap";[2]="";[3]=181;[4]=5;[5]=6;[6]=false;[7]=false;};
 [1879525012]={[1]="Elegant Rivendell Robe";[2]="";[3]=182;[4]=5;[5]=6;[6]=false;[7]=false;};
+[1879525013]={[1]="Race Pony";[2]="A horse used in the Festival Run.";[3]=8;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879525014]={[1]="Race Horse";[2]="A horse used in the Festival Run.";[3]=8;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879525044]={[1]="Helm of the Osgiliath Mariner";[2]="";[3]=7;[4]=3;[5]=3;[6]=false;[7]=false;};
 [1879525045]={[1]="Shoulderpads of the Osgiliath Mariner";[2]="";[3]=6;[4]=3;[5]=3;[6]=false;[7]=false;};
 [1879525046]={[1]="Gloves of the Osgiliath Mariner";[2]="";[3]=5;[4]=3;[5]=3;[6]=false;[7]=false;};
@@ -147957,7 +147954,7 @@ _ITEMSDB =
 [1879525934]={[1]="Fallen Warrior's Pauldrons";[2]="";[3]=6;[4]=3;[5]=3;[6]=false;[7]=false;};
 [1879525983]={[1]="";[2]="";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879525984]={[1]="";[2]="";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
-[1879526050]={[1]="Legendary Coffer of the Arabian Pony";[2]="Contains a Cracked Tracery Token and the Tome of the Arabian Pony.";[3]=27;[4]=1;[5]=0;[6]=false;[7]=false;};
+[1879526050]={[1]="Legendary Coffer of the Umbar Pony";[2]="Contains a Cracked Tracery Token and the Tome of the Umbar Pony.";[3]=27;[4]=1;[5]=0;[6]=false;[7]=false;};
 [1879526052]={[1]="Legendary Coffer of the Hamât Renewed Protectors";[2]="Contains a Cracked Tracery Token and the Hamât Renewed housing bundle.";[3]=27;[4]=1;[5]=0;[6]=false;[7]=false;};
 [1879526058]={[1]="Incomparable Coffer of the Ambarûl Property Guard";[2]="Contains Ancient Script and the Ambarûl Property Guard housing bundle.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
 [1879526059]={[1]="Ambarûl Property Guard Housing Collection";[2]="Contains several Dumûri property guards to guard your abode. Also includes banners to show your support of the Dumûri.";[3]=27;[4]=1;[5]=0;[6]=false;[7]=false;};
@@ -147984,4 +147981,5 @@ _ITEMSDB =
 [1879526114]={[1]="Timeless Patron's Simple Cosmetics Coffer of the Noldor";[2]="Cosmetics for a valued patron.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879526115]={[1]="Timeless Patron's Enhanced Mithril Coffer of the Noldor";[2]="Contains Mithril Coins and Virtue XP.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879526116]={[1]="Timeless Patron's Luxuriant Mithril Coffer of the Noldor";[2]="Contains Mithril Coins and Virtue XP.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879526302]={[1]="Pride's Rock";[2]="This looks like an ideal spot for lions to relax or play.";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
 };
