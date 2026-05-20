@@ -1,5 +1,5 @@
 FIRSTID = 1879049233;
-LASTID  = 1879526302;
+LASTID  = 1879526825;
 
 _ITEMSDB =
 {
@@ -146041,8 +146041,10 @@ _ITEMSDB =
 [1879517022]={[1]="Eerie Blight-crawler Appearance";[2]="This item will reward your character with the Eerie Blight-crawler Spider Appearance.";[3]=57;[4]=2;[5]=0;[6]=false;[7]=true;};
 [1879517024]={[1]="Grey Hyena Appearance";[2]="This item will reward your character with the Grey Hyena Warg Appearance.";[3]=57;[4]=2;[5]=0;[6]=false;[7]=true;};
 [1879517026]={[1]="Blood-muzzle Grey Hyena Appearance";[2]="This item will reward your character with the Blood-muzzle Grey Hyena Warg Appearance.";[3]=57;[4]=2;[5]=0;[6]=false;[7]=true;};
+[1879517030]={[1]="Tawny Hyena Appearance";[2]="This item will reward your character with the Tawny Hyena Warg Appearance.";[3]=57;[4]=2;[5]=0;[6]=false;[7]=true;};
 [1879517038]={[1]="Blue Sleek Glass Appearance";[2]="This item will reward your character with the Blue Sleek Glass Spider Appearance.";[3]=57;[4]=2;[5]=0;[6]=false;[7]=true;};
 [1879517039]={[1]="Black-bellied Blight-crawler Appearance";[2]="This item will reward your character with the Black-bellied Blight-crawler Spider Appearance.";[3]=57;[4]=2;[5]=0;[6]=false;[7]=true;};
+[1879517040]={[1]="Albino Adagím Blight-crawler Appearance";[2]="This item will reward your character with the Albino Adagím Blight-crawler Appearance.";[3]=57;[4]=2;[5]=0;[6]=false;[7]=true;};
 [1879517044]={[1]="Ancient Treasure";[2]="An ancient Nísakari treasure that should be preserved before the kergrim can despoil it.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879517045]={[1]="Double-locked Chest";[2]="This chest appears to require two keys to open.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879517046]={[1]="Wild-drake Eggs";[2]="These eggs will soon hatch into more troublesome wild drakes.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
@@ -147366,9 +147368,15 @@ _ITEMSDB =
 [1879523287]={[1]="Plan For Scorpions";[2]="A letter.";[3]=57;[4]=0;[5]=0;[6]=false;[7]=false;};
 [1879523376]={[1]="Monster Player Reward Track - Cosmetic Choice Box";[2]="A selection of appearances, cosmetic weapons, and March! Vfx for monster players.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
 [1879523384]={[1]="Monster Player Reward Track - Appearance Choice Box";[2]="A selection of appearances for monster players.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
+[1879523421]={[1]="Gothmog's Mace Appearance (Off-hand)";[2]="This item will reward your character with Gothmog's Mace Appearance for your secondary weapon.";[3]=57;[4]=4;[5]=0;[6]=false;[7]=true;};
+[1879523425]={[1]="Corrupted Great Axe Appearance";[2]="This item will reward your character with a Corrupted Great Axe Appearance for your main hand.";[3]=57;[4]=4;[5]=0;[6]=false;[7]=true;};
+[1879523438]={[1]="High Chieftain Claghórd's Shield Appearance";[2]="This item will reward your character with High Chieftain Claghórd's Shield Appearance for your shield.";[3]=57;[4]=4;[5]=0;[6]=false;[7]=true;};
+[1879523441]={[1]="Elemental Fire Sword Appearance";[2]="This item will reward your character with an Elemental Fire Sword Appearance for your main hand.";[3]=57;[4]=4;[5]=0;[6]=false;[7]=true;};
 [1879523453]={[1]="Talath Úrui Shield Appearance";[2]="This item will reward your character with a Talath Úrui Shield Appearance for your shield.";[3]=57;[4]=4;[5]=0;[6]=false;[7]=true;};
 [1879523458]={[1]="Wight's Great Axe Appearance";[2]="This item will reward your character with a Wight's Great Axe Appearance for your main hand.";[3]=57;[4]=4;[5]=0;[6]=false;[7]=true;};
 [1879523463]={[1]="Gundabad Captain's Bow Appearance";[2]="This item will reward your character with a Gundabad Captain's Bow Appearance for your bow.";[3]=57;[4]=4;[5]=0;[6]=false;[7]=true;};
+[1879523466]={[1]="Ásachal's Staff Appearance";[2]="This item will reward your character with Ásachal's Staff Appearance for your main hand.";[3]=57;[4]=4;[5]=0;[6]=false;[7]=true;};
+[1879523470]={[1]="Translucent Bow Appearance";[2]="This item will reward your character with a Translucent Bow Appearance for your shortbow.";[3]=57;[4]=4;[5]=0;[6]=false;[7]=true;};
 [1879523474]={[1]="Shade's Sword Appearance";[2]="This item will reward your character with a Shade's Sword Appearance for your main hand.";[3]=57;[4]=4;[5]=0;[6]=false;[7]=true;};
 [1879523475]={[1]="Thrâng's Mace Appearance (Off-hand)";[2]="This item will reward your character with Thrâng's Mace Appearance for your secondary weapon.";[3]=57;[4]=4;[5]=0;[6]=false;[7]=true;};
 [1879523476]={[1]="Ivar's Corrupted Staff Appearance";[2]="This item will reward your character with Ivar's Corrupted Staff Appearance for your main hand.";[3]=57;[4]=4;[5]=0;[6]=false;[7]=true;};
@@ -147378,7 +147386,7 @@ _ITEMSDB =
 [1879523481]={[1]="Package of Power and Morale Potions";[2]="Contains a Morale and Power Potion, normally available at Outposts.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
 [1879523482]={[1]="Title: Servant of the Enemy";[2]="Contains the 'Servant of the Enemy' Title.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
 [1879523483]={[1]="Season of the Rivals Portrait Frame";[2]="Contains the Season of the Rivals Portrait Frame.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
-[1879523595]={[1]="Title Bastion of the Light";[2]="Collecting this item will grant the title Bastion of the Light to this character.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=true;};
+[1879523595]={[1]="Title: Bastion of the Light";[2]="Collecting this item will grant the title Bastion of the Light to this character.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=true;};
 [1879523596]={[1]="Title: Servant of the Enemy";[2]="Collecting this item will grant the title Servant of the Enemy to this character.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=true;};
 [1879523700]={[1]="The Farings of Kábuzar, Vol II";[2]="The Farings of Kábuzar Volume II, the final volume of an ancient text of great importance to both the Pohâni and the Empire of Ordâkh.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879523722]={[1]="The Hatokáli Fells";[2]="";[3]=285;[4]=5;[5]=0;[6]=false;[7]=false;};
@@ -147513,7 +147521,7 @@ _ITEMSDB =
 [1879524313]={[1]="Heraldry of Lamedon";[2]="This contains four copies each of the following: Banner, Pennant, and Hanging Banner of Lamedon.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879524314]={[1]="Heraldry of King Elessar";[2]="This contains four copies each of the following: Banner, Pennant, and Hanging Banner of King Elessar.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879524315]={[1]="Heraldry of Langhold";[2]="This contains four copies each of the following: Banner, Pennant, and Hanging Banner of Langhold.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
-[1879524316]={[1]="Heraldry of Anfalas";[2]="This contains four copies each of the following: Banner, Pennant, and Hanging Banner of Anfalas.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879524316]={[1]="Heraldry of Anórien";[2]="This contains four copies each of the following: Banner, Pennant, and Hanging Banner of Anfalas.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879524317]={[1]="Heraldry of Eaworth";[2]="This contains four copies each of the following: Banner, Pennant, and Hanging Banner of Eaworth.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879524318]={[1]="Heraldry of Lossarnach";[2]="This contains four copies each of the following: Banner, Pennant, and Hanging Banner of Lossarnach.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879524319]={[1]="Heraldry of Snowbourn";[2]="This contains four copies each of the following: Banner, Pennant, and Hanging Banner of Snowbourn.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
@@ -147527,7 +147535,7 @@ _ITEMSDB =
 [1879524329]={[1]="Heraldry of Garsfeld";[2]="This contains four copies each of the following: Banner, Pennant, and Hanging Banner of Garsfeld.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879524330]={[1]="Heraldry of Gondor";[2]="This contains four copies each of the following: Banner, Pennant, and Hanging Banner of Gondor.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879524331]={[1]="Heraldry of Faldham";[2]="This contains four copies each of the following: Banner, Pennant, and Hanging Banner of Faldham.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
-[1879524332]={[1]="Heraldry of Anórien";[2]="This contains four copies each of the following: Banner, Pennant, and Hanging Banner of Anórien.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879524332]={[1]="Heraldry of Anfalas";[2]="This contains four copies each of the following: Banner, Pennant, and Hanging Banner of Anórien.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879524334]={[1]="Heraldry of Morgoth";[2]="This contains four copies each of the following: Standard, Pennant, and Hanging Standard of Morgoth.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879524380]={[1]="Daffodil Celebration Tunic and Trousers";[2]="";[3]=182;[4]=5;[5]=6;[6]=false;[7]=false;};
 [1879524381]={[1]="Hooded Daffodil Celebration Cloak";[2]="";[3]=97;[4]=5;[5]=6;[6]=false;[7]=false;};
@@ -147590,7 +147598,7 @@ _ITEMSDB =
 [1879524750]={[1]="Young Switch for Thatching";[2]="These saplings have good bend and flexibility, well suited for lashing and thatching wood together.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879524751]={[1]="Numûru's Flower";[2]="This flower matches the description Numûru provided of her favourite flower.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879524752]={[1]="Armour Oil";[2]="Extracted from the snakes of Pahar Hatokáli, this oil can be used to polish weapons and armour.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
-[1879524753]={[1]="Imizíla Gate Key";[2]="The trader dropped this key in his frantic exit. Perhaps it opens the Imizíla gate lock?";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879524753]={[1]="Imizíla Gate Key";[2]="You see a key peeking out from the dirt. Perhaps it opens the Imizíla gate lock?";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879524754]={[1]="Sharpening Whetstone";[2]="A smooth whetstone that can be used to sharpen weapons.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879524755]={[1]="Skin of Water";[2]="A water-skin full to bursting with fresh water.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879524756]={[1]="Drying Fish Rack";[2]="This must be the drying fish Kutímu spoke of, to be used to feed his cats.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
@@ -147981,5 +147989,20 @@ _ITEMSDB =
 [1879526114]={[1]="Timeless Patron's Simple Cosmetics Coffer of the Noldor";[2]="Cosmetics for a valued patron.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879526115]={[1]="Timeless Patron's Enhanced Mithril Coffer of the Noldor";[2]="Contains Mithril Coins and Virtue XP.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879526116]={[1]="Timeless Patron's Luxuriant Mithril Coffer of the Noldor";[2]="Contains Mithril Coins and Virtue XP.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879526143]={[1]="Yellow Utûgi Warleader Appearance";[2]="This item will reward your character with the Yellow Utûgi Warleader Appearance.";[3]=57;[4]=2;[5]=0;[6]=false;[7]=true;};
+[1879526173]={[1]="Pale Utûgi Blackarrow Appearance";[2]="This item will reward your character with the Pale Utûgi Blackarrow Appearance.";[3]=57;[4]=2;[5]=0;[6]=false;[7]=true;};
+[1879526203]={[1]="Pale-blue Harad Reaver Recruit Appearance";[2]="This item will reward you with the Pale-blue Harad Reaver Recruit Appearance.";[3]=57;[4]=2;[5]=0;[6]=false;[7]=true;};
+[1879526206]={[1]="Black-skinned Harad Defiler Novice Appearance";[2]="This item will reward your character with the Black-skinned Harad Defiler Novice Appearance.";[3]=57;[4]=2;[5]=0;[6]=false;[7]=true;};
+[1879526210]={[1]="Season of Destruction Frame";[2]="This item, when used, will grant you a new portrait frame.";[3]=205;[4]=5;[5]=0;[6]=false;[7]=true;};
+[1879526212]={[1]="Title: Herald of Destruction";[2]="Collecting this item will grant the title Herald of Destruction to this character.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=true;};
+[1879526213]={[1]="Title: Herald of Destruction";[2]="Contains the 'Herald of Destruction' Title.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
+[1879526216]={[1]="Monster Player Reward Track - Appearance Choice Box";[2]="A selection of appearances for monster players.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
+[1879526218]={[1]="Title: Herald of Restoration";[2]="Collecting this item will grant the title Herald of Restoration to this character.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=true;};
+[1879526219]={[1]="Season of Destruction Free People Frame";[2]="This item, when used, will grant you a new portrait frame. You can trade this item to other players or place it on the auction house. Warning: If you have already acquired this portrait frame, using this item will consume the item and have no further effect.";[3]=205;[4]=5;[5]=0;[6]=false;[7]=true;};
+[1879526220]={[1]="Monster Player Reward Track - Cosmetic Choice Box";[2]="A selection of appearances, cosmetic weapons, and March! Vfx for monster players.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
+[1879526224]={[1]="Season of Destruction Portrait Frame";[2]="Contains the Season of Destruction Portrait Frame.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
+[1879526230]={[1]="Account Wide Season of Destruction Portrait";[2]="An item granting an account wide portrait frame for the Season of Destruction Monster Play Reward Track.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=true;};
 [1879526302]={[1]="Pride's Rock";[2]="This looks like an ideal spot for lions to relax or play.";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879526782]={[1]="Area for Memorial Stone";[2]="This is a good place for a memorial stone.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879526825]={[1]="Area for Banner";[2]="This is a good place to put Mizâdi's banner, to claim this area for Hamât Renewed.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 };
