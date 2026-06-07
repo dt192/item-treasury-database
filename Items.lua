@@ -1,5 +1,5 @@
 FIRSTID = 1879049233;
-LASTID  = 1879526825;
+LASTID  = 1879527284;
 
 _ITEMSDB =
 {
@@ -147941,7 +147941,8 @@ _ITEMSDB =
 [1879525853]={[1]="Raid Mariner Gear";[2]="A full set of Raid gear";[3]=27;[4]=5;[5]=0;[6]=false;[7]=true;};
 [1879525854]={[1]="Supreme Raid Mariner Gear";[2]="A full set of Supreme Raid gear";[3]=27;[4]=5;[5]=0;[6]=false;[7]=true;};
 [1879525855]={[1]="Greater Raid Mariner Gear";[2]="A full set of Greater Raid gear";[3]=27;[4]=5;[5]=0;[6]=false;[7]=true;};
-[1879525865]={[1]="Toll Copper";[2]="This fragile coin fell from a wight in the Hatokáli Fells. Perhaps it was part of an ancient burial ritual, but the fell spirits inhabiting the dead speak not of the past, so its purpose remains unknown.";[3]=178;[4]=2;[5]=0;[6]=false;[7]=false;};
+[1879525865]={[1]="Toll Copper";[2]="This fragile coin fell from a wight in the Hatokáli Fells. Perhaps it was part of an ancient burial ritual, but the fell spirits inhabiting the Dead speak not of the past, so its purpose remains unknown.";[3]=178;[4]=2;[5]=0;[6]=false;[7]=false;};
+[1879525867]={[1]="Badge of Forgotten Rank";[2]="These withered badges are held by only the strongest risen dead in Kishâsu's service.";[3]=178;[4]=3;[5]=0;[6]=false;[7]=false;};
 [1879525915]={[1]="Fallen Rogue's Gloves";[2]="";[3]=5;[4]=3;[5]=3;[6]=false;[7]=false;};
 [1879525916]={[1]="Fallen Scout's Crested Helm";[2]="";[3]=7;[4]=3;[5]=3;[6]=false;[7]=false;};
 [1879525918]={[1]="Fallen Warden's Mail Fauld";[2]="";[3]=15;[4]=3;[5]=3;[6]=false;[7]=false;};
@@ -148005,4 +148006,7 @@ _ITEMSDB =
 [1879526302]={[1]="Pride's Rock";[2]="This looks like an ideal spot for lions to relax or play.";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879526782]={[1]="Area for Memorial Stone";[2]="This is a good place for a memorial stone.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879526825]={[1]="Area for Banner";[2]="This is a good place to put Mizâdi's banner, to claim this area for Hamât Renewed.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879527282]={[1]="Fractured Dragon's Maw - Haft";[2]="A piece of the shattered Dragon's Maw.";[3]=38;[4]=3;[5]=0;[6]=false;[7]=false;};
+[1879527283]={[1]="Fractured Dragon's Maw - Mandible";[2]="A piece of the shattered Dragon's Maw.";[3]=38;[4]=3;[5]=0;[6]=false;[7]=false;};
+[1879527284]={[1]="Fractured Dragon's Maw - Head";[2]="A piece of the shattered Dragon's Maw.";[3]=38;[4]=3;[5]=0;[6]=false;[7]=false;};
 };
