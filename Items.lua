@@ -1,5 +1,5 @@
 FIRSTID = 1879049233;
-LASTID  = 1879527284;
+LASTID  = 1879528514;
 
 _ITEMSDB =
 {
@@ -144925,6 +144925,7 @@ _ITEMSDB =
 [1879513414]={[1]="Kinta Tent (Purple)";[2]="";[3]=85;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879513415]={[1]="Small Aloe";[2]="";[3]=85;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879513416]={[1]="Large Cluster of Bleeding Tooth Fungus";[2]="";[3]=85;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879513417]={[1]="Ornate Zajâni Wall Fountain";[2]="";[3]=85;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879513419]={[1]="Small Filigree-domed Zajâni Gazebo";[2]="";[3]=85;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879513420]={[1]="Small Kinta Table (Green)";[2]="";[3]=85;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879513421]={[1]="Large Kinta Abode (Framework)";[2]="";[3]=85;[4]=5;[5]=0;[6]=false;[7]=false;};
@@ -144982,6 +144983,7 @@ _ITEMSDB =
 [1879513479]={[1]="Marble Zajâni Tower";[2]="";[3]=85;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879513480]={[1]="Decorative Yellow Fungal Wall - 10m";[2]="";[3]=291;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879513481]={[1]="Medium Flowering Aloe";[2]="";[3]=85;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879513482]={[1]="Zajâni Sitting Gazebo";[2]="";[3]=85;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879513484]={[1]="Hanging Kinta Awning (Purple)";[2]="";[3]=85;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879513485]={[1]="Large Basket of Lavender";[2]="";[3]=85;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879513486]={[1]="Bushels of Oranges";[2]="";[3]=85;[4]=5;[5]=0;[6]=false;[7]=false;};
@@ -144993,6 +144995,7 @@ _ITEMSDB =
 [1879513492]={[1]="Disconcerting Fungal Floor";[2]="";[3]=83;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879513493]={[1]="Decorative Columnar Salt Wall - 10m";[2]="";[3]=291;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879513494]={[1]="Large Cluster of Brain Fungus";[2]="";[3]=85;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879513495]={[1]="Zajâni Well";[2]="";[3]=85;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879513496]={[1]="Round Zajâni Platform";[2]="";[3]=85;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879513498]={[1]="Decorative Columnar Salt Wall - 20m";[2]="";[3]=291;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879513499]={[1]="Kinta Pavilion (Purple)";[2]="";[3]=85;[4]=5;[5]=0;[6]=false;[7]=false;};
@@ -145015,6 +145018,7 @@ _ITEMSDB =
 [1879513518]={[1]="Decorative Zajâni Scalloped Road";[2]="";[3]=291;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879513519]={[1]="Tall Decorative Columnar Salt Wall - 20m";[2]="";[3]=291;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879513520]={[1]="Simple Kinta Abode (Green)";[2]="";[3]=85;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879513521]={[1]="Zajâni Wall Fountain";[2]="";[3]=85;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879513522]={[1]="Tall Decorative Disconcerting Fungal Wall - 20m";[2]="";[3]=291;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879513523]={[1]="Zajâni Watch-tower";[2]="";[3]=85;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879513524]={[1]="Bushels of Mangoes";[2]="";[3]=85;[4]=5;[5]=0;[6]=false;[7]=false;};
@@ -145464,6 +145468,7 @@ _ITEMSDB =
 [1879515028]={[1]="Empty Shagâni Stone Basin";[2]="";[3]=85;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879515029]={[1]="Large Zajâni Wash Basin";[2]="";[3]=85;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879515030]={[1]="Large Zajâni Bird Bath";[2]="";[3]=85;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879515031]={[1]="Small Zajâni Bird Bath";[2]="";[3]=85;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879515032]={[1]="Domed Ordâkhai Tent";[2]="";[3]=291;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879515033]={[1]="Spiked Ordâkhai Tent";[2]="";[3]=291;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879515034]={[1]="Small Ordâkhai Lean-to";[2]="";[3]=291;[4]=5;[5]=0;[6]=false;[7]=false;};
@@ -147233,7 +147238,7 @@ _ITEMSDB =
 [1879522549]={[1]="Resonant Memorial Ring";[2]="A reminder of the battle fought for Emax Dûl.";[3]=49;[4]=3;[5]=3;[6]=false;[7]=false;};
 [1879522550]={[1]="Resonant Scholar's Signet Ring";[2]="";[3]=49;[4]=3;[5]=3;[6]=false;[7]=false;};
 [1879522551]={[1]="Râkdakul's Insignia";[2]="A cruel insignia, carried amongst the lieutenants of Râkdakul.";[3]=178;[4]=2;[5]=0;[6]=false;[7]=false;};
-[1879522552]={[1]="Cursed Gold Coin";[2]="A gold coin with a curoius mark on its face, which gives you a foul feeling.";[3]=178;[4]=2;[5]=0;[6]=false;[7]=false;};
+[1879522552]={[1]="Cursed Gold Coin";[2]="A gold coin with a curious mark on its face, which gives you a foul feeling.";[3]=178;[4]=2;[5]=0;[6]=false;[7]=false;};
 [1879522553]={[1]="Cracked Ritual Stone";[2]="A violet stone with a black gash in its heart, once used for binding rituals in Ekal-nêbi.";[3]=178;[4]=2;[5]=0;[6]=false;[7]=false;};
 [1879522554]={[1]="Resonant Solid Gold Temámir Ring";[2]="";[3]=49;[4]=3;[5]=3;[6]=false;[7]=false;};
 [1879522555]={[1]="Cold-iron Cloak Clasp";[2]="";[3]=235;[4]=3;[5]=0;[6]=false;[7]=false;};
@@ -148006,7 +148011,24 @@ _ITEMSDB =
 [1879526302]={[1]="Pride's Rock";[2]="This looks like an ideal spot for lions to relax or play.";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879526782]={[1]="Area for Memorial Stone";[2]="This is a good place for a memorial stone.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879526825]={[1]="Area for Banner";[2]="This is a good place to put Mizâdi's banner, to claim this area for Hamât Renewed.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
-[1879527282]={[1]="Fractured Dragon's Maw - Haft";[2]="A piece of the shattered Dragon's Maw.";[3]=38;[4]=3;[5]=0;[6]=false;[7]=false;};
-[1879527283]={[1]="Fractured Dragon's Maw - Mandible";[2]="A piece of the shattered Dragon's Maw.";[3]=38;[4]=3;[5]=0;[6]=false;[7]=false;};
-[1879527284]={[1]="Fractured Dragon's Maw - Head";[2]="A piece of the shattered Dragon's Maw.";[3]=38;[4]=3;[5]=0;[6]=false;[7]=false;};
+[1879526836]={[1]="The Dragon's Maw - Staff";[2]="Though the terrible dread once found in this staff has fled, its reassembled pieces still carry an undeniable power.";[3]=34;[4]=1;[5]=6;[6]=false;[7]=false;};
+[1879526837]={[1]="The Dragon's Maw - Spear";[2]="Though it spent untold years in the form of a staff, this ancient tooth still has some bite left.";[3]=46;[4]=1;[5]=6;[6]=false;[7]=false;};
+[1879526838]={[1]="The Dragon's Maw - Pole-arm";[2]="Though shattered and reassembled, this weapon is made of dragon-bone, and is remarkably sturdy.";[3]=36;[4]=1;[5]=6;[6]=false;[7]=false;};
+[1879527282]={[1]="Fractured Dragon's Maw - Haft";[2]="A piece of the shattered Dragon's Maw. Mizâdi's Advance Guard Quartermaster may know what to do with this.";[3]=38;[4]=3;[5]=0;[6]=false;[7]=false;};
+[1879527283]={[1]="Fractured Dragon's Maw - Mandible";[2]="A piece of the shattered Dragon's Maw. Mizâdi's Advance Guard Quartermaster may know what to do with this.";[3]=38;[4]=3;[5]=0;[6]=false;[7]=false;};
+[1879527284]={[1]="Fractured Dragon's Maw - Head";[2]="A piece of the shattered Dragon's Maw. Mizâdi's Advance Guard Quartermaster may know what to do with this.";[3]=38;[4]=3;[5]=0;[6]=false;[7]=false;};
+[1879527293]={[1]="Fractured Dragon's Maw - Incomplete";[2]="Recollected pieces of the shattered Dragon's Maw.";[3]=38;[4]=1;[5]=0;[6]=false;[7]=false;};
+[1879528481]={[1]="Elk of the Flowering Sun";[2]="You can use this token to learn a skill to call this mount. Using this token will grant you the Elk of the Flowering Sun.";[3]=8;[4]=5;[5]=0;[6]=false;[7]=true;};
+[1879528486]={[1]="Tome of the Eagle-Owl of the Flowering Sun";[2]="Using this item will teach you to summon an eagle-owl companion.";[3]=186;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879528487]={[1]="Dress of the Flowering Sun";[2]="";[3]=182;[4]=5;[5]=6;[6]=false;[7]=false;};
+[1879528488]={[1]="Cloak of the Flowering Sun";[2]="";[3]=97;[4]=5;[5]=6;[6]=false;[7]=false;};
+[1879528489]={[1]="Tunic and Trousers of the Flowering Sun";[2]="";[3]=182;[4]=5;[5]=6;[6]=false;[7]=false;};
+[1879528490]={[1]="Hooded Cloak of the Flowering Sun";[2]="";[3]=97;[4]=5;[5]=6;[6]=false;[7]=false;};
+[1879528491]={[1]="Garden Table of the Flowering Sun";[2]="";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879528492]={[1]="Garden Chair of the Flowering Sun";[2]="";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879528495]={[1]="Flowering Sun Garments - Gift-wrapped Selection Box";[2]="A garment of the flowering sun, packaged, and ready to gift to someone special in your life. Use to select a garment of your choice.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879528511]={[1]="Temámir Token of Friendship";[2]="A token of friendship from the Temámir Dwarves of Jiret-menêsh.";[3]=38;[4]=3;[5]=0;[6]=false;[7]=false;};
+[1879528512]={[1]="Kinta Token of Friendship";[2]="A token of friendship from the Kintai Elves of Sul Madásh.";[3]=38;[4]=3;[5]=0;[6]=false;[7]=false;};
+[1879528513]={[1]="Purification Tincture";[2]="A tincture of purification from the Kintai battling the Pale Blight.";[3]=38;[4]=3;[5]=0;[6]=false;[7]=false;};
+[1879528514]={[1]="Zajâni Token of Friendship";[2]="A token of friendship from the Doorwards of Zajâna.";[3]=38;[4]=3;[5]=0;[6]=false;[7]=false;};
 };
