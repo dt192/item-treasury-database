@@ -1,5 +1,5 @@
 FIRSTID = 1879049233;
-LASTID  = 1879530562;
+LASTID  = 1879530899;
 
 _ITEMSDB =
 {
@@ -19075,10 +19075,10 @@ _ITEMSDB =
 [1879097817]={[1]="Turquoise Earring";[2]="A small earring fashioned from turquoise.";[3]=49;[4]=3;[5]=3;[6]=false;[7]=true;};
 [1879097819]={[1]="Trimmed Cloak";[2]="";[3]=45;[4]=2;[5]=4;[6]=false;[7]=false;};
 [1879097824]={[1]="Door";[2]="";[3]=53;[4]=0;[5]=0;[6]=false;[7]=false;};
-[1879097903]={[1]="Phial of Gundzor's Breath";[2]="The smell from this vial is enough to drop an eagle from a Stone-troll. It will surely free you from a stun or daze.";[3]=28;[4]=4;[5]=0;[6]=false;[7]=false;};
+[1879097903]={[1]="Phial of Gundzor's Breath";[2]="The smell from this vial is enough to drop an eagle from a Stone-troll. It will surely free you from a stun or daze.";[3]=28;[4]=2;[5]=0;[6]=false;[7]=false;};
 [1879097904]={[1]="Phial of Mazauk's Resolve";[2]="Removes a fear effect.";[3]=28;[4]=2;[5]=0;[6]=false;[7]=false;};
 [1879097905]={[1]="Phial of Gorgoris' Kiss";[2]="Removes a poison effect.";[3]=28;[4]=2;[5]=0;[6]=false;[7]=false;};
-[1879097906]={[1]="Phial of Bûrzgoth's Strength";[2]="Bottled troll strength, only good for the legs. Helps you break free of roots.";[3]=28;[4]=4;[5]=0;[6]=false;[7]=false;};
+[1879097906]={[1]="Phial of Bûrzgoth's Strength";[2]="Bottled troll strength, only good for the legs. Helps you break free of roots.";[3]=28;[4]=2;[5]=0;[6]=false;[7]=false;};
 [1879097907]={[1]="Steamed Leg of Man";[2]="A healthy way of enjoying Leg of Man.";[3]=55;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879097908]={[1]="Charred and Crusty Leg of Man";[2]="Spit-roasting imparts a distinct flavour to leg of Man.";[3]=55;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879097909]={[1]="Marinated Leg of Man";[2]="Marinated in Grothum's own marinade.";[3]=55;[4]=5;[5]=0;[6]=false;[7]=false;};
@@ -40722,8 +40722,8 @@ _ITEMSDB =
 [1879145045]={[1]="Crafted Burglar's Mace of the Third Age Recipe";[2]="Using this scroll grants a Supreme Weaponsmith's Guild recipe. This recipe produces a level 60 legendary item.";[3]=124;[4]=2;[5]=0;[6]=false;[7]=false;};
 [1879145049]={[1]="Solvent of Release";[2]="The solvent frees you from confinement, but at the cost of some health. This item can only be used in PvMP areas.";[3]=28;[4]=4;[5]=0;[6]=false;[7]=false;};
 [1879145050]={[1]="Salt of Hartshorn";[2]="The salt hastens your recovery when stunned or dazed, but at the cost of some health. This item can only be used in PvMP areas.";[3]=28;[4]=4;[5]=0;[6]=false;[7]=false;};
-[1879145051]={[1]="Phial of Unbinding";[2]="A phial of pure solvent to help you break free of roots. This item can only be used in PvMP areas.";[3]=28;[4]=4;[5]=0;[6]=false;[7]=false;};
-[1879145052]={[1]="Phial of Aromatic Spirits";[2]="A harmonious aroma wafts toward you as you open the phial. It will surely free you from a stun or daze. This item can only be used in PvMP areas.";[3]=28;[4]=4;[5]=0;[6]=false;[7]=false;};
+[1879145051]={[1]="Phial of Unbinding";[2]="A phial of pure solvent to help you break free of roots. This item can only be used in PvMP areas.";[3]=28;[4]=2;[5]=0;[6]=false;[7]=false;};
+[1879145052]={[1]="Phial of Aromatic Spirits";[2]="A harmonious aroma wafts toward you as you open the phial. It will surely free you from a stun or daze. This item can only be used in PvMP areas.";[3]=28;[4]=2;[5]=0;[6]=false;[7]=false;};
 [1879145096]={[1]="Legendary Shard";[2]="Small shards of a legendary item. Crafters can use these to make new legendary weapons and items.";[3]=56;[4]=3;[5]=0;[6]=false;[7]=false;};
 [1879145099]={[1]="Test IA LP reset";[2]="This is a test IA LP Rest,. I reset your legendary points on an Advancement item.";[3]=108;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879145103]={[1]="Plaque";[2]="An ancient plaque with a symbol carved upon it.'";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
@@ -148179,7 +148179,7 @@ _ITEMSDB =
 [1879525854]={[1]="Supreme Raid Mariner Gear";[2]="A full set of Supreme Raid gear";[3]=27;[4]=5;[5]=0;[6]=false;[7]=true;};
 [1879525855]={[1]="Greater Raid Mariner Gear";[2]="A full set of Greater Raid gear";[3]=27;[4]=5;[5]=0;[6]=false;[7]=true;};
 [1879525865]={[1]="Toll Copper";[2]="This fragile coin fell from a wight in the Hatokáli Fells. Perhaps it was part of an ancient burial ritual, but the fell spirits inhabiting the Dead speak not of the past, so its purpose remains unknown.";[3]=178;[4]=2;[5]=0;[6]=false;[7]=false;};
-[1879525867]={[1]="Badge of Forgotten Rank";[2]="These withered badges are held by only the strongest risen dead in Kishâsu's service.";[3]=178;[4]=2;[5]=0;[6]=false;[7]=false;};
+[1879525867]={[1]="Badge of Forgotten Rank";[2]="These withered badges are held by only the strongest risen Dead in Kishâsu's service.";[3]=178;[4]=3;[5]=0;[6]=false;[7]=false;};
 [1879525915]={[1]="Fallen Rogue's Gloves";[2]="";[3]=5;[4]=3;[5]=3;[6]=false;[7]=false;};
 [1879525916]={[1]="Fallen Scout's Crested Helm";[2]="";[3]=7;[4]=3;[5]=3;[6]=false;[7]=false;};
 [1879525918]={[1]="Fallen Warden's Mail Fauld";[2]="";[3]=15;[4]=3;[5]=3;[6]=false;[7]=false;};
@@ -148716,4 +148716,8 @@ _ITEMSDB =
 [1879530555]={[1]="Tome of the Calf of High-land Pastures";[2]="Using this item will teach you to summon a high-land calf.";[3]=186;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879530556]={[1]="Goat of High-land Pastures";[2]="You can use this token to learn a skill to call this mount. Using this token will grant you the Goat of High-land Pastures.";[3]=8;[4]=5;[5]=0;[6]=false;[7]=true;};
 [1879530562]={[1]="Garments of High-land Pastures - Gift-wrapped Selection Box";[2]="A garment of high-land pastures, packaged, and ready to gift to someone special in your life. Use to select a garment of your choice.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879530731]={[1]="Bill the Pony, Loyal Companion";[2]="A loyal steed to watch over your property in your absence. Pony feed not provided.";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879530896]={[1]="Battle of Pelennor Armour Token - Legs or Shoulder";[2]="Bring this badge to the Pelennor Battle Rewards Quartermaster to trade for your desired Quays of the Harlond armour piece.";[3]=178;[4]=3;[5]=0;[6]=false;[7]=false;};
+[1879530897]={[1]="Battle of Pelennor Armour Token - Chest or Head";[2]="Bring this badge to the Pelennor Battle Rewards Quartermaster to trade for your desired Silent Street armour piece.";[3]=178;[4]=3;[5]=0;[6]=false;[7]=false;};
+[1879530899]={[1]="Battle of Pelennor Armour Token - Feet or Hands";[2]="Bring this badge to the Pelennor Battle Rewards Quartermaster to trade for your desired Blood of the Black Serpent armour piece.";[3]=178;[4]=3;[5]=0;[6]=false;[7]=false;};
 };
