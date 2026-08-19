@@ -148765,7 +148765,7 @@ _ITEMSDB =
 [1879531410]={[1]="Title: The Malevolent";[2]="Contains the 'The Malevolent' Title.";[3]=27;[4]=3;[5]=0;[6]=false;[7]=false;};
 [1879531436]={[1]="Season of Renewed Aggression Free People Frame";[2]="This item, when used, will grant you a new portrait frame. You can trade this item to other players or place it on the auction house. Warning: If you have already acquired this portrait frame, using this item will consume the item and have no further effect.";[3]=205;[4]=5;[5]=0;[6]=false;[7]=true;};
 [1879531437]={[1]="Season of Renewed Aggression Frame";[2]="This item, when used, will grant you a new portrait frame.";[3]=205;[4]=5;[5]=0;[6]=false;[7]=true;};
-[1879531513]={[1]="Grant the Promise Sword Emote";[2]="Using this item will grant you the Promised Allies milestone travel style emote (/milestone_promise).";[3]=174;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879531513]={[1]="Grant the Promise Sword Emote";[2]="Using this item will grant you the Promise Sword emote (/promise_sword).";[3]=174;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879531514]={[1]="Dol Guldur Uncomfortable Chair";[2]="A replica of a chair from Dol Guldur.";[3]=85;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879531515]={[1]="Ancient Table";[2]="";[3]=85;[4]=5;[5]=0;[6]=false;[7]=false;};
 };
