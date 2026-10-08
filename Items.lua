@@ -1,5 +1,5 @@
 FIRSTID = 1879049233;
-LASTID  = 1879536195;
+LASTID  = 1879537178;
 
 _ITEMSDB =
 {
@@ -141641,6 +141641,9 @@ _ITEMSDB =
 [1879498877]={[1]="'Confronting Angmar' Tapestry";[2]="";[3]=88;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879498878]={[1]="'Razing Angmar' Tapestry";[2]="";[3]=88;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879498895]={[1]="Racked Kegs";[2]="";[3]=85;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879498896]={[1]="Small Bonepile";[2]="";[3]=85;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879498897]={[1]="Medium Bonepile";[2]="";[3]=85;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879498898]={[1]="Large Bonepile";[2]="";[3]=85;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879498899]={[1]="Small Flowering Bone-pile";[2]="";[3]=85;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879498903]={[1]="Library Podium";[2]="";[3]=85;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879498904]={[1]="Ancient Cabinet";[2]="";[3]=85;[4]=5;[5]=0;[6]=false;[7]=false;};
@@ -144868,7 +144871,7 @@ _ITEMSDB =
 [1879512484]={[1]="Hero's Trinket";[2]="";[3]=49;[4]=3;[5]=3;[6]=false;[7]=false;};
 [1879512494]={[1]="Valar Weapon Pack - 160";[2]="Contains weapons to get you started. All contents will be bound to your character.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879512497]={[1]="Valar Items Pack - 160";[2]="Contains a number of items to help you get started. All contents will be bound to your account.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
-[1879512498]={[1]="Valar Level Boost - 160";[2]="This item brings you instantly to level 160. When used you will receive Seeker of Deep Places, War-Steed Riding, and Valar Instance and Skirmish Access. When used, you will be teleported to TBD.";[3]=173;[4]=1;[5]=0;[6]=false;[7]=false;};
+[1879512498]={[1]="Valar Level Boost - 160";[2]="This item brings you instantly to level 160. When used you will receive Seeker of Deep Places, War-Steed Riding, War-steed, and Valar Instance and Skirmish Access. When used, you will be teleported to Zajâna.";[3]=173;[4]=1;[5]=0;[6]=false;[7]=false;};
 [1879512515]={[1]="Hero's Sword";[2]="";[3]=44;[4]=3;[5]=3;[6]=false;[7]=false;};
 [1879512517]={[1]="Hero's Club";[2]="";[3]=40;[4]=3;[5]=3;[6]=false;[7]=false;};
 [1879512520]={[1]="Hero's Axe";[2]="";[3]=12;[4]=3;[5]=3;[6]=false;[7]=false;};
@@ -146334,6 +146337,10 @@ _ITEMSDB =
 [1879517274]={[1]="Adorned Marble Ritual Obelisk";[2]="";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879517275]={[1]="Large Marble Ritual Obelisk";[2]="";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879517276]={[1]="Large Adorned Marble Ritual Obelisk";[2]="";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879517277]={[1]="Dark Ritual Altar";[2]="";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879517278]={[1]="Blood-stained Dark Ritual Altar";[2]="";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879517279]={[1]="Marble Ritual Altar";[2]="";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879517280]={[1]="Blood-stained Marble Ritual Altar";[2]="";[3]=87;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879517281]={[1]="Symbol of Ordâkh";[2]="";[3]=85;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879517282]={[1]="Small Dark Ritual Brazier";[2]="";[3]=85;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879517283]={[1]="Medium Dark Ritual Brazier";[2]="";[3]=85;[4]=5;[5]=0;[6]=false;[7]=false;};
@@ -149077,4 +149084,22 @@ _ITEMSDB =
 [1879536192]={[1]="Large Crate of Rare Ore Ingredients";[2]="Select from rare and optional ore ingredients appropriate for any crafting tier available.";[3]=27;[4]=4;[5]=0;[6]=false;[7]=false;};
 [1879536193]={[1]="Large Crate of Rare Wood Ingredients";[2]="Select logs of rare and optional wood ingredients appropriate for any crafting tier available.";[3]=27;[4]=4;[5]=0;[6]=false;[7]=false;};
 [1879536195]={[1]="Large Crate of Cook Ingredients";[2]="Select from cook ingredients appropriate for any crafting tier available.";[3]=27;[4]=4;[5]=0;[6]=false;[7]=false;};
+[1879536593]={[1]="Hood of the Midnight Raven";[2]="";[3]=183;[4]=5;[5]=6;[6]=false;[7]=false;};
+[1879536594]={[1]="Cloak of the Midnight Raven";[2]="";[3]=97;[4]=5;[5]=6;[6]=false;[7]=false;};
+[1879536595]={[1]="Robe of the Midnight Raven";[2]="";[3]=182;[4]=5;[5]=6;[6]=false;[7]=false;};
+[1879536596]={[1]="Scarf of the Midnight Raven";[2]="";[3]=181;[4]=5;[5]=6;[6]=false;[7]=false;};
+[1879536597]={[1]="Boots of the Midnight Raven";[2]="";[3]=180;[4]=5;[5]=6;[6]=false;[7]=false;};
+[1879536598]={[1]="Working Table of the Midnight Raven";[2]="";[3]=85;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879536599]={[1]="Chair of the Midnight Raven";[2]="";[3]=85;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879536600]={[1]="Table of the Midnight Raven";[2]="";[3]=85;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879536606]={[1]="Tome of the Midnight Raven";[2]="Using this item will teach you to summon a midnight raven.";[3]=186;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879536630]={[1]="Steed of the Midnight Raven";[2]="You can use this token to learn a skill to call this mount. Using this token will grant you the Steed of the Midnight Raven.";[3]=8;[4]=5;[5]=0;[6]=false;[7]=true;};
+[1879536635]={[1]="Head-piece of the Midnight Raven";[2]="This item will reward your character with the Mounted Combat appearance trait, Head-piece of the Midnight Raven.";[3]=173;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879536636]={[1]="Accessory of the Midnight Raven";[2]="This item will reward your character with the Mounted Combat appearance trait, Accessory of the Midnight Raven.";[3]=173;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879536637]={[1]="Leg-guards of the Midnight Raven";[2]="This item will reward your character with the Mounted Combat appearance trait, Leg-guards of the Midnight Raven.";[3]=173;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879536638]={[1]="Caparison of the Midnight Raven";[2]="This item will reward your character with the Mounted Combat appearance trait, Caparison of the Midnight Raven.";[3]=173;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879536640]={[1]="Garments of the Midnight Raven - Gift-wrapped Selection Box";[2]="A garment of the midnight raven, packaged, and ready to gift to someone special in your life. Use to select a garment of your choice.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879536642]={[1]="War-steed Cosmetics of the Midnight Raven";[2]="Contains War-steed appearances of the Midnight Raven. Using this item will bind all contents to your character.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879537175]={[1]="Level-up 160";[2]="This item brings you instantly to level 160. When used you will receive Seeker of Deep Places, War-Steed Riding, War-steed, and Valar Instance and Skirmish Access. When used, you will be teleported to Zajâna.";[3]=173;[4]=1;[5]=0;[6]=false;[7]=false;};
+[1879537178]={[1]="160 level-up package";[2]="Contains everything you need to instantly become level 160.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 };
