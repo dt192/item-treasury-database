@@ -149101,5 +149101,5 @@ _ITEMSDB =
 [1879536640]={[1]="Garments of the Midnight Raven - Gift-wrapped Selection Box";[2]="A garment of the midnight raven, packaged, and ready to gift to someone special in your life. Use to select a garment of your choice.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879536642]={[1]="War-steed Cosmetics of the Midnight Raven";[2]="Contains War-steed appearances of the Midnight Raven. Using this item will bind all contents to your character.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 [1879537175]={[1]="Level-up 160";[2]="This item brings you instantly to level 160. When used you will receive Seeker of Deep Places, War-Steed Riding, War-steed, and Valar Instance and Skirmish Access. When used, you will be teleported to Zajâna.";[3]=173;[4]=1;[5]=0;[6]=false;[7]=false;};
-[1879537178]={[1]="160 level-up package";[2]="Contains everything you need to instantly become level 160.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
+[1879537178]={[1]="160 level-up package";[2]="Contains everything you need to instantly become level 160. Using this item will bind all contents to your character.";[3]=27;[4]=5;[5]=0;[6]=false;[7]=false;};
 };
