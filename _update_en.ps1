@@ -41,5 +41,9 @@ download `
     -to ".\Items.lua"
 
 download `
+    -from "https://github.com/dt192/item-treasury-database/raw/patch/Items2.lua" `
+    -to ".\Items2.lua"
+
+download `
     -from "https://github.com/dt192/item-treasury-database/raw/patch/NewItems.lua" `
     -to ".\NewItems.lua"

@@ -4,8 +4,13 @@ This should be an up to date (assuming I'm still maintaining it) pair of data fi
 
 ---
 
+## Note: Change of structure after U50
+Due to lua constant table limits the `Items.lua` had to be split into multiple files -  `Items.lua` and `Items2.lua`
+
+---
+
 ## How to install manually
-Add `Items.lua` and `NewItems.lua` to:<br/>
+Add `Items.lua`, `Items2.lua` and `NewItems.lua` to:<br/>
 `Documents\The Lord of the Rings Online\Plugins\GaluhadPlugins\ItemTreasury`
 
 <details>
@@ -53,11 +58,10 @@ The Russian version of the scripts can be found on [William's GitHub](https://gi
 	[5] = (number)Durability;
 	[6] = (boolean)IsMagic;
 	[7] = (boolean)IsUnique;
-	[8] = (number)IconImageID; 	--removed since U44
-	[9] = (number)BackgroundImageID;--removed since U44
+	[8] = (number)IconImageID;
+	[9] = (number)BackgroundImageID;
 };
 ```
-Note: Beacause of lua limit on constants saved in table, the ImageIDs were removed since U44. See https://github.com/dt192/item-treasury-database/issues/3.
 
 ---
 
