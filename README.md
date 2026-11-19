@@ -68,6 +68,7 @@ The Russian version of the scripts can be found on [William's GitHub](https://gi
 See [major branch](https://github.com/dt192/item-treasury-database/tree/major) for changes between major game updates.
 
 ---
+| 2026-11-19    | 50.2.0        | 13            | 16            | -             | [e038a67](https://github.com/dt192/item-treasury-database/commit/e038a679ddd87f07c2f8b8b5fe18f6ed016609fa) |
 
 ## History (newest first)
 | Date          | Update        | Additions     | Changes       | Removals      | Diff                                                                      |
